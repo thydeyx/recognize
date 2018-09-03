@@ -1,0 +1,1165 @@
+img_87.jpg (720, 960, 3)
+img_105.jpg (720, 960, 3)
+img_101.jpg (720, 960, 3)
+img_75.jpg (720, 960, 3)
+img_106.jpg (720, 960, 3)
+img_49.jpg (720, 960, 3)
+img_23.png (720, 960, 3)
+img_129.jpg (720, 960, 3)
+img_110.jpg (720, 960, 3)
+img_116.jpg (720, 960, 3)
+img_55.jpg (720, 960, 3)
+img_50.jpg (720, 960, 3)
+img_119.jpg (720, 960, 3)
+img_31.png (720, 960, 3)
+img_28.png (720, 960, 3)
+img_131.jpg (720, 960, 3)
+img_97.jpg (720, 960, 3)
+img_109.png (720, 960, 3)
+img_71.jpg (720, 960, 3)
+img_117.jpg (720, 960, 3)
+img_47.jpg (720, 960, 3)
+img_29.png (720, 960, 3)
+img_98.jpg (720, 960, 3)
+img_65.jpg (720, 960, 3)
+img_126.jpg (720, 960, 3)
+img_120.jpg (720, 960, 3)
+img_69.jpg (720, 960, 3)
+img_137.jpg (720, 960, 3)
+img_27.png (720, 960, 3)
+img_141.jpg (720, 960, 3)
+img_139.jpg (720, 960, 3)
+img_7.png (720, 960, 3)
+img_77.jpg (720, 960, 3)
+img_125.jpg (720, 960, 3)
+img_39.jpg (720, 960, 3)
+img_68.jpg (720, 960, 3)
+img_78.jpg (720, 960, 3)
+img_103.jpg (720, 960, 3)
+img_36.jpg (720, 960, 3)
+img_8.png (720, 960, 3)
+img_96.jpg (720, 960, 3)
+img_45.jpg (720, 960, 3)
+img_123.jpg (720, 960, 3)
+img_134.jpg (720, 960, 3)
+img_86.jpg (720, 960, 3)
+img_3.jpg (720, 960, 3)
+img_2.jpg (720, 960, 3)
+img_40.jpg (720, 960, 3)
+img_33.png (720, 960, 3)
+img_10.png (720, 960, 3)
+img_133.jpg (720, 960, 3)
+img_30.png (720, 960, 3)
+img_118.jpg (720, 960, 3)
+img_22.png (720, 960, 3)
+img_95.jpg (720, 960, 3)
+img_90.jpg (720, 960, 3)
+img_20.png (720, 960, 3)
+img_46.jpg (720, 960, 3)
+img_130.jpg (720, 960, 3)
+img_136.jpg (720, 960, 3)
+img_57.jpg (720, 960, 3)
+img_4.jpg (720, 960, 3)
+img_88.jpg (720, 960, 3)
+img_113.jpg (720, 960, 3)
+img_124.jpg (720, 960, 3)
+img_58.jpg (720, 960, 3)
+img_79.jpg (720, 960, 3)
+img_114.jpg (720, 960, 3)
+img_17.png (720, 960, 3)
+img_16.png (720, 960, 3)
+img_52.jpg (720, 960, 3)
+img_60.jpg (720, 960, 3)
+img_132.jpg (720, 960, 3)
+img_108.jpg (720, 960, 3)
+img_5.png (720, 960, 3)
+img_76.jpg (720, 960, 3)
+img_85.jpg (720, 960, 3)
+img_1.jpg (720, 960, 3)
+img_127.jpg (720, 960, 3)
+img_104.jpg (720, 960, 3)
+img_24.png (720, 960, 3)
+img_100.jpg (720, 960, 3)
+img_14.png (720, 960, 3)
+img_6.png (720, 960, 3)
+img_13.jpg (720, 960, 3)
+img_66.jpg (720, 960, 3)
+img_121.jpg (720, 960, 3)
+img_107.jpg (720, 960, 3)
+img_72.jpg (720, 960, 3)
+img_80.jpg (720, 960, 3)
+img_92.jpg (720, 960, 3)
+img_74.jpg (720, 960, 3)
+img_15.png (720, 960, 3)
+img_83.jpg (720, 960, 3)
+img_59.jpg (720, 960, 3)
+img_84.jpg (720, 960, 3)
+img_37.jpg (720, 960, 3)
+img_34.jpg (720, 960, 3)
+img_81.jpg (720, 960, 3)
+img_35.jpg (720, 960, 3)
+img_61.jpg (720, 960, 3)
+img_32.png (720, 960, 3)
+img_140.jpg (720, 960, 3)
+img_67.jpg (720, 960, 3)
+img_19.png (720, 960, 3)
+img_41.jpg (720, 960, 3)
+img_54.jpg (720, 960, 3)
+img_73.jpg (720, 960, 3)
+img_102.jpg (720, 960, 3)
+img_111.jpg (720, 960, 3)
+img_122.jpg (720, 960, 3)
+img_48.jpg (720, 960, 3)
+img_62.jpg (720, 960, 3)
+img_63.jpg (720, 960, 3)
+img_21.png (720, 960, 3)
+img_112.jpg (720, 960, 3)
+img_99.png (720, 960, 3)
+img_25.png (720, 960, 3)
+img_70.jpg (720, 960, 3)
+img_135.jpg (720, 960, 3)
+img_12.jpg (720, 960, 3)
+img_26.png (720, 960, 3)
+img_42.jpg (720, 960, 3)
+img_93.jpg (720, 960, 3)
+img_9.jpg (720, 960, 3)
+img_53.jpg (720, 960, 3)
+img_82.jpg (720, 960, 3)
+img_91.jpg (720, 960, 3)
+img_44.jpg (720, 960, 3)
+img_56.jpg (720, 960, 3)
+img_51.jpg (720, 960, 3)
+img_138.jpg (720, 960, 3)
+img_64.jpg (720, 960, 3)
+img_18.png (720, 960, 3)
+img_43.jpg (720, 960, 3)
+img_38.jpg (720, 960, 3)
+img_11.png (720, 960, 3)
+img_115.jpg (720, 960, 3)
+img_94.jpg (720, 960, 3)
+img_89.jpg (720, 960, 3)
+proposal size: 54000
+image_name: img_73, fgsize: 223
+image_name: img_79, fgsize: 27
+image_name: img_119, fgsize: 458
+image_name: img_90, fgsize: 78
+image_name: img_139, fgsize: 274
+image_name: img_5, fgsize: 114
+image_name: img_43, fgsize: 263
+image_name: img_34, fgsize: 76
+image_name: img_54, fgsize: 32
+image_name: img_74, fgsize: 129
+image_name: img_109, fgsize: 283
+image_name: img_48, fgsize: 33
+image_name: img_25, fgsize: 143
+image_name: img_41, fgsize: 327
+image_name: img_7, fgsize: 118
+image_name: img_118, fgsize: 61
+image_name: img_121, fgsize: 210
+image_name: img_28, fgsize: 287
+image_name: img_60, fgsize: 0
+image_name: img_6, fgsize: 0
+image_name: img_101, fgsize: 183
+image_name: img_70, fgsize: 39
+image_name: img_137, fgsize: 371
+image_name: img_49, fgsize: 89
+image_name: img_44, fgsize: 41
+image_name: img_68, fgsize: 285
+image_name: img_123, fgsize: 188
+image_name: img_38, fgsize: 181
+image_name: img_45, fgsize: 399
+image_name: img_62, fgsize: 76
+image_name: img_19, fgsize: 422
+image_name: img_20, fgsize: 98
+image_name: img_75, fgsize: 21
+image_name: img_10, fgsize: 280
+image_name: img_85, fgsize: 132
+image_name: img_86, fgsize: 145
+image_name: img_37, fgsize: 42
+image_name: img_66, fgsize: 65
+image_name: img_99, fgsize: 99
+image_name: img_36, fgsize: 161
+image_name: img_125, fgsize: 230
+image_name: img_93, fgsize: 84
+image_name: img_9, fgsize: 102
+image_name: img_135, fgsize: 115
+image_name: img_116, fgsize: 10
+image_name: img_15, fgsize: 69
+image_name: img_51, fgsize: 210
+image_name: img_111, fgsize: 426
+image_name: img_78, fgsize: 149
+image_name: img_89, fgsize: 43
+image_name: img_21, fgsize: 220
+image_name: img_29, fgsize: 335
+image_name: img_127, fgsize: 22
+image_name: img_92, fgsize: 59
+image_name: img_39, fgsize: 87
+image_name: img_110, fgsize: 364
+image_name: img_97, fgsize: 147
+image_name: img_136, fgsize: 327
+image_name: img_114, fgsize: 12
+image_name: img_47, fgsize: 28
+image_name: img_104, fgsize: 51
+image_name: img_3, fgsize: 4
+image_name: img_61, fgsize: 144
+image_name: img_113, fgsize: 31
+image_name: img_106, fgsize: 20
+image_name: img_17, fgsize: 228
+image_name: img_84, fgsize: 57
+image_name: img_94, fgsize: 146
+image_name: img_120, fgsize: 212
+image_name: img_8, fgsize: 33
+image_name: img_22, fgsize: 264
+image_name: img_124, fgsize: 84
+image_name: img_18, fgsize: 303
+image_name: img_87, fgsize: 95
+image_name: img_67, fgsize: 230
+image_name: img_31, fgsize: 161
+image_name: img_16, fgsize: 87
+image_name: img_77, fgsize: 26
+image_name: img_4, fgsize: 2
+image_name: img_134, fgsize: 322
+image_name: img_26, fgsize: 105
+image_name: img_23, fgsize: 258
+image_name: img_53, fgsize: 0
+image_name: img_46, fgsize: 33
+image_name: img_35, fgsize: 62
+image_name: img_24, fgsize: 139
+image_name: img_55, fgsize: 134
+image_name: img_2, fgsize: 45
+image_name: img_81, fgsize: 158
+image_name: img_56, fgsize: 410
+image_name: img_96, fgsize: 119
+image_name: img_88, fgsize: 33
+image_name: img_138, fgsize: 277
+image_name: img_131, fgsize: 156
+image_name: img_32, fgsize: 187
+image_name: img_141, fgsize: 120
+image_name: img_76, fgsize: 64
+image_name: img_117, fgsize: 250
+image_name: img_100, fgsize: 273
+image_name: img_14, fgsize: 127
+image_name: img_64, fgsize: 30
+image_name: img_30, fgsize: 306
+image_name: img_11, fgsize: 1
+image_name: img_133, fgsize: 28
+image_name: img_1, fgsize: 66
+image_name: img_129, fgsize: 144
+image_name: img_83, fgsize: 71
+image_name: img_50, fgsize: 410
+image_name: img_12, fgsize: 48
+image_name: img_42, fgsize: 152
+image_name: img_108, fgsize: 513
+image_name: img_91, fgsize: 125
+image_name: img_59, fgsize: 31
+image_name: img_40, fgsize: 256
+image_name: img_132, fgsize: 270
+image_name: img_69, fgsize: 0
+image_name: img_115, fgsize: 65
+image_name: img_72, fgsize: 237
+image_name: img_105, fgsize: 84
+image_name: img_112, fgsize: 292
+image_name: img_98, fgsize: 103
+image_name: img_52, fgsize: 251
+image_name: img_95, fgsize: 285
+image_name: img_57, fgsize: 86
+image_name: img_122, fgsize: 214
+image_name: img_13, fgsize: 106
+image_name: img_63, fgsize: 14
+image_name: img_103, fgsize: 67
+image_name: img_33, fgsize: 16
+image_name: img_82, fgsize: 249
+image_name: img_80, fgsize: 279
+image_name: img_130, fgsize: 20
+image_name: img_71, fgsize: 419
+image_name: img_65, fgsize: 38
+image_name: img_102, fgsize: 69
+image_name: img_27, fgsize: 150
+image_name: img_58, fgsize: 176
+image_name: img_140, fgsize: 214
+image_name: img_126, fgsize: 124
+image_name: img_107, fgsize: 31
+Image Size: (720, 960, 3)
+Region Num: 1675
+
+
+op id 0 : op name: "images"
+input(s):
+
+output(s):
+name = images:0, shape: (?, 224, 224, 3),
+
+
+op id 1 : op name: "keep_prob"
+input(s):
+
+output(s):
+name = keep_prob:0, shape: <unknown>,
+
+
+op id 2 : op name: "sub/y"
+input(s):
+
+output(s):
+name = sub/y:0, shape: (3,),
+
+
+op id 3 : op name: "sub"
+input(s):
+name = images:0, shape: (?, 224, 224, 3), 
+name = sub/y:0, shape: (3,), 
+
+output(s):
+name = sub:0, shape: (?, 224, 224, 3),
+
+
+op id 4 : op name: "vgg16/conv1_1/filter"
+input(s):
+
+output(s):
+name = vgg16/conv1_1/filter:0, shape: (3, 3, 3, 64),
+
+
+op id 5 : op name: "vgg16/conv1_1/Conv2D"
+input(s):
+name = sub:0, shape: (?, 224, 224, 3), 
+name = vgg16/conv1_1/filter:0, shape: (3, 3, 3, 64), 
+
+output(s):
+name = vgg16/conv1_1/Conv2D:0, shape: (?, 224, 224, 64),
+
+
+op id 6 : op name: "vgg16/conv1_1/biases"
+input(s):
+
+output(s):
+name = vgg16/conv1_1/biases:0, shape: (64,),
+
+
+op id 7 : op name: "vgg16/conv1_1/BiasAdd"
+input(s):
+name = vgg16/conv1_1/Conv2D:0, shape: (?, 224, 224, 64), 
+name = vgg16/conv1_1/biases:0, shape: (64,), 
+
+output(s):
+name = vgg16/conv1_1/BiasAdd:0, shape: (?, 224, 224, 64),
+
+
+op id 8 : op name: "vgg16/conv1_1/Relu"
+input(s):
+name = vgg16/conv1_1/BiasAdd:0, shape: (?, 224, 224, 64), 
+
+output(s):
+name = vgg16/conv1_1/Relu:0, shape: (?, 224, 224, 64),
+
+
+op id 9 : op name: "vgg16/conv1_2/filter"
+input(s):
+
+output(s):
+name = vgg16/conv1_2/filter:0, shape: (3, 3, 64, 64),
+
+
+op id 10 : op name: "vgg16/conv1_2/Conv2D"
+input(s):
+name = vgg16/conv1_1/Relu:0, shape: (?, 224, 224, 64), 
+name = vgg16/conv1_2/filter:0, shape: (3, 3, 64, 64), 
+
+output(s):
+name = vgg16/conv1_2/Conv2D:0, shape: (?, 224, 224, 64),
+
+
+op id 11 : op name: "vgg16/conv1_2/biases"
+input(s):
+
+output(s):
+name = vgg16/conv1_2/biases:0, shape: (64,),
+
+
+op id 12 : op name: "vgg16/conv1_2/BiasAdd"
+input(s):
+name = vgg16/conv1_2/Conv2D:0, shape: (?, 224, 224, 64), 
+name = vgg16/conv1_2/biases:0, shape: (64,), 
+
+output(s):
+name = vgg16/conv1_2/BiasAdd:0, shape: (?, 224, 224, 64),
+
+
+op id 13 : op name: "vgg16/conv1_2/Relu"
+input(s):
+name = vgg16/conv1_2/BiasAdd:0, shape: (?, 224, 224, 64), 
+
+output(s):
+name = vgg16/conv1_2/Relu:0, shape: (?, 224, 224, 64),
+
+
+op id 14 : op name: "vgg16/pool1"
+input(s):
+name = vgg16/conv1_2/Relu:0, shape: (?, 224, 224, 64), 
+
+output(s):
+name = vgg16/pool1:0, shape: (?, 112, 112, 64),
+
+
+op id 15 : op name: "vgg16/conv2_1/filter"
+input(s):
+
+output(s):
+name = vgg16/conv2_1/filter:0, shape: (3, 3, 64, 128),
+
+
+op id 16 : op name: "vgg16/conv2_1/Conv2D"
+input(s):
+name = vgg16/pool1:0, shape: (?, 112, 112, 64), 
+name = vgg16/conv2_1/filter:0, shape: (3, 3, 64, 128), 
+
+output(s):
+name = vgg16/conv2_1/Conv2D:0, shape: (?, 112, 112, 128),
+
+
+op id 17 : op name: "vgg16/conv2_1/biases"
+input(s):
+
+output(s):
+name = vgg16/conv2_1/biases:0, shape: (128,),
+
+
+op id 18 : op name: "vgg16/conv2_1/BiasAdd"
+input(s):
+name = vgg16/conv2_1/Conv2D:0, shape: (?, 112, 112, 128), 
+name = vgg16/conv2_1/biases:0, shape: (128,), 
+
+output(s):
+name = vgg16/conv2_1/BiasAdd:0, shape: (?, 112, 112, 128),
+
+
+op id 19 : op name: "vgg16/conv2_1/Relu"
+input(s):
+name = vgg16/conv2_1/BiasAdd:0, shape: (?, 112, 112, 128), 
+
+output(s):
+name = vgg16/conv2_1/Relu:0, shape: (?, 112, 112, 128),
+
+
+op id 20 : op name: "vgg16/conv2_2/filter"
+input(s):
+
+output(s):
+name = vgg16/conv2_2/filter:0, shape: (3, 3, 128, 128),
+
+
+op id 21 : op name: "vgg16/conv2_2/Conv2D"
+input(s):
+name = vgg16/conv2_1/Relu:0, shape: (?, 112, 112, 128), 
+name = vgg16/conv2_2/filter:0, shape: (3, 3, 128, 128), 
+
+output(s):
+name = vgg16/conv2_2/Conv2D:0, shape: (?, 112, 112, 128),
+
+
+op id 22 : op name: "vgg16/conv2_2/biases"
+input(s):
+
+output(s):
+name = vgg16/conv2_2/biases:0, shape: (128,),
+
+
+op id 23 : op name: "vgg16/conv2_2/BiasAdd"
+input(s):
+name = vgg16/conv2_2/Conv2D:0, shape: (?, 112, 112, 128), 
+name = vgg16/conv2_2/biases:0, shape: (128,), 
+
+output(s):
+name = vgg16/conv2_2/BiasAdd:0, shape: (?, 112, 112, 128),
+
+
+op id 24 : op name: "vgg16/conv2_2/Relu"
+input(s):
+name = vgg16/conv2_2/BiasAdd:0, shape: (?, 112, 112, 128), 
+
+output(s):
+name = vgg16/conv2_2/Relu:0, shape: (?, 112, 112, 128),
+
+
+op id 25 : op name: "vgg16/pool2"
+input(s):
+name = vgg16/conv2_2/Relu:0, shape: (?, 112, 112, 128), 
+
+output(s):
+name = vgg16/pool2:0, shape: (?, 56, 56, 128),
+
+
+op id 26 : op name: "vgg16/conv3_1/filter"
+input(s):
+
+output(s):
+name = vgg16/conv3_1/filter:0, shape: (3, 3, 128, 256),
+
+
+op id 27 : op name: "vgg16/conv3_1/Conv2D"
+input(s):
+name = vgg16/pool2:0, shape: (?, 56, 56, 128), 
+name = vgg16/conv3_1/filter:0, shape: (3, 3, 128, 256), 
+
+output(s):
+name = vgg16/conv3_1/Conv2D:0, shape: (?, 56, 56, 256),
+
+
+op id 28 : op name: "vgg16/conv3_1/biases"
+input(s):
+
+output(s):
+name = vgg16/conv3_1/biases:0, shape: (256,),
+
+
+op id 29 : op name: "vgg16/conv3_1/BiasAdd"
+input(s):
+name = vgg16/conv3_1/Conv2D:0, shape: (?, 56, 56, 256), 
+name = vgg16/conv3_1/biases:0, shape: (256,), 
+
+output(s):
+name = vgg16/conv3_1/BiasAdd:0, shape: (?, 56, 56, 256),
+
+
+op id 30 : op name: "vgg16/conv3_1/Relu"
+input(s):
+name = vgg16/conv3_1/BiasAdd:0, shape: (?, 56, 56, 256), 
+
+output(s):
+name = vgg16/conv3_1/Relu:0, shape: (?, 56, 56, 256),
+
+
+op id 31 : op name: "vgg16/conv3_2/filter"
+input(s):
+
+output(s):
+name = vgg16/conv3_2/filter:0, shape: (3, 3, 256, 256),
+
+
+op id 32 : op name: "vgg16/conv3_2/Conv2D"
+input(s):
+name = vgg16/conv3_1/Relu:0, shape: (?, 56, 56, 256), 
+name = vgg16/conv3_2/filter:0, shape: (3, 3, 256, 256), 
+
+output(s):
+name = vgg16/conv3_2/Conv2D:0, shape: (?, 56, 56, 256),
+
+
+op id 33 : op name: "vgg16/conv3_2/biases"
+input(s):
+
+output(s):
+name = vgg16/conv3_2/biases:0, shape: (256,),
+
+
+op id 34 : op name: "vgg16/conv3_2/BiasAdd"
+input(s):
+name = vgg16/conv3_2/Conv2D:0, shape: (?, 56, 56, 256), 
+name = vgg16/conv3_2/biases:0, shape: (256,), 
+
+output(s):
+name = vgg16/conv3_2/BiasAdd:0, shape: (?, 56, 56, 256),
+
+
+op id 35 : op name: "vgg16/conv3_2/Relu"
+input(s):
+name = vgg16/conv3_2/BiasAdd:0, shape: (?, 56, 56, 256), 
+
+output(s):
+name = vgg16/conv3_2/Relu:0, shape: (?, 56, 56, 256),
+
+
+op id 36 : op name: "vgg16/conv3_3/filter"
+input(s):
+
+output(s):
+name = vgg16/conv3_3/filter:0, shape: (3, 3, 256, 256),
+
+
+op id 37 : op name: "vgg16/conv3_3/Conv2D"
+input(s):
+name = vgg16/conv3_2/Relu:0, shape: (?, 56, 56, 256), 
+name = vgg16/conv3_3/filter:0, shape: (3, 3, 256, 256), 
+
+output(s):
+name = vgg16/conv3_3/Conv2D:0, shape: (?, 56, 56, 256),
+
+
+op id 38 : op name: "vgg16/conv3_3/biases"
+input(s):
+
+output(s):
+name = vgg16/conv3_3/biases:0, shape: (256,),
+
+
+op id 39 : op name: "vgg16/conv3_3/BiasAdd"
+input(s):
+name = vgg16/conv3_3/Conv2D:0, shape: (?, 56, 56, 256), 
+name = vgg16/conv3_3/biases:0, shape: (256,), 
+
+output(s):
+name = vgg16/conv3_3/BiasAdd:0, shape: (?, 56, 56, 256),
+
+
+op id 40 : op name: "vgg16/conv3_3/Relu"
+input(s):
+name = vgg16/conv3_3/BiasAdd:0, shape: (?, 56, 56, 256), 
+
+output(s):
+name = vgg16/conv3_3/Relu:0, shape: (?, 56, 56, 256),
+
+
+op id 41 : op name: "vgg16/pool3"
+input(s):
+name = vgg16/conv3_3/Relu:0, shape: (?, 56, 56, 256), 
+
+output(s):
+name = vgg16/pool3:0, shape: (?, 28, 28, 256),
+
+
+op id 42 : op name: "vgg16/conv4_1/filter"
+input(s):
+
+output(s):
+name = vgg16/conv4_1/filter:0, shape: (3, 3, 256, 512),
+
+
+op id 43 : op name: "vgg16/conv4_1/Conv2D"
+input(s):
+name = vgg16/pool3:0, shape: (?, 28, 28, 256), 
+name = vgg16/conv4_1/filter:0, shape: (3, 3, 256, 512), 
+
+output(s):
+name = vgg16/conv4_1/Conv2D:0, shape: (?, 28, 28, 512),
+
+
+op id 44 : op name: "vgg16/conv4_1/biases"
+input(s):
+
+output(s):
+name = vgg16/conv4_1/biases:0, shape: (512,),
+
+
+op id 45 : op name: "vgg16/conv4_1/BiasAdd"
+input(s):
+name = vgg16/conv4_1/Conv2D:0, shape: (?, 28, 28, 512), 
+name = vgg16/conv4_1/biases:0, shape: (512,), 
+
+output(s):
+name = vgg16/conv4_1/BiasAdd:0, shape: (?, 28, 28, 512),
+
+
+op id 46 : op name: "vgg16/conv4_1/Relu"
+input(s):
+name = vgg16/conv4_1/BiasAdd:0, shape: (?, 28, 28, 512), 
+
+output(s):
+name = vgg16/conv4_1/Relu:0, shape: (?, 28, 28, 512),
+
+
+op id 47 : op name: "vgg16/conv4_2/filter"
+input(s):
+
+output(s):
+name = vgg16/conv4_2/filter:0, shape: (3, 3, 512, 512),
+
+
+op id 48 : op name: "vgg16/conv4_2/Conv2D"
+input(s):
+name = vgg16/conv4_1/Relu:0, shape: (?, 28, 28, 512), 
+name = vgg16/conv4_2/filter:0, shape: (3, 3, 512, 512), 
+
+output(s):
+name = vgg16/conv4_2/Conv2D:0, shape: (?, 28, 28, 512),
+
+
+op id 49 : op name: "vgg16/conv4_2/biases"
+input(s):
+
+output(s):
+name = vgg16/conv4_2/biases:0, shape: (512,),
+
+
+op id 50 : op name: "vgg16/conv4_2/BiasAdd"
+input(s):
+name = vgg16/conv4_2/Conv2D:0, shape: (?, 28, 28, 512), 
+name = vgg16/conv4_2/biases:0, shape: (512,), 
+
+output(s):
+name = vgg16/conv4_2/BiasAdd:0, shape: (?, 28, 28, 512),
+
+
+op id 51 : op name: "vgg16/conv4_2/Relu"
+input(s):
+name = vgg16/conv4_2/BiasAdd:0, shape: (?, 28, 28, 512), 
+
+output(s):
+name = vgg16/conv4_2/Relu:0, shape: (?, 28, 28, 512),
+
+
+op id 52 : op name: "vgg16/conv4_3/filter"
+input(s):
+
+output(s):
+name = vgg16/conv4_3/filter:0, shape: (3, 3, 512, 512),
+
+
+op id 53 : op name: "vgg16/conv4_3/Conv2D"
+input(s):
+name = vgg16/conv4_2/Relu:0, shape: (?, 28, 28, 512), 
+name = vgg16/conv4_3/filter:0, shape: (3, 3, 512, 512), 
+
+output(s):
+name = vgg16/conv4_3/Conv2D:0, shape: (?, 28, 28, 512),
+
+
+op id 54 : op name: "vgg16/conv4_3/biases"
+input(s):
+
+output(s):
+name = vgg16/conv4_3/biases:0, shape: (512,),
+
+
+op id 55 : op name: "vgg16/conv4_3/BiasAdd"
+input(s):
+name = vgg16/conv4_3/Conv2D:0, shape: (?, 28, 28, 512), 
+name = vgg16/conv4_3/biases:0, shape: (512,), 
+
+output(s):
+name = vgg16/conv4_3/BiasAdd:0, shape: (?, 28, 28, 512),
+
+
+op id 56 : op name: "vgg16/conv4_3/Relu"
+input(s):
+name = vgg16/conv4_3/BiasAdd:0, shape: (?, 28, 28, 512), 
+
+output(s):
+name = vgg16/conv4_3/Relu:0, shape: (?, 28, 28, 512),
+
+
+op id 57 : op name: "vgg16/pool4"
+input(s):
+name = vgg16/conv4_3/Relu:0, shape: (?, 28, 28, 512), 
+
+output(s):
+name = vgg16/pool4:0, shape: (?, 14, 14, 512),
+
+
+op id 58 : op name: "vgg16/conv5_1/filter"
+input(s):
+
+output(s):
+name = vgg16/conv5_1/filter:0, shape: (3, 3, 512, 512),
+
+
+op id 59 : op name: "vgg16/conv5_1/Conv2D"
+input(s):
+name = vgg16/pool4:0, shape: (?, 14, 14, 512), 
+name = vgg16/conv5_1/filter:0, shape: (3, 3, 512, 512), 
+
+output(s):
+name = vgg16/conv5_1/Conv2D:0, shape: (?, 14, 14, 512),
+
+
+op id 60 : op name: "vgg16/conv5_1/biases"
+input(s):
+
+output(s):
+name = vgg16/conv5_1/biases:0, shape: (512,),
+
+
+op id 61 : op name: "vgg16/conv5_1/BiasAdd"
+input(s):
+name = vgg16/conv5_1/Conv2D:0, shape: (?, 14, 14, 512), 
+name = vgg16/conv5_1/biases:0, shape: (512,), 
+
+output(s):
+name = vgg16/conv5_1/BiasAdd:0, shape: (?, 14, 14, 512),
+
+
+op id 62 : op name: "vgg16/conv5_1/Relu"
+input(s):
+name = vgg16/conv5_1/BiasAdd:0, shape: (?, 14, 14, 512), 
+
+output(s):
+name = vgg16/conv5_1/Relu:0, shape: (?, 14, 14, 512),
+
+
+op id 63 : op name: "vgg16/conv5_2/filter"
+input(s):
+
+output(s):
+name = vgg16/conv5_2/filter:0, shape: (3, 3, 512, 512),
+
+
+op id 64 : op name: "vgg16/conv5_2/Conv2D"
+input(s):
+name = vgg16/conv5_1/Relu:0, shape: (?, 14, 14, 512), 
+name = vgg16/conv5_2/filter:0, shape: (3, 3, 512, 512), 
+
+output(s):
+name = vgg16/conv5_2/Conv2D:0, shape: (?, 14, 14, 512),
+
+
+op id 65 : op name: "vgg16/conv5_2/biases"
+input(s):
+
+output(s):
+name = vgg16/conv5_2/biases:0, shape: (512,),
+
+
+op id 66 : op name: "vgg16/conv5_2/BiasAdd"
+input(s):
+name = vgg16/conv5_2/Conv2D:0, shape: (?, 14, 14, 512), 
+name = vgg16/conv5_2/biases:0, shape: (512,), 
+
+output(s):
+name = vgg16/conv5_2/BiasAdd:0, shape: (?, 14, 14, 512),
+
+
+op id 67 : op name: "vgg16/conv5_2/Relu"
+input(s):
+name = vgg16/conv5_2/BiasAdd:0, shape: (?, 14, 14, 512), 
+
+output(s):
+name = vgg16/conv5_2/Relu:0, shape: (?, 14, 14, 512),
+
+
+op id 68 : op name: "vgg16/conv5_3/filter"
+input(s):
+
+output(s):
+name = vgg16/conv5_3/filter:0, shape: (3, 3, 512, 512),
+
+
+op id 69 : op name: "vgg16/conv5_3/Conv2D"
+input(s):
+name = vgg16/conv5_2/Relu:0, shape: (?, 14, 14, 512), 
+name = vgg16/conv5_3/filter:0, shape: (3, 3, 512, 512), 
+
+output(s):
+name = vgg16/conv5_3/Conv2D:0, shape: (?, 14, 14, 512),
+
+
+op id 70 : op name: "vgg16/conv5_3/biases"
+input(s):
+
+output(s):
+name = vgg16/conv5_3/biases:0, shape: (512,),
+
+
+op id 71 : op name: "vgg16/conv5_3/BiasAdd"
+input(s):
+name = vgg16/conv5_3/Conv2D:0, shape: (?, 14, 14, 512), 
+name = vgg16/conv5_3/biases:0, shape: (512,), 
+
+output(s):
+name = vgg16/conv5_3/BiasAdd:0, shape: (?, 14, 14, 512),
+
+
+op id 72 : op name: "vgg16/conv5_3/Relu"
+input(s):
+name = vgg16/conv5_3/BiasAdd:0, shape: (?, 14, 14, 512), 
+
+output(s):
+name = vgg16/conv5_3/Relu:0, shape: (?, 14, 14, 512),
+
+
+op id 73 : op name: "batch_norm/conv_relu"
+input(s):
+name = vgg16/conv5_3/Relu:0, shape: (?, 14, 14, 512), 
+
+output(s):
+name = batch_norm/conv_relu:0, shape: (?, 14, 14, 512),
+
+
+op id 74 : op name: "conv_relu_norm/gamma"
+input(s):
+
+output(s):
+name = conv_relu_norm/gamma:0, shape: (512,),
+
+
+op id 75 : op name: "conv_relu_norm/gamma/read"
+input(s):
+name = conv_relu_norm/gamma:0, shape: (512,), 
+
+output(s):
+name = conv_relu_norm/gamma/read:0, shape: (512,),
+
+
+op id 76 : op name: "conv_relu_norm/beta"
+input(s):
+
+output(s):
+name = conv_relu_norm/beta:0, shape: (512,),
+
+
+op id 77 : op name: "conv_relu_norm/beta/read"
+input(s):
+name = conv_relu_norm/beta:0, shape: (512,), 
+
+output(s):
+name = conv_relu_norm/beta/read:0, shape: (512,),
+
+
+op id 78 : op name: "conv_relu_norm/moving_mean"
+input(s):
+
+output(s):
+name = conv_relu_norm/moving_mean:0, shape: (512,),
+
+
+op id 79 : op name: "conv_relu_norm/moving_mean/read"
+input(s):
+name = conv_relu_norm/moving_mean:0, shape: (512,), 
+
+output(s):
+name = conv_relu_norm/moving_mean/read:0, shape: (512,),
+
+
+op id 80 : op name: "conv_relu_norm/moving_variance"
+input(s):
+
+output(s):
+name = conv_relu_norm/moving_variance:0, shape: (512,),
+
+
+op id 81 : op name: "conv_relu_norm/moving_variance/read"
+input(s):
+name = conv_relu_norm/moving_variance:0, shape: (512,), 
+
+output(s):
+name = conv_relu_norm/moving_variance/read:0, shape: (512,),
+
+
+op id 82 : op name: "batch_norm/conv_relu_norm/FusedBatchNorm"
+input(s):
+name = batch_norm/conv_relu:0, shape: (?, 14, 14, 512), 
+name = conv_relu_norm/gamma/read:0, shape: (512,), 
+name = conv_relu_norm/beta/read:0, shape: (512,), 
+name = conv_relu_norm/moving_mean/read:0, shape: (512,), 
+name = conv_relu_norm/moving_variance/read:0, shape: (512,), 
+
+output(s):
+name = batch_norm/conv_relu_norm/FusedBatchNorm:0, shape: (?, 14, 14, 512),
+name = batch_norm/conv_relu_norm/FusedBatchNorm:1, shape: (512,),
+name = batch_norm/conv_relu_norm/FusedBatchNorm:2, shape: (512,),
+name = batch_norm/conv_relu_norm/FusedBatchNorm:3, shape: (512,),
+name = batch_norm/conv_relu_norm/FusedBatchNorm:4, shape: (512,),
+
+
+op id 83 : op name: "conv_relu_output"
+input(s):
+name = batch_norm/conv_relu_norm/FusedBatchNorm:0, shape: (?, 14, 14, 512), 
+
+output(s):
+name = conv_relu_output:0, shape: (?, 14, 14, 512),
+
+
+op id 84 : op name: "dropout/dropout/Shape"
+input(s):
+name = conv_relu_output:0, shape: (?, 14, 14, 512), 
+
+output(s):
+name = dropout/dropout/Shape:0, shape: (4,),
+
+
+op id 85 : op name: "dropout/dropout/random_uniform/min"
+input(s):
+
+output(s):
+name = dropout/dropout/random_uniform/min:0, shape: (),
+
+
+op id 86 : op name: "dropout/dropout/random_uniform/max"
+input(s):
+
+output(s):
+name = dropout/dropout/random_uniform/max:0, shape: (),
+
+
+op id 87 : op name: "dropout/dropout/random_uniform/RandomUniform"
+input(s):
+name = dropout/dropout/Shape:0, shape: (4,), 
+
+output(s):
+name = dropout/dropout/random_uniform/RandomUniform:0, shape: (?, 14, 14, 512),
+
+
+op id 88 : op name: "dropout/dropout/random_uniform/sub"
+input(s):
+name = dropout/dropout/random_uniform/max:0, shape: (), 
+name = dropout/dropout/random_uniform/min:0, shape: (), 
+
+output(s):
+name = dropout/dropout/random_uniform/sub:0, shape: (),
+
+
+op id 89 : op name: "dropout/dropout/random_uniform/mul"
+input(s):
+name = dropout/dropout/random_uniform/RandomUniform:0, shape: (?, 14, 14, 512), 
+name = dropout/dropout/random_uniform/sub:0, shape: (), 
+
+output(s):
+name = dropout/dropout/random_uniform/mul:0, shape: (?, 14, 14, 512),
+
+
+op id 90 : op name: "dropout/dropout/random_uniform"
+input(s):
+name = dropout/dropout/random_uniform/mul:0, shape: (?, 14, 14, 512), 
+name = dropout/dropout/random_uniform/min:0, shape: (), 
+
+output(s):
+name = dropout/dropout/random_uniform:0, shape: (?, 14, 14, 512),
+
+
+op id 91 : op name: "dropout/dropout/add"
+input(s):
+name = keep_prob:0, shape: <unknown>, 
+name = dropout/dropout/random_uniform:0, shape: (?, 14, 14, 512), 
+
+output(s):
+name = dropout/dropout/add:0, shape: <unknown>,
+
+
+op id 92 : op name: "dropout/dropout/Floor"
+input(s):
+name = dropout/dropout/add:0, shape: <unknown>, 
+
+output(s):
+name = dropout/dropout/Floor:0, shape: <unknown>,
+
+
+op id 93 : op name: "dropout/dropout/div"Optimizing fused batch norm node name: "batch_norm/conv_relu_norm/FusedBatchNorm"
+op: "FusedBatchNorm"
+input: "batch_norm/conv_relu"
+input: "conv_relu_norm/gamma"
+input: "conv_relu_norm/beta"
+input: "conv_relu_norm/moving_mean"
+input: "conv_relu_norm/moving_variance"
+device: "/job:localhost/replica:0/task:0/device:GPU:0"
+attr {
+  key: "T"
+  value {
+    type: DT_FLOAT
+  }
+}
+attr {
+  key: "data_format"
+  value {
+    s: "NHWC"
+  }
+}
+attr {
+  key: "epsilon"
+  value {
+    f: 0.001
+  }
+}
+attr {
+  key: "is_training"
+  value {
+    b: false
+  }
+}
+
+
+input(s):
+name = conv_relu_output:0, shape: (?, 14, 14, 512), 
+name = keep_prob:0, shape: <unknown>, 
+
+output(s):
+name = dropout/dropout/div:0, shape: <unknown>,
+
+
+op id 94 : op name: "dropout/dropout/mul"
+input(s):
+name = dropout/dropout/div:0, shape: <unknown>, 
+name = dropout/dropout/Floor:0, shape: <unknown>, 
+
+output(s):
+name = dropout/dropout/mul:0, shape: <unknown>,
+
+
+op id 95 : op name: "conv_final"
+input(s):
+name = dropout/dropout/mul:0, shape: <unknown>, 
+
+output(s):
+name = conv_final:0, shape: <unknown>,
+
+
+op id 96 : op name: "predictions/reshape/shape"
+input(s):
+
+output(s):
+name = predictions/reshape/shape:0, shape: (2,),
+
+
+op id 97 : op name: "predictions/reshape"
+input(s):
+name = conv_final:0, shape: <unknown>, 
+name = predictions/reshape/shape:0, shape: (2,), 
+
+output(s):
+name = predictions/reshape:0, shape: (?, 100352),
+
+
+op id 98 : op name: "predictions/Variable"
+input(s):
+
+output(s):
+name = predictions/Variable:0, shape: (100352, 2),
+
+
+op id 99 : op name: "predictions/Variable/read"
+input(s):
+name = predictions/Variable:0, shape: (100352, 2), 
+
+output(s):
+name = predictions/Variable/read:0, shape: (100352, 2),
+
+
+op id 100 : op name: "predictions/Variable_1"
+input(s):
+
+output(s):
+name = predictions/Variable_1:0, shape: (2,),
+
+
+op id 101 : op name: "predictions/Variable_1/read"
+input(s):
+name = predictions/Variable_1:0, shape: (2,), 
+
+output(s):
+name = predictions/Variable_1/read:0, shape: (2,),
+
+
+op id 102 : op name: "predictions/MatMul"
+input(s):
+name = predictions/reshape:0, shape: (?, 100352), 
+name = predictions/Variable/read:0, shape: (100352, 2), 
+
+output(s):
+name = predictions/MatMul:0, shape: (?, 2),
+
+
+op id 103 : op name: "predictions/add"
+input(s):
+name = predictions/MatMul:0, shape: (?, 2), 
+name = predictions/Variable_1/read:0, shape: (2,), 
+
+output(s):
+name = predictions/add:0, shape: (?, 2),
+
+
+op id 104 : op name: "predictions/prob"
+input(s):
+name = predictions/add:0, shape: (?, 2), 
+
+output(s):
+name = predictions/prob:0, shape: (?, 2),
+Testing Begin
+Tensorflow ~ Precision: 0.9466900995899239, Recall: 0.964776119402985, F1-Score: 0.9556475458308693
+Total Time: 74.69878697395325s

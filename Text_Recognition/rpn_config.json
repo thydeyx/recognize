@@ -1,0 +1,1 @@
+{"image_height": 720, "image_width": 960, "region_height": 224, "region_width": 224, "image_batch_size": 10, "proposal_batch_size": 512, "region_batch_size": 16, "l_r": 0.001, "step": 10000, "prob_thres": 0.95}

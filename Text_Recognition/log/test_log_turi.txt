@@ -1,0 +1,10 @@
+Predicting   1/233
+Predicting 123/233
+Predicting 150/233
+Predicting 233/233
+Predicting   1/233
+Predicting 120/233
+Predicting 162/233
+Predicting 233/233
+{'average_precision_50': {'text': 0.37051965641748075}, 'mean_average_precision_50': 0.37051965641748075}
+Total Time: 108.3336751461029s

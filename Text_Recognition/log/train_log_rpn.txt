@@ -1,0 +1,1127 @@
+135.jpg (720, 960, 3)
+271.jpg (720, 960, 3)
+190.jpg (720, 960, 3)
+153.jpg (720, 960, 3)
+205.jpg (720, 960, 3)
+234.jpg (720, 960, 3)
+222.jpg (720, 960, 3)
+277.jpg (720, 960, 3)
+207.jpg (720, 960, 3)
+106.jpg (720, 960, 3)
+117.jpg (720, 960, 3)
+265.jpg (720, 960, 3)
+196.jpg (720, 960, 3)
+285.jpg (720, 960, 3)
+171.jpg (720, 960, 3)
+295.jpg (720, 960, 3)
+248.jpg (720, 960, 3)
+154.jpg (720, 960, 3)
+202.jpg (720, 960, 3)
+115.jpg (720, 960, 3)
+189.jpg (720, 960, 3)
+104.jpg (720, 960, 3)
+128.jpg (720, 960, 3)
+138.jpg (720, 960, 3)
+191.jpg (720, 960, 3)
+201.jpg (720, 960, 3)
+177.jpg (720, 960, 3)
+181.jpg (720, 960, 3)
+298.jpg (720, 960, 3)
+272.jpg (720, 960, 3)
+262.jpg (720, 960, 3)
+129.jpg (720, 960, 3)
+147.jpg (720, 960, 3)
+259.jpg (720, 960, 3)
+291.jpg (720, 960, 3)
+150.jpg (720, 960, 3)
+198.jpg (720, 960, 3)
+253.jpg (720, 960, 3)
+192.jpg (720, 960, 3)
+120.jpg (720, 960, 3)
+169.jpg (720, 960, 3)
+212.jpg (720, 960, 3)
+118.jpg (720, 960, 3)
+168.jpg (720, 960, 3)
+296.jpg (720, 960, 3)
+241.jpg (720, 960, 3)
+235.jpg (720, 960, 3)
+180.jpg (720, 960, 3)
+101.jpg (720, 960, 3)
+174.jpg (720, 960, 3)
+121.jpg (720, 960, 3)
+200.jpg (720, 960, 3)
+247.jpg (720, 960, 3)
+219.jpg (720, 960, 3)
+220.jpg (720, 960, 3)
+243.jpg (720, 960, 3)
+206.jpg (720, 960, 3)
+131.jpg (720, 960, 3)
+231.jpg (720, 960, 3)
+227.jpg (720, 960, 3)
+289.jpg (720, 960, 3)
+185.jpg (720, 960, 3)
+170.jpg (720, 960, 3)
+186.jpg (720, 960, 3)
+141.jpg (720, 960, 3)
+258.jpg (720, 960, 3)
+209.jpg (720, 960, 3)
+183.jpg (720, 960, 3)
+260.jpg (720, 960, 3)
+237.jpg (720, 960, 3)
+133.jpg (720, 960, 3)
+119.jpg (720, 960, 3)
+223.jpg (720, 960, 3)
+251.jpg (720, 960, 3)
+292.jpg (720, 960, 3)
+264.jpg (720, 960, 3)
+252.jpg (720, 960, 3)
+249.jpg (720, 960, 3)
+111.jpg (720, 960, 3)
+245.jpg (720, 960, 3)
+146.jpg (720, 960, 3)
+210.jpg (720, 960, 3)
+293.jpg (720, 960, 3)
+105.jpg (720, 960, 3)
+250.jpg (720, 960, 3)
+281.jpg (720, 960, 3)
+195.jpg (720, 960, 3)
+217.jpg (720, 960, 3)
+294.jpg (720, 960, 3)
+144.jpg (720, 960, 3)
+261.jpg (720, 960, 3)
+126.jpg (720, 960, 3)
+290.jpg (720, 960, 3)
+178.jpg (720, 960, 3)
+232.jpg (720, 960, 3)
+268.jpg (720, 960, 3)
+203.jpg (720, 960, 3)
+163.jpg (720, 960, 3)
+283.jpg (720, 960, 3)
+254.jpg (720, 960, 3)
+114.jpg (720, 960, 3)
+257.jpg (720, 960, 3)
+137.jpg (720, 960, 3)
+224.jpg (720, 960, 3)
+151.jpg (720, 960, 3)
+256.jpg (720, 960, 3)
+103.jpg (720, 960, 3)
+152.jpg (720, 960, 3)
+112.jpg (720, 960, 3)
+238.jpg (720, 960, 3)
+282.jpg (720, 960, 3)
+288.jpg (720, 960, 3)
+116.jpg (720, 960, 3)
+124.jpg (720, 960, 3)
+275.jpg (720, 960, 3)
+193.jpg (720, 960, 3)
+230.jpg (720, 960, 3)
+211.jpg (720, 960, 3)
+158.jpg (720, 960, 3)
+197.jpg (720, 960, 3)
+267.jpg (720, 960, 3)
+142.jpg (720, 960, 3)
+140.jpg (720, 960, 3)
+166.jpg (720, 960, 3)
+125.jpg (720, 960, 3)
+284.jpg (720, 960, 3)
+287.jpg (720, 960, 3)
+155.jpg (720, 960, 3)
+228.jpg (720, 960, 3)
+255.jpg (720, 960, 3)
+176.jpg (720, 960, 3)
+134.jpg (720, 960, 3)
+246.jpg (720, 960, 3)
+145.jpg (720, 960, 3)
+239.jpg (720, 960, 3)
+136.jpg (720, 960, 3)
+236.jpg (720, 960, 3)
+188.jpg (720, 960, 3)
+299.jpg (720, 960, 3)
+173.jpg (720, 960, 3)
+244.jpg (720, 960, 3)
+274.jpg (720, 960, 3)
+113.jpg (720, 960, 3)
+139.jpg (720, 960, 3)
+216.jpg (720, 960, 3)
+214.jpg (720, 960, 3)
+148.jpg (720, 960, 3)
+215.jpg (720, 960, 3)
+172.jpg (720, 960, 3)
+164.jpg (720, 960, 3)
+123.jpg (720, 960, 3)
+157.jpg (720, 960, 3)
+194.jpg (720, 960, 3)
+149.jpg (720, 960, 3)
+208.jpg (720, 960, 3)
+160.jpg (720, 960, 3)
+109.jpg (720, 960, 3)
+108.jpg (720, 960, 3)
+179.jpg (720, 960, 3)
+263.jpg (720, 960, 3)
+122.jpg (720, 960, 3)
+162.jpg (720, 960, 3)
+242.jpg (720, 960, 3)
+269.jpg (720, 960, 3)
+165.jpg (720, 960, 3)
+213.jpg (720, 960, 3)
+184.jpg (720, 960, 3)
+199.jpg (720, 960, 3)
+276.jpg (720, 960, 3)
+233.jpg (720, 960, 3)
+240.jpg (720, 960, 3)
+156.jpg (720, 960, 3)
+273.jpg (720, 960, 3)
+159.jpg (720, 960, 3)
+280.jpg (720, 960, 3)
+110.jpg (720, 960, 3)
+297.jpg (720, 960, 3)
+161.jpg (720, 960, 3)
+204.jpg (720, 960, 3)
+225.jpg (720, 960, 3)
+187.jpg (720, 960, 3)
+270.jpg (720, 960, 3)
+218.jpg (720, 960, 3)
+102.jpg (720, 960, 3)
+279.jpg (720, 960, 3)
+127.jpg (720, 960, 3)
+100.jpg (720, 960, 3)
+175.jpg (720, 960, 3)
+221.jpg (720, 960, 3)
+229.jpg (720, 960, 3)
+182.jpg (720, 960, 3)
+167.jpg (720, 960, 3)
+143.jpg (720, 960, 3)
+107.jpg (720, 960, 3)
+278.jpg (720, 960, 3)
+132.jpg (720, 960, 3)
+226.jpg (720, 960, 3)
+266.jpg (720, 960, 3)
+286.jpg (720, 960, 3)
+130.jpg (720, 960, 3)
+proposal size: 54000
+image_name: 262, fgsize: 90
+image_name: 222, fgsize: 146
+image_name: 271, fgsize: 0
+image_name: 215, fgsize: 130
+image_name: 270, fgsize: 83
+image_name: 133, fgsize: 66
+image_name: 148, fgsize: 208
+image_name: 212, fgsize: 170
+image_name: 180, fgsize: 398
+image_name: 151, fgsize: 0
+image_name: 241, fgsize: 213
+image_name: 123, fgsize: 1
+image_name: 238, fgsize: 45
+image_name: 197, fgsize: 97
+image_name: 216, fgsize: 2
+image_name: 225, fgsize: 23
+image_name: 186, fgsize: 155
+image_name: 112, fgsize: 2
+image_name: 111, fgsize: 0
+image_name: 243, fgsize: 150
+image_name: 213, fgsize: 179
+image_name: 208, fgsize: 80
+image_name: 214, fgsize: 619
+image_name: 299, fgsize: 18
+image_name: 210, fgsize: 240
+image_name: 274, fgsize: 86
+image_name: 293, fgsize: 60
+image_name: 188, fgsize: 50
+image_name: 100, fgsize: 259
+image_name: 227, fgsize: 15
+image_name: 145, fgsize: 276
+image_name: 199, fgsize: 310
+image_name: 244, fgsize: 88
+image_name: 289, fgsize: 71
+image_name: 126, fgsize: 125
+image_name: 252, fgsize: 78
+image_name: 235, fgsize: 124
+image_name: 156, fgsize: 112
+image_name: 176, fgsize: 148
+image_name: 269, fgsize: 56
+image_name: 211, fgsize: 75
+image_name: 228, fgsize: 159
+image_name: 184, fgsize: 199
+image_name: 107, fgsize: 422
+image_name: 200, fgsize: 368
+image_name: 273, fgsize: 0
+image_name: 132, fgsize: 221
+image_name: 267, fgsize: 42
+image_name: 158, fgsize: 0
+image_name: 141, fgsize: 150
+image_name: 272, fgsize: 109
+image_name: 234, fgsize: 62
+image_name: 119, fgsize: 0
+image_name: 162, fgsize: 14
+image_name: 203, fgsize: 28
+image_name: 239, fgsize: 60
+image_name: 183, fgsize: 95
+image_name: 113, fgsize: 28
+image_name: 294, fgsize: 28
+image_name: 146, fgsize: 93
+image_name: 202, fgsize: 183
+image_name: 114, fgsize: 14
+image_name: 172, fgsize: 172
+image_name: 224, fgsize: 98
+image_name: 250, fgsize: 44
+image_name: 161, fgsize: 20
+image_name: 217, fgsize: 36
+image_name: 280, fgsize: 282
+image_name: 263, fgsize: 24
+image_name: 232, fgsize: 0
+image_name: 265, fgsize: 145
+image_name: 166, fgsize: 93
+image_name: 121, fgsize: 171
+image_name: 149, fgsize: 24
+image_name: 288, fgsize: 157
+image_name: 256, fgsize: 16
+image_name: 104, fgsize: 584
+image_name: 284, fgsize: 126
+image_name: 116, fgsize: 128
+image_name: 291, fgsize: 184
+image_name: 236, fgsize: 152
+image_name: 276, fgsize: 28
+image_name: 207, fgsize: 253
+image_name: 143, fgsize: 92
+image_name: 287, fgsize: 139
+image_name: 278, fgsize: 88
+image_name: 295, fgsize: 252
+image_name: 131, fgsize: 262
+image_name: 167, fgsize: 384
+image_name: 160, fgsize: 206
+image_name: 187, fgsize: 171
+image_name: 115, fgsize: 44
+image_name: 229, fgsize: 538
+image_name: 281, fgsize: 24
+image_name: 153, fgsize: 14
+image_name: 118, fgsize: 357
+image_name: 130, fgsize: 44
+image_name: 245, fgsize: 205
+image_name: 163, fgsize: 129
+image_name: 292, fgsize: 54
+image_name: 109, fgsize: 21
+image_name: 191, fgsize: 0
+image_name: 110, fgsize: 19
+image_name: 192, fgsize: 27
+image_name: 193, fgsize: 256
+image_name: 101, fgsize: 138
+image_name: 296, fgsize: 509
+image_name: 219, fgsize: 373
+image_name: 170, fgsize: 58
+image_name: 122, fgsize: 129
+image_name: 177, fgsize: 20
+image_name: 258, fgsize: 312
+image_name: 264, fgsize: 130
+image_name: 220, fgsize: 386
+image_name: 106, fgsize: 75
+image_name: 285, fgsize: 47
+image_name: 297, fgsize: 178
+image_name: 134, fgsize: 90
+image_name: 261, fgsize: 85
+image_name: 194, fgsize: 290
+image_name: 142, fgsize: 69
+image_name: 195, fgsize: 414
+image_name: 223, fgsize: 110
+image_name: 174, fgsize: 114
+image_name: 185, fgsize: 28
+image_name: 129, fgsize: 22
+image_name: 125, fgsize: 57
+image_name: 196, fgsize: 37
+image_name: 165, fgsize: 0
+image_name: 255, fgsize: 130
+image_name: 247, fgsize: 75
+image_name: 251, fgsize: 158
+image_name: 206, fgsize: 252
+image_name: 150, fgsize: 28
+image_name: 157, fgsize: 32
+image_name: 164, fgsize: 213
+image_name: 175, fgsize: 2
+image_name: 246, fgsize: 103
+image_name: 226, fgsize: 3
+image_name: 290, fgsize: 6
+image_name: 171, fgsize: 132
+image_name: 128, fgsize: 53
+image_name: 155, fgsize: 245
+image_name: 179, fgsize: 430
+image_name: 117, fgsize: 234
+image_name: 135, fgsize: 36
+image_name: 275, fgsize: 201
+image_name: 254, fgsize: 284
+image_name: 240, fgsize: 76
+image_name: 205, fgsize: 9
+image_name: 298, fgsize: 0
+image_name: 237, fgsize: 388
+image_name: 230, fgsize: 112
+image_name: 257, fgsize: 62
+image_name: 181, fgsize: 240
+image_name: 277, fgsize: 63
+image_name: 103, fgsize: 138
+image_name: 242, fgsize: 139
+image_name: 147, fgsize: 153
+image_name: 159, fgsize: 101
+image_name: 178, fgsize: 23
+image_name: 105, fgsize: 201
+image_name: 102, fgsize: 213
+image_name: 144, fgsize: 16
+image_name: 221, fgsize: 85
+image_name: 136, fgsize: 32
+image_name: 139, fgsize: 160
+image_name: 279, fgsize: 32
+image_name: 283, fgsize: 180
+image_name: 204, fgsize: 185
+image_name: 189, fgsize: 37
+image_name: 154, fgsize: 5
+image_name: 282, fgsize: 326
+image_name: 248, fgsize: 190
+image_name: 168, fgsize: 32
+image_name: 182, fgsize: 0
+image_name: 169, fgsize: 0
+image_name: 127, fgsize: 133
+image_name: 152, fgsize: 30
+image_name: 259, fgsize: 0
+image_name: 218, fgsize: 1
+image_name: 201, fgsize: 231
+image_name: 260, fgsize: 24
+image_name: 108, fgsize: 155
+image_name: 249, fgsize: 38
+image_name: 137, fgsize: 122
+image_name: 286, fgsize: 27
+image_name: 266, fgsize: 0
+image_name: 138, fgsize: 44
+image_name: 253, fgsize: 27
+image_name: 209, fgsize: 252
+image_name: 140, fgsize: 90
+image_name: 124, fgsize: 56
+image_name: 231, fgsize: 125
+image_name: 233, fgsize: 150
+image_name: 268, fgsize: 187
+image_name: 190, fgsize: 215
+image_name: 120, fgsize: 104
+image_name: 198, fgsize: 170
+image_name: 173, fgsize: 72
+317.jpg (720, 960, 3)
+328.jpg (720, 960, 3)
+309.jpg (720, 960, 3)
+313.jpg (720, 960, 3)
+318.jpg (720, 960, 3)
+319.jpg (720, 960, 3)
+310.jpg (720, 960, 3)
+324.jpg (720, 960, 3)
+314.jpg (720, 960, 3)
+303.jpg (720, 960, 3)
+307.jpg (720, 960, 3)
+311.jpg (720, 960, 3)
+323.jpg (720, 960, 3)
+306.jpg (720, 960, 3)
+315.jpg (720, 960, 3)
+304.jpg (720, 960, 3)
+321.jpg (720, 960, 3)
+322.jpg (720, 960, 3)
+325.jpg (720, 960, 3)
+320.jpg (720, 960, 3)
+300.jpg (720, 960, 3)
+308.jpg (720, 960, 3)
+301.jpg (720, 960, 3)
+316.jpg (720, 960, 3)
+302.jpg (720, 960, 3)
+326.jpg (720, 960, 3)
+312.jpg (720, 960, 3)
+305.jpg (720, 960, 3)
+327.jpg (720, 960, 3)
+proposal size: 54000
+image_name: 324, fgsize: 128
+image_name: 300, fgsize: 24
+image_name: 326, fgsize: 52
+image_name: 312, fgsize: 83
+image_name: 320, fgsize: 412
+image_name: 322, fgsize: 38
+image_name: 307, fgsize: 29
+image_name: 301, fgsize: 69
+image_name: 313, fgsize: 134
+image_name: 318, fgsize: 64
+image_name: 328, fgsize: 340
+image_name: 302, fgsize: 216
+image_name: 309, fgsize: 132
+image_name: 317, fgsize: 26
+image_name: 314, fgsize: 36
+image_name: 319, fgsize: 418
+image_name: 310, fgsize: 87
+image_name: 311, fgsize: 117
+image_name: 303, fgsize: 10
+image_name: 306, fgsize: 60
+image_name: 325, fgsize: 24
+image_name: 316, fgsize: 50
+image_name: 304, fgsize: 289
+image_name: 308, fgsize: 112
+image_name: 323, fgsize: 345
+image_name: 305, fgsize: 151
+image_name: 315, fgsize: 13
+image_name: 321, fgsize: 177
+image_name: 327, fgsize: 5
+Image Size: (720, 960, 3)
+Vgg16 npy file loaded
+build model started
+build model finished: 0s
+normalization_factor/gamma1:0 [] 2.0
+normalization_factor/gamma2:0 [] 1.5
+normalization_factor/gamma3:0 [] 1.0
+normalization_factor/gamma4:0 [] 0.5
+cnn_3/conv_proposal_3/Variable:0 [3, 3, 256, 512] 4565.26
+cnn_3/conv_proposal_3/Variable_1:0 [512] 2.56
+cnn_4/conv_proposal_4/Variable:0 [3, 3, 512, 512] 9115.67
+cnn_4/conv_proposal_4/Variable_1:0 [512] 2.56
+cnn_5/conv_proposal_5/Variable:0 [3, 3, 512, 512] 9133.22
+cnn_5/conv_proposal_5/Variable_1:0 [512] 2.56
+relu_proposal_concat_norm/gamma:0 [1536] 768.0
+relu_proposal_concat_norm/beta:0 [1536] 0.0
+predictions/conv_cls_score/Variable:0 [1, 1, 1536, 40] 238.61
+predictions/conv_cls_score/Variable_1:0 [40] 0.2
+predictions/conv_bbox_pred/Variable:0 [1, 1, 1536, 80] 477.137
+predictions/conv_bbox_pred/Variable_1:0 [80] 0.4
+Training Begin
+step: 0, time: 13.099060297012329s, batch_shape: (10, 720, 960, 3), loss: 346.83843994140625, cls_cross_entropy: 45.2125244140625, bbox_loss: 367.95281982421875, l_r: 0.001, fg_num: 1407, bg_num: 3713
+************   validation set   ************
+loss: 207.30563354492188, cls_cross_entropy: 16.812671661376953, bbox_loss: 147.5484619140625
+Model Saved
+step: 1, time: 14.967858791351318s, batch_shape: (10, 720, 960, 3), loss: 310.26495361328125, cls_cross_entropy: 29.920181274414062, bbox_loss: 327.2521057128906, l_r: 0.001, fg_num: 1284, bg_num: 3836
+step: 2, time: 16.200461387634277s, batch_shape: (10, 720, 960, 3), loss: 271.34161376953125, cls_cross_entropy: 32.928462982177734, bbox_loss: 245.1953125, l_r: 0.001, fg_num: 1255, bg_num: 3865
+step: 3, time: 17.37777280807495s, batch_shape: (10, 720, 960, 3), loss: 248.40103149414062, cls_cross_entropy: 20.191673278808594, bbox_loss: 226.5774688720703, l_r: 0.001, fg_num: 1606, bg_num: 3514
+step: 4, time: 18.496184587478638s, batch_shape: (10, 720, 960, 3), loss: 216.23365783691406, cls_cross_entropy: 15.433996200561523, bbox_loss: 173.52752685546875, l_r: 0.001, fg_num: 616, bg_num: 4504
+step: 5, time: 19.72817611694336s, batch_shape: (10, 720, 960, 3), loss: 208.67051696777344, cls_cross_entropy: 10.466218948364258, bbox_loss: 170.06964111328125, l_r: 0.001, fg_num: 940, bg_num: 4180
+step: 6, time: 20.949190378189087s, batch_shape: (10, 720, 960, 3), loss: 189.24876403808594, cls_cross_entropy: 10.282750129699707, bbox_loss: 133.29229736328125, l_r: 0.001, fg_num: 1300, bg_num: 3820
+step: 7, time: 22.17435884475708s, batch_shape: (10, 720, 960, 3), loss: 182.33172607421875, cls_cross_entropy: 8.912293434143066, bbox_loss: 123.88383483886719, l_r: 0.001, fg_num: 1722, bg_num: 3398
+step: 8, time: 23.410581588745117s, batch_shape: (10, 720, 960, 3), loss: 168.94900512695312, cls_cross_entropy: 7.1258344650268555, bbox_loss: 102.36802673339844, l_r: 0.001, fg_num: 1197, bg_num: 3923
+step: 9, time: 24.546668767929077s, batch_shape: (10, 720, 960, 3), loss: 152.72573852539062, cls_cross_entropy: 4.389413833618164, bbox_loss: 77.05416107177734, l_r: 0.001, fg_num: 1180, bg_num: 3940
+step: 10, time: 25.740205764770508s, batch_shape: (10, 720, 960, 3), loss: 148.36529541015625, cls_cross_entropy: 3.8345422744750977, bbox_loss: 71.09516906738281, l_r: 0.001, fg_num: 1442, bg_num: 3678
+************   validation set   ************
+loss: 163.57037353515625, cls_cross_entropy: 6.505293369293213, bbox_loss: 90.26377868652344
+Model Saved
+step: 11, time: 27.103717803955078s, batch_shape: (10, 720, 960, 3), loss: 144.19769287109375, cls_cross_entropy: 3.022998332977295, bbox_loss: 66.0264663696289, l_r: 0.001, fg_num: 987, bg_num: 4133
+step: 12, time: 28.26519751548767s, batch_shape: (10, 720, 960, 3), loss: 136.13021850585938, cls_cross_entropy: 1.9747718572616577, bbox_loss: 53.61906814575195, l_r: 0.001, fg_num: 1548, bg_num: 3572
+step: 13, time: 29.439884662628174s, batch_shape: (10, 720, 960, 3), loss: 135.45166015625, cls_cross_entropy: 3.9480538368225098, bbox_loss: 49.93590545654297, l_r: 0.001, fg_num: 1440, bg_num: 3680
+step: 14, time: 30.60763931274414s, batch_shape: (10, 720, 960, 3), loss: 131.64178466796875, cls_cross_entropy: 4.613489627838135, bbox_loss: 42.590877532958984, l_r: 0.001, fg_num: 1123, bg_num: 3997
+step: 15, time: 31.809123516082764s, batch_shape: (10, 720, 960, 3), loss: 127.8049545288086, cls_cross_entropy: 2.651902675628662, bbox_loss: 40.42794418334961, l_r: 0.001, fg_num: 1306, bg_num: 3814
+step: 16, time: 33.03524446487427s, batch_shape: (10, 720, 960, 3), loss: 125.62814331054688, cls_cross_entropy: 2.11967134475708, bbox_loss: 38.71266555786133, l_r: 0.001, fg_num: 835, bg_num: 4285
+step: 17, time: 34.246607065200806s, batch_shape: (10, 720, 960, 3), loss: 120.64299011230469, cls_cross_entropy: 1.3927865028381348, bbox_loss: 31.752981185913086, l_r: 0.001, fg_num: 1622, bg_num: 3498
+step: 18, time: 35.4080114364624s, batch_shape: (10, 720, 960, 3), loss: 119.40271759033203, cls_cross_entropy: 1.2222822904586792, bbox_loss: 31.16037368774414, l_r: 0.001, fg_num: 902, bg_num: 4218
+step: 19, time: 36.55383062362671s, batch_shape: (10, 720, 960, 3), loss: 116.37387084960938, cls_cross_entropy: 1.1553301811218262, bbox_loss: 26.76921844482422, l_r: 0.001, fg_num: 1547, bg_num: 3573
+step: 20, time: 37.72468662261963s, batch_shape: (10, 720, 960, 3), loss: 114.79644012451172, cls_cross_entropy: 0.7444606423377991, bbox_loss: 25.95697021484375, l_r: 0.001, fg_num: 1160, bg_num: 3960
+************   validation set   ************
+loss: 117.07331848144531, cls_cross_entropy: 1.3324003219604492, bbox_loss: 23.900428771972656
+Model Saved
+step: 21, time: 39.23611831665039s, batch_shape: (10, 720, 960, 3), loss: 113.21080017089844, cls_cross_entropy: 1.535298228263855, bbox_loss: 22.711008071899414, l_r: 0.001, fg_num: 1508, bg_num: 3612
+step: 22, time: 40.434999227523804s, batch_shape: (10, 720, 960, 3), loss: 110.41915893554688, cls_cross_entropy: 1.449863076210022, bbox_loss: 18.79465103149414, l_r: 0.001, fg_num: 1087, bg_num: 4033
+step: 23, time: 41.60163426399231s, batch_shape: (10, 720, 960, 3), loss: 108.47908782958984, cls_cross_entropy: 0.5560196042060852, bbox_loss: 18.186500549316406, l_r: 0.001, fg_num: 1019, bg_num: 4101
+step: 24, time: 42.799362659454346s, batch_shape: (10, 720, 960, 3), loss: 107.74044036865234, cls_cross_entropy: 0.8837958574295044, bbox_loss: 17.52495002746582, l_r: 0.001, fg_num: 1302, bg_num: 3818
+step: 25, time: 43.96661901473999s, batch_shape: (10, 720, 960, 3), loss: 104.6746597290039, cls_cross_entropy: 0.7876649498939514, bbox_loss: 13.044554710388184, l_r: 0.001, fg_num: 1244, bg_num: 3876
+step: 26, time: 45.17314100265503s, batch_shape: (10, 720, 960, 3), loss: 103.66238403320312, cls_cross_entropy: 0.7363048195838928, bbox_loss: 12.56874942779541, l_r: 0.001, fg_num: 1634, bg_num: 3486
+step: 27, time: 46.335257053375244s, batch_shape: (10, 720, 960, 3), loss: 102.0716781616211, cls_cross_entropy: 0.6437038779258728, bbox_loss: 11.007209777832031, l_r: 0.001, fg_num: 1001, bg_num: 4119
+step: 28, time: 47.45271682739258s, batch_shape: (10, 720, 960, 3), loss: 100.40498352050781, cls_cross_entropy: 0.5881555676460266, bbox_loss: 9.206338882446289, l_r: 0.001, fg_num: 1358, bg_num: 3762
+step: 29, time: 48.553658962249756s, batch_shape: (10, 720, 960, 3), loss: 99.2110824584961, cls_cross_entropy: 0.6164840459823608, bbox_loss: 8.171545028686523, l_r: 0.001, fg_num: 1536, bg_num: 3584
+step: 30, time: 49.682437896728516s, batch_shape: (10, 720, 960, 3), loss: 98.1145248413086, cls_cross_entropy: 0.48340877890586853, bbox_loss: 7.643258571624756, l_r: 0.001, fg_num: 1395, bg_num: 3725
+************   validation set   ************
+loss: 100.51514434814453, cls_cross_entropy: 0.3856785297393799, bbox_loss: 7.643949031829834
+Model Saved
+step: 31, time: 51.07717680931091s, batch_shape: (10, 720, 960, 3), loss: 97.09002685546875, cls_cross_entropy: 0.31039634346961975, bbox_loss: 7.327009201049805, l_r: 0.001, fg_num: 465, bg_num: 4655
+step: 32, time: 52.24823832511902s, batch_shape: (10, 720, 960, 3), loss: 95.75819396972656, cls_cross_entropy: 0.35372599959373474, bbox_loss: 5.948849201202393, l_r: 0.001, fg_num: 1347, bg_num: 3773
+step: 33, time: 53.45441222190857s, batch_shape: (10, 720, 960, 3), loss: 94.61695098876953, cls_cross_entropy: 0.3756657838821411, bbox_loss: 4.983813285827637, l_r: 0.001, fg_num: 1413, bg_num: 3707
+step: 34, time: 54.68706965446472s, batch_shape: (10, 720, 960, 3), loss: 94.06543731689453, cls_cross_entropy: 0.4019034206867218, bbox_loss: 5.178687572479248, l_r: 0.001, fg_num: 1080, bg_num: 4040
+step: 35, time: 55.922929525375366s, batch_shape: (10, 720, 960, 3), loss: 92.82681274414062, cls_cross_entropy: 0.29975005984306335, bbox_loss: 4.244424819946289, l_r: 0.001, fg_num: 1014, bg_num: 4106
+step: 36, time: 57.16429090499878s, batch_shape: (10, 720, 960, 3), loss: 91.64754486083984, cls_cross_entropy: 0.36986133456230164, bbox_loss: 3.073000192642212, l_r: 0.001, fg_num: 1234, bg_num: 3886
+step: 37, time: 58.40876746177673s, batch_shape: (10, 720, 960, 3), loss: 90.97976684570312, cls_cross_entropy: 0.3691936135292053, bbox_loss: 3.0553090572357178, l_r: 0.001, fg_num: 1030, bg_num: 4090
+step: 38, time: 59.638251543045044s, batch_shape: (10, 720, 960, 3), loss: 89.9933853149414, cls_cross_entropy: 0.3764369785785675, bbox_loss: 2.3734889030456543, l_r: 0.001, fg_num: 1163, bg_num: 3957
+step: 39, time: 60.830960512161255s, batch_shape: (10, 720, 960, 3), loss: 89.0698471069336, cls_cross_entropy: 0.38079237937927246, bbox_loss: 1.812477946281433, l_r: 0.001, fg_num: 1658, bg_num: 3462
+step: 40, time: 62.0174777507782s, batch_shape: (10, 720, 960, 3), loss: 88.50165557861328, cls_cross_entropy: 0.3618296682834625, bbox_loss: 1.9984270334243774, l_r: 0.001, fg_num: 1386, bg_num: 3734
+************   validation set   ************
+loss: 90.7203140258789, cls_cross_entropy: 0.2584666907787323, bbox_loss: 2.0557007789611816
+Model Saved
+step: 41, time: 63.42782497406006s, batch_shape: (10, 720, 960, 3), loss: 87.57608795166016, cls_cross_entropy: 0.35250845551490784, bbox_loss: 1.4396392107009888, l_r: 0.001, fg_num: 992, bg_num: 4128
+step: 42, time: 64.55603814125061s, batch_shape: (10, 720, 960, 3), loss: 86.94020080566406, cls_cross_entropy: 0.41909265518188477, bbox_loss: 1.2977467775344849, l_r: 0.001, fg_num: 1365, bg_num: 3755
+step: 43, time: 65.6888415813446s, batch_shape: (10, 720, 960, 3), loss: 86.10488891601562, cls_cross_entropy: 0.40332162380218506, bbox_loss: 0.9113284945487976, l_r: 0.001, fg_num: 1129, bg_num: 3991
+step: 44, time: 66.83752083778381s, batch_shape: (10, 720, 960, 3), loss: 85.4926528930664, cls_cross_entropy: 0.4286094307899475, bbox_loss: 0.87860107421875, l_r: 0.001, fg_num: 1228, bg_num: 3892
+step: 45, time: 68.07630157470703s, batch_shape: (10, 720, 960, 3), loss: 84.83295440673828, cls_cross_entropy: 0.43544501066207886, bbox_loss: 0.7775723338127136, l_r: 0.001, fg_num: 901, bg_num: 4219
+step: 46, time: 69.30163311958313s, batch_shape: (10, 720, 960, 3), loss: 84.32997131347656, cls_cross_entropy: 0.4757273495197296, bbox_loss: 0.9128048419952393, l_r: 0.001, fg_num: 1686, bg_num: 3434
+step: 47, time: 70.49752640724182s, batch_shape: (10, 720, 960, 3), loss: 83.7189712524414, cls_cross_entropy: 0.45907914638519287, bbox_loss: 0.9351401925086975, l_r: 0.001, fg_num: 1252, bg_num: 3868
+step: 48, time: 71.682377576828s, batch_shape: (10, 720, 960, 3), loss: 83.0116195678711, cls_cross_entropy: 0.48237234354019165, bbox_loss: 0.6743168234825134, l_r: 0.001, fg_num: 1097, bg_num: 4023
+step: 49, time: 72.90236330032349s, batch_shape: (10, 720, 960, 3), loss: 82.25106811523438, cls_cross_entropy: 0.4120718538761139, bbox_loss: 0.4837854206562042, l_r: 0.001, fg_num: 1613, bg_num: 3507
+step: 50, time: 74.09144496917725s, batch_shape: (10, 720, 960, 3), loss: 81.83074188232422, cls_cross_entropy: 0.4093238413333893, bbox_loss: 0.8282142877578735, l_r: 0.001, fg_num: 1080, bg_num: 4040
+************   validation set   ************
+loss: 83.80741882324219, cls_cross_entropy: 0.3831983208656311, bbox_loss: 0.6162338256835938
+Model Saved
+step: 51, time: 75.48010420799255s, batch_shape: (10, 720, 960, 3), loss: 81.11386108398438, cls_cross_entropy: 0.46417421102523804, bbox_loss: 0.45374301075935364, l_r: 0.001, fg_num: 1117, bg_num: 4003
+step: 52, time: 76.59392952919006s, batch_shape: (10, 720, 960, 3), loss: 80.48963928222656, cls_cross_entropy: 0.4151487350463867, bbox_loss: 0.4618699848651886, l_r: 0.001, fg_num: 1782, bg_num: 3338
+step: 53, time: 77.76241993904114s, batch_shape: (10, 720, 960, 3), loss: 79.89775085449219, cls_cross_entropy: 0.4533923268318176, bbox_loss: 0.3496212661266327, l_r: 0.001, fg_num: 1452, bg_num: 3668
+step: 54, time: 78.96655607223511s, batch_shape: (10, 720, 960, 3), loss: 79.26600646972656, cls_cross_entropy: 0.38628605008125305, bbox_loss: 0.3578989505767822, l_r: 0.001, fg_num: 1350, bg_num: 3770
+step: 55, time: 80.20972108840942s, batch_shape: (10, 720, 960, 3), loss: 78.7018051147461, cls_cross_entropy: 0.3853306472301483, bbox_loss: 0.3585797846317291, l_r: 0.001, fg_num: 1360, bg_num: 3760
+step: 56, time: 81.3973617553711s, batch_shape: (10, 720, 960, 3), loss: 78.12979125976562, cls_cross_entropy: 0.39490458369255066, bbox_loss: 0.3120989501476288, l_r: 0.001, fg_num: 1222, bg_num: 3898
+step: 57, time: 82.54109692573547s, batch_shape: (10, 720, 960, 3), loss: 77.60447692871094, cls_cross_entropy: 0.4212368130683899, bbox_loss: 0.31505465507507324, l_r: 0.001, fg_num: 1388, bg_num: 3732
+step: 58, time: 83.72431898117065s, batch_shape: (10, 720, 960, 3), loss: 77.1019287109375, cls_cross_entropy: 0.40591439604759216, bbox_loss: 0.4364500641822815, l_r: 0.001, fg_num: 1238, bg_num: 3882
+step: 59, time: 84.90581679344177s, batch_shape: (10, 720, 960, 3), loss: 76.50604248046875, cls_cross_entropy: 0.36567795276641846, bbox_loss: 0.4105460047721863, l_r: 0.001, fg_num: 1200, bg_num: 3920
+step: 60, time: 86.12832379341125s, batch_shape: (10, 720, 960, 3), loss: 75.93603515625, cls_cross_entropy: 0.3118607699871063, bbox_loss: 0.4531576633453369, l_r: 0.001, fg_num: 943, bg_num: 4177
+************   validation set   ************
+loss: 77.84883117675781, cls_cross_entropy: 0.3495348393917084, bbox_loss: 0.35231390595436096
+Model Saved
+step: 61, time: 87.5845890045166s, batch_shape: (10, 720, 960, 3), loss: 75.42446899414062, cls_cross_entropy: 0.3521399199962616, bbox_loss: 0.4141799211502075, l_r: 0.001, fg_num: 1214, bg_num: 3906
+step: 62, time: 88.71826720237732s, batch_shape: (10, 720, 960, 3), loss: 74.80766296386719, cls_cross_entropy: 0.3575764000415802, bbox_loss: 0.2240799367427826, l_r: 0.001, fg_num: 1538, bg_num: 3582
+step: 63, time: 89.89690160751343s, batch_shape: (10, 720, 960, 3), loss: 74.29293823242188, cls_cross_entropy: 0.3082003891468048, bbox_loss: 0.3376586139202118, l_r: 0.001, fg_num: 1756, bg_num: 3364
+step: 64, time: 91.01450419425964s, batch_shape: (10, 720, 960, 3), loss: 73.80681610107422, cls_cross_entropy: 0.3303702473640442, bbox_loss: 0.35522812604904175, l_r: 0.001, fg_num: 1284, bg_num: 3836
+step: 65, time: 92.16751217842102s, batch_shape: (10, 720, 960, 3), loss: 73.22650909423828, cls_cross_entropy: 0.3255695402622223, bbox_loss: 0.22824983298778534, l_r: 0.001, fg_num: 1122, bg_num: 3998
+step: 66, time: 93.30467939376831s, batch_shape: (10, 720, 960, 3), loss: 72.80558013916016, cls_cross_entropy: 0.3511534035205841, bbox_loss: 0.34922701120376587, l_r: 0.001, fg_num: 937, bg_num: 4183
+step: 67, time: 94.4499192237854s, batch_shape: (10, 720, 960, 3), loss: 72.27667999267578, cls_cross_entropy: 0.3124058246612549, bbox_loss: 0.372927188873291, l_r: 0.001, fg_num: 1313, bg_num: 3807
+step: 68, time: 95.60139608383179s, batch_shape: (10, 720, 960, 3), loss: 71.85382843017578, cls_cross_entropy: 0.3155016005039215, bbox_loss: 0.5150719881057739, l_r: 0.001, fg_num: 968, bg_num: 4152
+step: 69, time: 96.82841300964355s, batch_shape: (10, 720, 960, 3), loss: 71.35637664794922, cls_cross_entropy: 0.3494042456150055, bbox_loss: 0.4364975690841675, l_r: 0.001, fg_num: 1070, bg_num: 4050
+step: 70, time: 98.05574560165405s, batch_shape: (10, 720, 960, 3), loss: 70.78658294677734, cls_cross_entropy: 0.30841895937919617, bbox_loss: 0.35321396589279175, l_r: 0.001, fg_num: 1163, bg_num: 3957
+************   validation set   ************
+loss: 72.4888687133789, cls_cross_entropy: 0.3019586503505707, bbox_loss: 0.2763013243675232
+Model Saved
+step: 71, time: 99.4783730506897s, batch_shape: (10, 720, 960, 3), loss: 70.26123046875, cls_cross_entropy: 0.32935699820518494, bbox_loss: 0.22513672709465027, l_r: 0.001, fg_num: 1706, bg_num: 3414
+step: 72, time: 100.7103226184845s, batch_shape: (10, 720, 960, 3), loss: 69.72122192382812, cls_cross_entropy: 0.29497087001800537, bbox_loss: 0.16886360943317413, l_r: 0.001, fg_num: 1477, bg_num: 3643
+step: 73, time: 101.95153546333313s, batch_shape: (10, 720, 960, 3), loss: 69.28642272949219, cls_cross_entropy: 0.27627506852149963, bbox_loss: 0.2820848822593689, l_r: 0.001, fg_num: 1280, bg_num: 3840
+step: 74, time: 103.20588684082031s, batch_shape: (10, 720, 960, 3), loss: 68.86534881591797, cls_cross_entropy: 0.2779386639595032, bbox_loss: 0.37259116768836975, l_r: 0.001, fg_num: 866, bg_num: 4254
+step: 75, time: 104.37870264053345s, batch_shape: (10, 720, 960, 3), loss: 68.45399475097656, cls_cross_entropy: 0.32181882858276367, bbox_loss: 0.3887682259082794, l_r: 0.001, fg_num: 1222, bg_num: 3898
+step: 76, time: 105.5794026851654s, batch_shape: (10, 720, 960, 3), loss: 67.90918731689453, cls_cross_entropy: 0.32064464688301086, bbox_loss: 0.2188229113817215, l_r: 0.001, fg_num: 1645, bg_num: 3475
+step: 77, time: 106.81822514533997s, batch_shape: (10, 720, 960, 3), loss: 67.53401947021484, cls_cross_entropy: 0.3615168035030365, bbox_loss: 0.29485300183296204, l_r: 0.001, fg_num: 1628, bg_num: 3492
+step: 78, time: 108.01923084259033s, batch_shape: (10, 720, 960, 3), loss: 66.99446868896484, cls_cross_entropy: 0.29626283049583435, bbox_loss: 0.2452138215303421, l_r: 0.001, fg_num: 856, bg_num: 4264
+step: 79, time: 109.2295835018158s, batch_shape: (10, 720, 960, 3), loss: 66.58228302001953, cls_cross_entropy: 0.2997734844684601, bbox_loss: 0.3037241995334625, l_r: 0.001, fg_num: 1129, bg_num: 3991
+step: 80, time: 110.48336267471313s, batch_shape: (10, 720, 960, 3), loss: 66.04180145263672, cls_cross_entropy: 0.247405007481575, bbox_loss: 0.20844271779060364, l_r: 0.001, fg_num: 1104, bg_num: 4016
+************   validation set   ************
+loss: 67.65894317626953, cls_cross_entropy: 0.26548436284065247, bbox_loss: 0.2459912747144699
+Model Saved
+step: 81, time: 111.8800790309906s, batch_shape: (10, 720, 960, 3), loss: 65.6347885131836, cls_cross_entropy: 0.2903607189655304, bbox_loss: 0.18058067560195923, l_r: 0.001, fg_num: 1071, bg_num: 4049
+step: 82, time: 113.02309703826904s, batch_shape: (10, 720, 960, 3), loss: 65.21180725097656, cls_cross_entropy: 0.27764374017715454, bbox_loss: 0.2233925461769104, l_r: 0.001, fg_num: 1033, bg_num: 4087
+step: 83, time: 114.27870225906372s, batch_shape: (10, 720, 960, 3), loss: 64.79872131347656, cls_cross_entropy: 0.291761189699173, bbox_loss: 0.22362618148326874, l_r: 0.001, fg_num: 1345, bg_num: 3775
+step: 84, time: 115.4704852104187s, batch_shape: (10, 720, 960, 3), loss: 64.3586654663086, cls_cross_entropy: 0.27234241366386414, bbox_loss: 0.2283620685338974, l_r: 0.001, fg_num: 1422, bg_num: 3698
+step: 85, time: 116.65434646606445s, batch_shape: (10, 720, 960, 3), loss: 63.93372344970703, cls_cross_entropy: 0.24564288556575775, bbox_loss: 0.26937785744667053, l_r: 0.001, fg_num: 1531, bg_num: 3589
+step: 86, time: 117.91646385192871s, batch_shape: (10, 720, 960, 3), loss: 63.45854949951172, cls_cross_entropy: 0.2245514988899231, bbox_loss: 0.1902691274881363, l_r: 0.001, fg_num: 1228, bg_num: 3892
+step: 87, time: 119.17611145973206s, batch_shape: (10, 720, 960, 3), loss: 63.02926254272461, cls_cross_entropy: 0.20098285377025604, bbox_loss: 0.19957907497882843, l_r: 0.001, fg_num: 1147, bg_num: 3973
+step: 88, time: 120.40820455551147s, batch_shape: (10, 720, 960, 3), loss: 62.7086067199707, cls_cross_entropy: 0.25695541501045227, bbox_loss: 0.2588420808315277, l_r: 0.001, fg_num: 787, bg_num: 4333
+step: 89, time: 121.6495316028595s, batch_shape: (10, 720, 960, 3), loss: 62.25559997558594, cls_cross_entropy: 0.2089112550020218, bbox_loss: 0.253146767616272, l_r: 0.001, fg_num: 1202, bg_num: 3918
+step: 90, time: 122.80031633377075s, batch_shape: (10, 720, 960, 3), loss: 61.84880828857422, cls_cross_entropy: 0.22199617326259613, bbox_loss: 0.20959289371967316, l_r: 0.001, fg_num: 986, bg_num: 4134
+************   validation set   ************
+loss: 63.29131317138672, cls_cross_entropy: 0.22697515785694122, bbox_loss: 0.22812922298908234
+Model Saved
+step: 91, time: 124.33951663970947s, batch_shape: (10, 720, 960, 3), loss: 61.47364044189453, cls_cross_entropy: 0.2090945988893509, bbox_loss: 0.27331656217575073, l_r: 0.001, fg_num: 1069, bg_num: 4051
+step: 92, time: 125.55811262130737s, batch_shape: (10, 720, 960, 3), loss: 61.03137969970703, cls_cross_entropy: 0.1840209811925888, bbox_loss: 0.2193058580160141, l_r: 0.001, fg_num: 1520, bg_num: 3600
+step: 93, time: 126.79928159713745s, batch_shape: (10, 720, 960, 3), loss: 60.756439208984375, cls_cross_entropy: 0.2815364897251129, bbox_loss: 0.24695193767547607, l_r: 0.001, fg_num: 1322, bg_num: 3798
+step: 94, time: 127.99639940261841s, batch_shape: (10, 720, 960, 3), loss: 60.278045654296875, cls_cross_entropy: 0.19866128265857697, bbox_loss: 0.22078408300876617, l_r: 0.001, fg_num: 1314, bg_num: 3806
+step: 95, time: 129.2598180770874s, batch_shape: (10, 720, 960, 3), loss: 59.87004470825195, cls_cross_entropy: 0.19379092752933502, bbox_loss: 0.17179180681705475, l_r: 0.001, fg_num: 1461, bg_num: 3659
+step: 96, time: 130.46580052375793s, batch_shape: (10, 720, 960, 3), loss: 59.516937255859375, cls_cross_entropy: 0.15697352588176727, bbox_loss: 0.28890499472618103, l_r: 0.001, fg_num: 808, bg_num: 4312
+step: 97, time: 131.71376585960388s, batch_shape: (10, 720, 960, 3), loss: 59.20923614501953, cls_cross_entropy: 0.2647702991962433, bbox_loss: 0.2001376450061798, l_r: 0.001, fg_num: 1199, bg_num: 3921
+step: 98, time: 132.87180471420288s, batch_shape: (10, 720, 960, 3), loss: 58.91427993774414, cls_cross_entropy: 0.30368897318840027, bbox_loss: 0.26723620295524597, l_r: 0.001, fg_num: 1279, bg_num: 3841
+step: 99, time: 133.98577857017517s, batch_shape: (10, 720, 960, 3), loss: 58.46706008911133, cls_cross_entropy: 0.24662379920482635, bbox_loss: 0.21451082825660706, l_r: 0.001, fg_num: 1873, bg_num: 3247
+step: 100, time: 135.08182048797607s, batch_shape: (10, 720, 960, 3), loss: 58.045475006103516, cls_cross_entropy: 0.18775582313537598, bbox_loss: 0.2094603329896927, l_r: 0.001, fg_num: 1452, bg_num: 3668
+************   validation set   ************
+loss: 59.36106491088867, cls_cross_entropy: 0.20559075474739075, bbox_loss: 0.22137252986431122
+Model Saved
+step: 101, time: 136.54349088668823s, batch_shape: (10, 720, 960, 3), loss: 57.70197677612305, cls_cross_entropy: 0.20473988354206085, bbox_loss: 0.20170152187347412, l_r: 0.001, fg_num: 1280, bg_num: 3840
+step: 102, time: 137.78778791427612s, batch_shape: (10, 720, 960, 3), loss: 57.30924987792969, cls_cross_entropy: 0.18785856664180756, bbox_loss: 0.15614554286003113, l_r: 0.001, fg_num: 977, bg_num: 4143
+step: 103, time: 139.0232753753662s, batch_shape: (10, 720, 960, 3), loss: 57.008052825927734, cls_cross_entropy: 0.19354377686977386, bbox_loss: 0.24156294763088226, l_r: 0.001, fg_num: 1150, bg_num: 3970
+step: 104, time: 140.24889731407166s, batch_shape: (10, 720, 960, 3), loss: 56.74290466308594, cls_cross_entropy: 0.26805704832077026, bbox_loss: 0.25453320145606995, l_r: 0.001, fg_num: 1426, bg_num: 3694
+step: 105, time: 141.5172483921051s, batch_shape: (10, 720, 960, 3), loss: 56.34646224975586, cls_cross_entropy: 0.23181158304214478, bbox_loss: 0.21954955160617828, l_r: 0.001, fg_num: 1262, bg_num: 3858
+step: 106, time: 142.75208735466003s, batch_shape: (10, 720, 960, 3), loss: 55.91404724121094, cls_cross_entropy: 0.14776462316513062, bbox_loss: 0.20143169164657593, l_r: 0.001, fg_num: 707, bg_num: 4413
+step: 107, time: 143.96906876564026s, batch_shape: (10, 720, 960, 3), loss: 55.60325622558594, cls_cross_entropy: 0.1988922357559204, bbox_loss: 0.14958222210407257, l_r: 0.001, fg_num: 1785, bg_num: 3335
+step: 108, time: 145.08410453796387s, batch_shape: (10, 720, 960, 3), loss: 55.24517822265625, cls_cross_entropy: 0.16099782288074493, bbox_loss: 0.17457008361816406, l_r: 0.001, fg_num: 1108, bg_num: 4012
+step: 109, time: 146.20284056663513s, batch_shape: (10, 720, 960, 3), loss: 54.970436096191406, cls_cross_entropy: 0.20979933440685272, bbox_loss: 0.18631412088871002, l_r: 0.001, fg_num: 1301, bg_num: 3819
+step: 110, time: 147.3670449256897s, batch_shape: (10, 720, 960, 3), loss: 54.61751174926758, cls_cross_entropy: 0.17664149403572083, bbox_loss: 0.19915546476840973, l_r: 0.001, fg_num: 1394, bg_num: 3726
+************   validation set   ************
+loss: 55.79810333251953, cls_cross_entropy: 0.1824219524860382, bbox_loss: 0.20963028073310852
+Model Saved
+step: 111, time: 148.8896963596344s, batch_shape: (10, 720, 960, 3), loss: 54.286563873291016, cls_cross_entropy: 0.17217838764190674, bbox_loss: 0.19215095043182373, l_r: 0.001, fg_num: 908, bg_num: 4212
+step: 112, time: 150.09997034072876s, batch_shape: (10, 720, 960, 3), loss: 54.037376403808594, cls_cross_entropy: 0.2221008986234665, bbox_loss: 0.23364098370075226, l_r: 0.001, fg_num: 1469, bg_num: 3651
+step: 113, time: 151.36110877990723s, batch_shape: (10, 720, 960, 3), loss: 53.714717864990234, cls_cross_entropy: 0.2472754716873169, bbox_loss: 0.17148436605930328, l_r: 0.001, fg_num: 1481, bg_num: 3639
+step: 114, time: 152.503023147583s, batch_shape: (10, 720, 960, 3), loss: 53.390892028808594, cls_cross_entropy: 0.22140008211135864, bbox_loss: 0.2029987871646881, l_r: 0.001, fg_num: 1771, bg_num: 3349
+step: 115, time: 153.73643445968628s, batch_shape: (10, 720, 960, 3), loss: 53.142391204833984, cls_cross_entropy: 0.24657805263996124, bbox_loss: 0.27701565623283386, l_r: 0.001, fg_num: 1126, bg_num: 3994
+step: 116, time: 154.8761055469513s, batch_shape: (10, 720, 960, 3), loss: 52.72237777709961, cls_cross_entropy: 0.1890282928943634, bbox_loss: 0.16751404106616974, l_r: 0.001, fg_num: 1078, bg_num: 4042
+step: 117, time: 156.00130367279053s, batch_shape: (10, 720, 960, 3), loss: 52.407814025878906, cls_cross_entropy: 0.17413660883903503, bbox_loss: 0.17765654623508453, l_r: 0.001, fg_num: 1362, bg_num: 3758
+step: 118, time: 157.24287366867065s, batch_shape: (10, 720, 960, 3), loss: 52.09217071533203, cls_cross_entropy: 0.1448594331741333, bbox_loss: 0.20854809880256653, l_r: 0.001, fg_num: 984, bg_num: 4136
+step: 119, time: 158.49320697784424s, batch_shape: (10, 720, 960, 3), loss: 51.8077392578125, cls_cross_entropy: 0.16902709007263184, bbox_loss: 0.18916667997837067, l_r: 0.001, fg_num: 1036, bg_num: 4084
+step: 120, time: 159.75221991539001s, batch_shape: (10, 720, 960, 3), loss: 51.52719497680664, cls_cross_entropy: 0.18671609461307526, bbox_loss: 0.18474875390529633, l_r: 0.001, fg_num: 1425, bg_num: 3695
+************   validation set   ************
+loss: 52.578369140625, cls_cross_entropy: 0.16917021572589874, bbox_loss: 0.2003803700208664
+Model Saved
+step: 121, time: 161.25887060165405s, batch_shape: (10, 720, 960, 3), loss: 51.28424072265625, cls_cross_entropy: 0.2027244120836258, bbox_loss: 0.25313666462898254, l_r: 0.001, fg_num: 1063, bg_num: 4057
+step: 122, time: 162.4765124320984s, batch_shape: (10, 720, 960, 3), loss: 50.98162841796875, cls_cross_entropy: 0.22329376637935638, bbox_loss: 0.1874445676803589, l_r: 0.001, fg_num: 1300, bg_num: 3820
+step: 123, time: 163.7205684185028s, batch_shape: (10, 720, 960, 3), loss: 50.62153244018555, cls_cross_entropy: 0.17399531602859497, bbox_loss: 0.14094586670398712, l_r: 0.001, fg_num: 1199, bg_num: 3921
+step: 124, time: 164.95428371429443s, batch_shape: (10, 720, 960, 3), loss: 50.3447151184082, cls_cross_entropy: 0.16462460160255432, bbox_loss: 0.17563433945178986, l_r: 0.001, fg_num: 1586, bg_num: 3534
+step: 125, time: 166.21392607688904s, batch_shape: (10, 720, 960, 3), loss: 50.0767936706543, cls_cross_entropy: 0.18277321755886078, bbox_loss: 0.16769157350063324, l_r: 0.001, fg_num: 1248, bg_num: 3872
+step: 126, time: 167.47388076782227s, batch_shape: (10, 720, 960, 3), loss: 49.743980407714844, cls_cross_entropy: 0.14897023141384125, bbox_loss: 0.1284700632095337, l_r: 0.001, fg_num: 1187, bg_num: 3933
+step: 127, time: 168.705228805542s, batch_shape: (10, 720, 960, 3), loss: 49.627567291259766, cls_cross_entropy: 0.2802603542804718, bbox_loss: 0.18658451735973358, l_r: 0.001, fg_num: 1212, bg_num: 3908
+step: 128, time: 169.9131956100464s, batch_shape: (10, 720, 960, 3), loss: 49.234954833984375, cls_cross_entropy: 0.16814404726028442, bbox_loss: 0.17393437027931213, l_r: 0.001, fg_num: 1042, bg_num: 4078
+step: 129, time: 171.05464482307434s, batch_shape: (10, 720, 960, 3), loss: 48.91746520996094, cls_cross_entropy: 0.14252425730228424, bbox_loss: 0.13339783251285553, l_r: 0.001, fg_num: 1499, bg_num: 3621
+step: 130, time: 172.17704892158508s, batch_shape: (10, 720, 960, 3), loss: 48.706912994384766, cls_cross_entropy: 0.1809898316860199, bbox_loss: 0.1735091507434845, l_r: 0.001, fg_num: 1254, bg_num: 3866
+************   validation set   ************
+loss: 49.66512680053711, cls_cross_entropy: 0.1656472384929657, bbox_loss: 0.19320562481880188
+Model Saved
+step: 131, time: 173.53079962730408s, batch_shape: (10, 720, 960, 3), loss: 48.4287109375, cls_cross_entropy: 0.16830921173095703, bbox_loss: 0.17555861175060272, l_r: 0.001, fg_num: 1404, bg_num: 3716
+step: 132, time: 174.62973380088806s, batch_shape: (10, 720, 960, 3), loss: 48.17731475830078, cls_cross_entropy: 0.18822050094604492, bbox_loss: 0.16111068427562714, l_r: 0.001, fg_num: 1440, bg_num: 3680
+step: 133, time: 175.727281332016s, batch_shape: (10, 720, 960, 3), loss: 47.87907791137695, cls_cross_entropy: 0.15072953701019287, bbox_loss: 0.16282257437705994, l_r: 0.001, fg_num: 989, bg_num: 4131
+step: 134, time: 176.82899689674377s, batch_shape: (10, 720, 960, 3), loss: 47.69741439819336, cls_cross_entropy: 0.1999836564064026, bbox_loss: 0.21931156516075134, l_r: 0.001, fg_num: 1367, bg_num: 3753
+step: 135, time: 177.97278475761414s, batch_shape: (10, 720, 960, 3), loss: 47.37960433959961, cls_cross_entropy: 0.14800505340099335, bbox_loss: 0.20112939178943634, l_r: 0.001, fg_num: 1117, bg_num: 4003
+step: 136, time: 179.19010519981384s, batch_shape: (10, 720, 960, 3), loss: 47.09608840942383, cls_cross_entropy: 0.13131818175315857, bbox_loss: 0.17618976533412933, l_r: 0.001, fg_num: 917, bg_num: 4203
+step: 137, time: 180.3415493965149s, batch_shape: (10, 720, 960, 3), loss: 46.86187744140625, cls_cross_entropy: 0.16991004347801208, bbox_loss: 0.13459205627441406, l_r: 0.001, fg_num: 1444, bg_num: 3676
+step: 138, time: 181.4796028137207s, batch_shape: (10, 720, 960, 3), loss: 46.61997985839844, cls_cross_entropy: 0.17636238038539886, bbox_loss: 0.1372717320919037, l_r: 0.001, fg_num: 1377, bg_num: 3743
+step: 139, time: 182.61813974380493s, batch_shape: (10, 720, 960, 3), loss: 46.336429595947266, cls_cross_entropy: 0.1422484964132309, bbox_loss: 0.13316094875335693, l_r: 0.001, fg_num: 1270, bg_num: 3850
+step: 140, time: 183.73979234695435s, batch_shape: (10, 720, 960, 3), loss: 46.18035888671875, cls_cross_entropy: 0.20060184597969055, bbox_loss: 0.19460783898830414, l_r: 0.001, fg_num: 1295, bg_num: 3825
+************   validation set   ************
+loss: 46.998558044433594, cls_cross_entropy: 0.1460346132516861, bbox_loss: 0.18501104414463043
+Model Saved
+step: 141, time: 185.08188390731812s, batch_shape: (10, 720, 960, 3), loss: 45.88691329956055, cls_cross_entropy: 0.16836616396903992, bbox_loss: 0.1580711454153061, l_r: 0.001, fg_num: 1257, bg_num: 3863
+step: 142, time: 186.18068385124207s, batch_shape: (10, 720, 960, 3), loss: 45.606327056884766, cls_cross_entropy: 0.13717229664325714, bbox_loss: 0.14072129130363464, l_r: 0.001, fg_num: 854, bg_num: 4266
+step: 143, time: 187.27364015579224s, batch_shape: (10, 720, 960, 3), loss: 45.38309860229492, cls_cross_entropy: 0.1544485092163086, bbox_loss: 0.1368272751569748, l_r: 0.001, fg_num: 1230, bg_num: 3890
+step: 144, time: 188.3779239654541s, batch_shape: (10, 720, 960, 3), loss: 45.142276763916016, cls_cross_entropy: 0.14521460235118866, bbox_loss: 0.14642353355884552, l_r: 0.001, fg_num: 1367, bg_num: 3753
+step: 145, time: 189.5313446521759s, batch_shape: (10, 720, 960, 3), loss: 44.90058517456055, cls_cross_entropy: 0.14552299678325653, bbox_loss: 0.13092978298664093, l_r: 0.001, fg_num: 1549, bg_num: 3571
+step: 146, time: 190.70332264900208s, batch_shape: (10, 720, 960, 3), loss: 44.79177474975586, cls_cross_entropy: 0.24857929348945618, bbox_loss: 0.17143400013446808, l_r: 0.001, fg_num: 1120, bg_num: 4000
+step: 147, time: 191.91681027412415s, batch_shape: (10, 720, 960, 3), loss: 44.49442672729492, cls_cross_entropy: 0.1843138337135315, bbox_loss: 0.16538934409618378, l_r: 0.001, fg_num: 904, bg_num: 4216
+step: 148, time: 193.18007683753967s, batch_shape: (10, 720, 960, 3), loss: 44.2292594909668, cls_cross_entropy: 0.15052804350852966, bbox_loss: 0.15867185592651367, l_r: 0.001, fg_num: 1278, bg_num: 3842
+step: 149, time: 194.28052592277527s, batch_shape: (10, 720, 960, 3), loss: 44.01731491088867, cls_cross_entropy: 0.1578645557165146, bbox_loss: 0.17199398577213287, l_r: 0.001, fg_num: 1126, bg_num: 3994
+step: 150, time: 195.39791750907898s, batch_shape: (10, 720, 960, 3), loss: 43.74900817871094, cls_cross_entropy: 0.1272100806236267, bbox_loss: 0.14453618228435516, l_r: 0.001, fg_num: 1449, bg_num: 3671
+************   validation set   ************
+loss: 44.587623596191406, cls_cross_entropy: 0.14387105405330658, bbox_loss: 0.18603821098804474
+Model Saved
+step: 151, time: 196.75509977340698s, batch_shape: (10, 720, 960, 3), loss: 43.555049896240234, cls_cross_entropy: 0.1557469218969345, bbox_loss: 0.14340554177761078, l_r: 0.001, fg_num: 817, bg_num: 4303
+step: 152, time: 197.9126160144806s, batch_shape: (10, 720, 960, 3), loss: 43.37636184692383, cls_cross_entropy: 0.18774199485778809, bbox_loss: 0.16190479695796967, l_r: 0.001, fg_num: 1497, bg_num: 3623
+step: 153, time: 199.135085105896s, batch_shape: (10, 720, 960, 3), loss: 43.114776611328125, cls_cross_entropy: 0.15448296070098877, bbox_loss: 0.14123709499835968, l_r: 0.001, fg_num: 1520, bg_num: 3600
+step: 154, time: 200.38687229156494s, batch_shape: (10, 720, 960, 3), loss: 42.87529754638672, cls_cross_entropy: 0.14135965704917908, bbox_loss: 0.12063383311033249, l_r: 0.001, fg_num: 999, bg_num: 4121
+step: 155, time: 201.56979489326477s, batch_shape: (10, 720, 960, 3), loss: 42.67618179321289, cls_cross_entropy: 0.15741592645645142, bbox_loss: 0.11851084977388382, l_r: 0.001, fg_num: 2025, bg_num: 3095
+step: 156, time: 202.80012702941895s, batch_shape: (10, 720, 960, 3), loss: 42.479122161865234, cls_cross_entropy: 0.15860572457313538, bbox_loss: 0.14644521474838257, l_r: 0.001, fg_num: 991, bg_num: 4129
+step: 157, time: 203.96880626678467s, batch_shape: (10, 720, 960, 3), loss: 42.240684509277344, cls_cross_entropy: 0.12541750073432922, bbox_loss: 0.15667939186096191, l_r: 0.001, fg_num: 1458, bg_num: 3662
+step: 158, time: 205.0985062122345s, batch_shape: (10, 720, 960, 3), loss: 42.13404083251953, cls_cross_entropy: 0.22027234733104706, bbox_loss: 0.1708104908466339, l_r: 0.001, fg_num: 870, bg_num: 4250
+step: 159, time: 206.23014903068542s, batch_shape: (10, 720, 960, 3), loss: 41.87114715576172, cls_cross_entropy: 0.17116667330265045, bbox_loss: 0.15685226023197174, l_r: 0.001, fg_num: 1398, bg_num: 3722
+step: 160, time: 207.43739938735962s, batch_shape: (10, 720, 960, 3), loss: 41.631561279296875, cls_cross_entropy: 0.11779489368200302, bbox_loss: 0.19437821209430695, l_r: 0.001, fg_num: 844, bg_num: 4276
+************   validation set   ************
+loss: 42.3877067565918, cls_cross_entropy: 0.14639036357402802, bbox_loss: 0.18372823297977448
+step: 161, time: 208.65779948234558s, batch_shape: (10, 720, 960, 3), loss: 41.42040252685547, cls_cross_entropy: 0.11399311572313309, bbox_loss: 0.18611712753772736, l_r: 0.001, fg_num: 989, bg_num: 4131
+step: 162, time: 209.9129283428192s, batch_shape: (10, 720, 960, 3), loss: 41.22136688232422, cls_cross_entropy: 0.1508757770061493, bbox_loss: 0.11716318130493164, l_r: 0.001, fg_num: 1376, bg_num: 3744
+step: 163, time: 211.15817856788635s, batch_shape: (10, 720, 960, 3), loss: 40.9880485534668, cls_cross_entropy: 0.1170017421245575, bbox_loss: 0.11772547662258148, l_r: 0.001, fg_num: 1097, bg_num: 4023
+step: 164, time: 212.40018939971924s, batch_shape: (10, 720, 960, 3), loss: 40.84206771850586, cls_cross_entropy: 0.16387446224689484, bbox_loss: 0.12800557911396027, l_r: 0.001, fg_num: 1237, bg_num: 3883
+step: 165, time: 213.63833904266357s, batch_shape: (10, 720, 960, 3), loss: 40.59014129638672, cls_cross_entropy: 0.11717122048139572, bbox_loss: 0.11010444909334183, l_r: 0.001, fg_num: 1377, bg_num: 3743
+step: 166, time: 214.88719940185547s, batch_shape: (10, 720, 960, 3), loss: 40.45918655395508, cls_cross_entropy: 0.16788893938064575, bbox_loss: 0.13592271506786346, l_r: 0.001, fg_num: 1429, bg_num: 3691
+step: 167, time: 216.08531498908997s, batch_shape: (10, 720, 960, 3), loss: 40.22775650024414, cls_cross_entropy: 0.10961847007274628, bbox_loss: 0.17546075582504272, l_r: 0.001, fg_num: 997, bg_num: 4123
+step: 168, time: 217.33285546302795s, batch_shape: (10, 720, 960, 3), loss: 40.03870391845703, cls_cross_entropy: 0.11710979044437408, bbox_loss: 0.16496166586875916, l_r: 0.001, fg_num: 1104, bg_num: 4016
+step: 169, time: 218.58144974708557s, batch_shape: (10, 720, 960, 3), loss: 39.81693649291992, cls_cross_entropy: 0.11512044817209244, bbox_loss: 0.10470924526453018, l_r: 0.001, fg_num: 787, bg_num: 4333
+step: 170, time: 219.8372414112091s, batch_shape: (10, 720, 960, 3), loss: 39.72426223754883, cls_cross_entropy: 0.18522031605243683, bbox_loss: 0.15526822209358215, l_r: 0.001, fg_num: 1295, bg_num: 3825
+************   validation set   ************
+loss: 40.35637664794922, cls_cross_entropy: 0.1349923312664032, bbox_loss: 0.17580994963645935
+Model Saved
+step: 171, time: 221.28441190719604s, batch_shape: (10, 720, 960, 3), loss: 39.62638473510742, cls_cross_entropy: 0.2505723834037781, bbox_loss: 0.20184223353862762, l_r: 0.001, fg_num: 849, bg_num: 4271
+step: 172, time: 222.50835418701172s, batch_shape: (10, 720, 960, 3), loss: 39.28025817871094, cls_cross_entropy: 0.12828338146209717, bbox_loss: 0.12403270602226257, l_r: 0.001, fg_num: 1291, bg_num: 3829
+step: 173, time: 223.77641439437866s, batch_shape: (10, 720, 960, 3), loss: 39.16584777832031, cls_cross_entropy: 0.17441964149475098, bbox_loss: 0.16972967982292175, l_r: 0.001, fg_num: 1290, bg_num: 3830
+step: 174, time: 224.96073627471924s, batch_shape: (10, 720, 960, 3), loss: 38.97011184692383, cls_cross_entropy: 0.18623857200145721, bbox_loss: 0.11843812465667725, l_r: 0.001, fg_num: 1596, bg_num: 3524
+step: 175, time: 226.2125415802002s, batch_shape: (10, 720, 960, 3), loss: 38.79259490966797, cls_cross_entropy: 0.17760272324085236, bbox_loss: 0.14150339365005493, l_r: 0.001, fg_num: 1712, bg_num: 3408
+step: 176, time: 227.47123289108276s, batch_shape: (10, 720, 960, 3), loss: 38.572349548339844, cls_cross_entropy: 0.15398526191711426, bbox_loss: 0.1060856357216835, l_r: 0.001, fg_num: 1876, bg_num: 3244
+step: 177, time: 228.7190866470337s, batch_shape: (10, 720, 960, 3), loss: 38.436485290527344, cls_cross_entropy: 0.19266755878925323, bbox_loss: 0.11185549944639206, l_r: 0.001, fg_num: 1609, bg_num: 3511
+step: 178, time: 229.91691398620605s, batch_shape: (10, 720, 960, 3), loss: 38.164703369140625, cls_cross_entropy: 0.10843808203935623, bbox_loss: 0.08872878551483154, l_r: 0.001, fg_num: 1341, bg_num: 3779
+step: 179, time: 231.16482591629028s, batch_shape: (10, 720, 960, 3), loss: 38.0074348449707, cls_cross_entropy: 0.10979961603879929, bbox_loss: 0.1205160990357399, l_r: 0.001, fg_num: 1103, bg_num: 4017
+step: 180, time: 232.4246096611023s, batch_shape: (10, 720, 960, 3), loss: 37.82761001586914, cls_cross_entropy: 0.11227929592132568, bbox_loss: 0.10207991302013397, l_r: 0.001, fg_num: 1035, bg_num: 4085
+************   validation set   ************
+loss: 38.504966735839844, cls_cross_entropy: 0.13601720333099365, bbox_loss: 0.17292815446853638
+Model Saved
+step: 181, time: 233.91632390022278s, batch_shape: (10, 720, 960, 3), loss: 37.69846725463867, cls_cross_entropy: 0.13486039638519287, bbox_loss: 0.14196379482746124, l_r: 0.001, fg_num: 1360, bg_num: 3760
+step: 182, time: 235.15629482269287s, batch_shape: (10, 720, 960, 3), loss: 37.551429748535156, cls_cross_entropy: 0.16145575046539307, bbox_loss: 0.13522499799728394, l_r: 0.001, fg_num: 925, bg_num: 4195
+step: 183, time: 236.42956852912903s, batch_shape: (10, 720, 960, 3), loss: 37.361305236816406, cls_cross_entropy: 0.14858660101890564, bbox_loss: 0.11855654418468475, l_r: 0.001, fg_num: 1451, bg_num: 3669
+step: 184, time: 237.68256044387817s, batch_shape: (10, 720, 960, 3), loss: 37.1820182800293, cls_cross_entropy: 0.1389760822057724, bbox_loss: 0.11433646082878113, l_r: 0.001, fg_num: 1106, bg_num: 4014
+step: 185, time: 238.93400073051453s, batch_shape: (10, 720, 960, 3), loss: 37.11613845825195, cls_cross_entropy: 0.22085008025169373, bbox_loss: 0.15128688514232635, l_r: 0.001, fg_num: 1299, bg_num: 3821
+step: 186, time: 240.15367484092712s, batch_shape: (10, 720, 960, 3), loss: 36.90376663208008, cls_cross_entropy: 0.174972802400589, bbox_loss: 0.14810077846050262, l_r: 0.001, fg_num: 1743, bg_num: 3377
+step: 187, time: 241.44021153450012s, batch_shape: (10, 720, 960, 3), loss: 36.67768478393555, cls_cross_entropy: 0.1166575700044632, bbox_loss: 0.13979683816432953, l_r: 0.001, fg_num: 1383, bg_num: 3737
+step: 188, time: 242.67805218696594s, batch_shape: (10, 720, 960, 3), loss: 36.56228256225586, cls_cross_entropy: 0.1370580941438675, bbox_loss: 0.1928257793188095, l_r: 0.001, fg_num: 635, bg_num: 4485
+step: 189, time: 243.88051867485046s, batch_shape: (10, 720, 960, 3), loss: 36.342342376708984, cls_cross_entropy: 0.12065091729164124, bbox_loss: 0.10776189714670181, l_r: 0.001, fg_num: 1381, bg_num: 3739
+step: 190, time: 245.07440376281738s, batch_shape: (10, 720, 960, 3), loss: 36.27930450439453, cls_cross_entropy: 0.18725746870040894, bbox_loss: 0.16793933510780334, l_r: 0.001, fg_num: 1493, bg_num: 3627
+************   validation set   ************
+loss: 36.79514694213867, cls_cross_entropy: 0.13306111097335815, bbox_loss: 0.16788455843925476
+Model Saved
+step: 191, time: 246.59722900390625s, batch_shape: (10, 720, 960, 3), loss: 36.04954528808594, cls_cross_entropy: 0.1350962370634079, bbox_loss: 0.1297064572572708, l_r: 0.001, fg_num: 1196, bg_num: 3924
+step: 192, time: 247.84040331840515s, batch_shape: (10, 720, 960, 3), loss: 35.91380310058594, cls_cross_entropy: 0.1476435363292694, bbox_loss: 0.14761608839035034, l_r: 0.001, fg_num: 1348, bg_num: 3772
+step: 193, time: 249.00104093551636s, batch_shape: (10, 720, 960, 3), loss: 35.72787857055664, cls_cross_entropy: 0.12844888865947723, bbox_loss: 0.12613485753536224, l_r: 0.001, fg_num: 826, bg_num: 4294
+step: 194, time: 250.2308075428009s, batch_shape: (10, 720, 960, 3), loss: 35.60179138183594, cls_cross_entropy: 0.15953309834003448, bbox_loss: 0.1213003471493721, l_r: 0.001, fg_num: 1342, bg_num: 3778
+step: 195, time: 251.42692255973816s, batch_shape: (10, 720, 960, 3), loss: 35.43807601928711, cls_cross_entropy: 0.13045577704906464, bbox_loss: 0.15913453698158264, l_r: 0.001, fg_num: 969, bg_num: 4151
+step: 196, time: 252.5739517211914s, batch_shape: (10, 720, 960, 3), loss: 35.272308349609375, cls_cross_entropy: 0.13807755708694458, bbox_loss: 0.11711586266756058, l_r: 0.001, fg_num: 1390, bg_num: 3730
+step: 197, time: 253.74382162094116s, batch_shape: (10, 720, 960, 3), loss: 35.12091827392578, cls_cross_entropy: 0.1347006857395172, bbox_loss: 0.12349366396665573, l_r: 0.001, fg_num: 1766, bg_num: 3354
+step: 198, time: 254.96391367912292s, batch_shape: (10, 720, 960, 3), loss: 34.96629333496094, cls_cross_entropy: 0.14507794380187988, bbox_loss: 0.09356293082237244, l_r: 0.001, fg_num: 1866, bg_num: 3254
+step: 199, time: 256.21410727500916s, batch_shape: (10, 720, 960, 3), loss: 34.844242095947266, cls_cross_entropy: 0.15564411878585815, bbox_loss: 0.1260634958744049, l_r: 0.001, fg_num: 1323, bg_num: 3797
+step: 200, time: 257.45898270606995s, batch_shape: (10, 720, 960, 3), loss: 34.67577362060547, cls_cross_entropy: 0.13963857293128967, bbox_loss: 0.11665985733270645, l_r: 0.001, fg_num: 830, bg_num: 4290
+************   validation set   ************
+loss: 35.211273193359375, cls_cross_entropy: 0.1250237226486206, bbox_loss: 0.16299854218959808
+Model Saved
+step: 201, time: 258.9248585700989s, batch_shape: (10, 720, 960, 3), loss: 34.51361083984375, cls_cross_entropy: 0.12905214726924896, bbox_loss: 0.10675237327814102, l_r: 0.001, fg_num: 1148, bg_num: 3972
+step: 202, time: 260.084214925766s, batch_shape: (10, 720, 960, 3), loss: 34.36840057373047, cls_cross_entropy: 0.1207958310842514, bbox_loss: 0.1238647922873497, l_r: 0.001, fg_num: 1221, bg_num: 3899
+step: 203, time: 261.33189582824707s, batch_shape: (10, 720, 960, 3), loss: 34.24186325073242, cls_cross_entropy: 0.12972137331962585, bbox_loss: 0.14179359376430511, l_r: 0.001, fg_num: 1162, bg_num: 3958
+step: 204, time: 262.528772354126s, batch_shape: (10, 720, 960, 3), loss: 34.045875549316406, cls_cross_entropy: 0.0989748165011406, bbox_loss: 0.09801409393548965, l_r: 0.001, fg_num: 1294, bg_num: 3826
+step: 205, time: 263.67869877815247s, batch_shape: (10, 720, 960, 3), loss: 33.968894958496094, cls_cross_entropy: 0.13541902601718903, bbox_loss: 0.1556885689496994, l_r: 0.001, fg_num: 825, bg_num: 4295
+step: 206, time: 264.8989586830139s, batch_shape: (10, 720, 960, 3), loss: 33.794219970703125, cls_cross_entropy: 0.12797775864601135, bbox_loss: 0.1035868301987648, l_r: 0.001, fg_num: 1515, bg_num: 3605
+step: 207, time: 266.0345206260681s, batch_shape: (10, 720, 960, 3), loss: 33.63741683959961, cls_cross_entropy: 0.10176431387662888, bbox_loss: 0.12267257273197174, l_r: 0.001, fg_num: 1403, bg_num: 3717
+step: 208, time: 267.28482961654663s, batch_shape: (10, 720, 960, 3), loss: 33.60718536376953, cls_cross_entropy: 0.20448270440101624, bbox_loss: 0.13499143719673157, l_r: 0.001, fg_num: 817, bg_num: 4303
+step: 209, time: 268.5422148704529s, batch_shape: (10, 720, 960, 3), loss: 33.3541145324707, cls_cross_entropy: 0.10913392156362534, bbox_loss: 0.09574507921934128, l_r: 0.001, fg_num: 1051, bg_num: 4069
+step: 210, time: 269.77396845817566s, batch_shape: (10, 720, 960, 3), loss: 33.27792739868164, cls_cross_entropy: 0.1604846566915512, bbox_loss: 0.11484818160533905, l_r: 0.001, fg_num: 1347, bg_num: 3773
+************   validation set   ************
+loss: 33.764137268066406, cls_cross_entropy: 0.13080541789531708, bbox_loss: 0.16956469416618347
+step: 211, time: 271.0253326892853s, batch_shape: (10, 720, 960, 3), loss: 33.1336555480957, cls_cross_entropy: 0.14877668023109436, bbox_loss: 0.12183916568756104, l_r: 0.001, fg_num: 1588, bg_num: 3532
+step: 212, time: 272.2645494937897s, batch_shape: (10, 720, 960, 3), loss: 32.97797775268555, cls_cross_entropy: 0.12261096388101578, bbox_loss: 0.13288886845111847, l_r: 0.001, fg_num: 681, bg_num: 4439
+step: 213, time: 273.4341390132904s, batch_shape: (10, 720, 960, 3), loss: 32.838741302490234, cls_cross_entropy: 0.12439310550689697, bbox_loss: 0.11894825845956802, l_r: 0.001, fg_num: 1096, bg_num: 4024
+step: 214, time: 274.59493613243103s, batch_shape: (10, 720, 960, 3), loss: 32.71006393432617, cls_cross_entropy: 0.13312017917633057, bbox_loss: 0.11025363206863403, l_r: 0.001, fg_num: 1253, bg_num: 3867
+step: 215, time: 275.82345390319824s, batch_shape: (10, 720, 960, 3), loss: 32.55854034423828, cls_cross_entropy: 0.1090632751584053, bbox_loss: 0.11952795833349228, l_r: 0.001, fg_num: 790, bg_num: 4330
+step: 216, time: 277.04187536239624s, batch_shape: (10, 720, 960, 3), loss: 32.4732666015625, cls_cross_entropy: 0.15603595972061157, bbox_loss: 0.11735483258962631, l_r: 0.001, fg_num: 1180, bg_num: 3940
+step: 217, time: 278.24417757987976s, batch_shape: (10, 720, 960, 3), loss: 32.309513092041016, cls_cross_entropy: 0.127520352602005, bbox_loss: 0.10726497322320938, l_r: 0.001, fg_num: 1522, bg_num: 3598
+step: 218, time: 279.5049126148224s, batch_shape: (10, 720, 960, 3), loss: 32.14686584472656, cls_cross_entropy: 0.10025850683450699, bbox_loss: 0.09494209289550781, l_r: 0.001, fg_num: 1614, bg_num: 3506
+step: 219, time: 280.7038791179657s, batch_shape: (10, 720, 960, 3), loss: 32.039207458496094, cls_cross_entropy: 0.12291908264160156, bbox_loss: 0.09095754474401474, l_r: 0.001, fg_num: 1447, bg_num: 3673
+step: 220, time: 281.89661502838135s, batch_shape: (10, 720, 960, 3), loss: 32.008705139160156, cls_cross_entropy: 0.1905391961336136, bbox_loss: 0.14951308071613312, l_r: 0.001, fg_num: 1252, bg_num: 3868
+************   validation set   ************
+loss: 32.410011291503906, cls_cross_entropy: 0.1311105638742447, bbox_loss: 0.16331173479557037
+step: 221, time: 283.1031572818756s, batch_shape: (10, 720, 960, 3), loss: 31.803913116455078, cls_cross_entropy: 0.12499133497476578, bbox_loss: 0.12413937598466873, l_r: 0.001, fg_num: 1520, bg_num: 3600
+step: 222, time: 284.362117767334s, batch_shape: (10, 720, 960, 3), loss: 31.66183853149414, cls_cross_entropy: 0.11337108910083771, bbox_loss: 0.11450516432523727, l_r: 0.001, fg_num: 1013, bg_num: 4107
+step: 223, time: 285.5799996852875s, batch_shape: (10, 720, 960, 3), loss: 31.587749481201172, cls_cross_entropy: 0.15614968538284302, bbox_loss: 0.13026686012744904, l_r: 0.001, fg_num: 1269, bg_num: 3851
+step: 224, time: 286.80879402160645s, batch_shape: (10, 720, 960, 3), loss: 31.414506912231445, cls_cross_entropy: 0.11581211537122726, bbox_loss: 0.11221446096897125, l_r: 0.001, fg_num: 1288, bg_num: 3832
+step: 225, time: 287.9463109970093s, batch_shape: (10, 720, 960, 3), loss: 31.342350006103516, cls_cross_entropy: 0.1631147712469101, bbox_loss: 0.11929208040237427, l_r: 0.001, fg_num: 1453, bg_num: 3667
+step: 226, time: 289.1431772708893s, batch_shape: (10, 720, 960, 3), loss: 31.15961265563965, cls_cross_entropy: 0.11486733704805374, bbox_loss: 0.09457220137119293, l_r: 0.001, fg_num: 1152, bg_num: 3968
+step: 227, time: 290.34583163261414s, batch_shape: (10, 720, 960, 3), loss: 31.088552474975586, cls_cross_entropy: 0.14920784533023834, bbox_loss: 0.1263599544763565, l_r: 0.001, fg_num: 1204, bg_num: 3916
+step: 228, time: 291.59597086906433s, batch_shape: (10, 720, 960, 3), loss: 30.939533233642578, cls_cross_entropy: 0.12505199015140533, bbox_loss: 0.11750254034996033, l_r: 0.001, fg_num: 1332, bg_num: 3788
+step: 229, time: 292.7888662815094s, batch_shape: (10, 720, 960, 3), loss: 30.796226501464844, cls_cross_entropy: 0.1059350073337555, bbox_loss: 0.1083407774567604, l_r: 0.001, fg_num: 1224, bg_num: 3896
+step: 230, time: 294.00483655929565s, batch_shape: (10, 720, 960, 3), loss: 30.68477439880371, cls_cross_entropy: 0.11605428159236908, bbox_loss: 0.10280093550682068, l_r: 0.001, fg_num: 1232, bg_num: 3888
+************   validation set   ************
+loss: 31.137399673461914, cls_cross_entropy: 0.11730251461267471, bbox_loss: 0.1597941666841507
+Model Saved
+step: 231, time: 295.4561114311218s, batch_shape: (10, 720, 960, 3), loss: 30.559791564941406, cls_cross_entropy: 0.1078169122338295, bbox_loss: 0.1052745059132576, l_r: 0.001, fg_num: 1743, bg_num: 3377
+step: 232, time: 296.65522384643555s, batch_shape: (10, 720, 960, 3), loss: 30.5350284576416, cls_cross_entropy: 0.17289507389068604, bbox_loss: 0.15996098518371582, l_r: 0.001, fg_num: 801, bg_num: 4319
+step: 233, time: 297.9185435771942s, batch_shape: (10, 720, 960, 3), loss: 30.305809020996094, cls_cross_entropy: 0.0923907533288002, bbox_loss: 0.0952807366847992, l_r: 0.001, fg_num: 1452, bg_num: 3668
+step: 234, time: 299.15111351013184s, batch_shape: (10, 720, 960, 3), loss: 30.207717895507812, cls_cross_entropy: 0.10255137085914612, bbox_loss: 0.10995246469974518, l_r: 0.001, fg_num: 1023, bg_num: 4097
+step: 235, time: 300.4299535751343s, batch_shape: (10, 720, 960, 3), loss: 30.153764724731445, cls_cross_entropy: 0.15287873148918152, bbox_loss: 0.13100793957710266, l_r: 0.001, fg_num: 1211, bg_num: 3909
+step: 236, time: 301.64383482933044s, batch_shape: (10, 720, 960, 3), loss: 29.998260498046875, cls_cross_entropy: 0.10896673053503036, bbox_loss: 0.13594940304756165, l_r: 0.001, fg_num: 990, bg_num: 4130
+step: 237, time: 302.8755693435669s, batch_shape: (10, 720, 960, 3), loss: 29.88475799560547, cls_cross_entropy: 0.12772227823734283, bbox_loss: 0.0980699434876442, l_r: 0.001, fg_num: 1044, bg_num: 4076
+step: 238, time: 304.0165092945099s, batch_shape: (10, 720, 960, 3), loss: 29.78691864013672, cls_cross_entropy: 0.13138610124588013, bbox_loss: 0.1201726496219635, l_r: 0.001, fg_num: 1586, bg_num: 3534
+step: 239, time: 305.1632854938507s, batch_shape: (10, 720, 960, 3), loss: 29.66928482055664, cls_cross_entropy: 0.12173285335302353, bbox_loss: 0.12784415483474731, l_r: 0.001, fg_num: 1155, bg_num: 3965
+step: 240, time: 306.36945271492004s, batch_shape: (10, 720, 960, 3), loss: 29.55494499206543, cls_cross_entropy: 0.1277233213186264, bbox_loss: 0.10931994020938873, l_r: 0.001, fg_num: 962, bg_num: 4158
+************   validation set   ************
+loss: 29.967365264892578, cls_cross_entropy: 0.12344751507043839, bbox_loss: 0.15248706936836243
+Model Saved
+step: 241, time: 307.8585021495819s, batch_shape: (10, 720, 960, 3), loss: 29.503684997558594, cls_cross_entropy: 0.18925736844539642, bbox_loss: 0.10435383766889572, l_r: 0.001, fg_num: 1365, bg_num: 3755
+step: 242, time: 309.1020209789276s, batch_shape: (10, 720, 960, 3), loss: 29.3155574798584, cls_cross_entropy: 0.11411011964082718, bbox_loss: 0.09757519513368607, l_r: 0.001, fg_num: 1430, bg_num: 3690
+step: 243, time: 310.3286066055298s, batch_shape: (10, 720, 960, 3), loss: 29.224498748779297, cls_cross_entropy: 0.11903295665979385, bbox_loss: 0.12333817780017853, l_r: 0.001, fg_num: 1102, bg_num: 4018
+step: 244, time: 311.5154185295105s, batch_shape: (10, 720, 960, 3), loss: 29.138019561767578, cls_cross_entropy: 0.14749068021774292, bbox_loss: 0.10972940176725388, l_r: 0.001, fg_num: 1230, bg_num: 3890
+step: 245, time: 312.7435324192047s, batch_shape: (10, 720, 960, 3), loss: 28.99397850036621, cls_cross_entropy: 0.12068597227334976, bbox_loss: 0.09006307274103165, l_r: 0.001, fg_num: 1580, bg_num: 3540
+step: 246, time: 313.9989836215973s, batch_shape: (10, 720, 960, 3), loss: 28.87508773803711, cls_cross_entropy: 0.10593210905790329, bbox_loss: 0.09515590220689774, l_r: 0.001, fg_num: 1218, bg_num: 3902
+step: 247, time: 315.2478847503662s, batch_shape: (10, 720, 960, 3), loss: 28.783126831054688, cls_cross_entropy: 0.11800874024629593, bbox_loss: 0.09901019930839539, l_r: 0.001, fg_num: 1627, bg_num: 3493
+step: 248, time: 316.4982478618622s, batch_shape: (10, 720, 960, 3), loss: 28.68108558654785, cls_cross_entropy: 0.11308428645133972, bbox_loss: 0.11537958681583405, l_r: 0.001, fg_num: 1105, bg_num: 4015
+step: 249, time: 317.6977515220642s, batch_shape: (10, 720, 960, 3), loss: 28.567216873168945, cls_cross_entropy: 0.11385340988636017, bbox_loss: 0.09532076120376587, l_r: 0.001, fg_num: 1400, bg_num: 3720
+step: 250, time: 318.9051694869995s, batch_shape: (10, 720, 960, 3), loss: 28.45395278930664, cls_cross_entropy: 0.10132431238889694, bbox_loss: 0.10174141824245453, l_r: 0.001, fg_num: 1665, bg_num: 3455
+************   validation set   ************
+loss: 28.870800018310547, cls_cross_entropy: 0.12150844186544418, bbox_loss: 0.1558298021554947
+step: 251, time: 320.1135063171387s, batch_shape: (10, 720, 960, 3), loss: 28.3804988861084, cls_cross_entropy: 0.11800670623779297, bbox_loss: 0.128096342086792, l_r: 0.001, fg_num: 807, bg_num: 4313
+step: 252, time: 321.3600821495056s, batch_shape: (10, 720, 960, 3), loss: 28.284584045410156, cls_cross_entropy: 0.14631782472133636, bbox_loss: 0.08500457555055618, l_r: 0.001, fg_num: 1619, bg_num: 3501
+step: 253, time: 322.5795202255249s, batch_shape: (10, 720, 960, 3), loss: 28.133726119995117, cls_cross_entropy: 0.08882973343133926, bbox_loss: 0.10234316438436508, l_r: 0.001, fg_num: 1192, bg_num: 3928
+step: 254, time: 323.8033483028412s, batch_shape: (10, 720, 960, 3), loss: 28.10817527770996, cls_cross_entropy: 0.1398036926984787, bbox_loss: 0.15207460522651672, l_r: 0.001, fg_num: 1266, bg_num: 3854
+step: 255, time: 324.93350768089294s, batch_shape: (10, 720, 960, 3), loss: 27.962493896484375, cls_cross_entropy: 0.12398470938205719, bbox_loss: 0.093867227435112, l_r: 0.001, fg_num: 1878, bg_num: 3242
+step: 256, time: 326.1253821849823s, batch_shape: (10, 720, 960, 3), loss: 27.88888168334961, cls_cross_entropy: 0.13790564239025116, bbox_loss: 0.1190081238746643, l_r: 0.001, fg_num: 1024, bg_num: 4096
+step: 257, time: 327.2813608646393s, batch_shape: (10, 720, 960, 3), loss: 27.76120376586914, cls_cross_entropy: 0.10874602943658829, bbox_loss: 0.12094687670469284, l_r: 0.001, fg_num: 886, bg_num: 4234
+step: 258, time: 328.4663646221161s, batch_shape: (10, 720, 960, 3), loss: 27.671741485595703, cls_cross_entropy: 0.11996772140264511, bbox_loss: 0.11726392805576324, l_r: 0.001, fg_num: 818, bg_num: 4302
+step: 259, time: 329.6618809700012s, batch_shape: (10, 720, 960, 3), loss: 27.5543270111084, cls_cross_entropy: 0.11050265282392502, bbox_loss: 0.09776134043931961, l_r: 0.001, fg_num: 1616, bg_num: 3504
+step: 260, time: 330.87932538986206s, batch_shape: (10, 720, 960, 3), loss: 27.474655151367188, cls_cross_entropy: 0.11712725460529327, bbox_loss: 0.12035436183214188, l_r: 0.001, fg_num: 1017, bg_num: 4103
+************   validation set   ************
+loss: 27.845783233642578, cls_cross_entropy: 0.12242994457483292, bbox_loss: 0.15817639231681824
+step: 261, time: 332.084685087204s, batch_shape: (10, 720, 960, 3), loss: 27.462419509887695, cls_cross_entropy: 0.18072158098220825, bbox_loss: 0.1627068668603897, l_r: 0.001, fg_num: 953, bg_num: 4167
+step: 262, time: 333.2610275745392s, batch_shape: (10, 720, 960, 3), loss: 27.251928329467773, cls_cross_entropy: 0.10047060996294022, bbox_loss: 0.09501513093709946, l_r: 0.001, fg_num: 1558, bg_num: 3562
+step: 263, time: 334.4044032096863s, batch_shape: (10, 720, 960, 3), loss: 27.165996551513672, cls_cross_entropy: 0.10199528932571411, bbox_loss: 0.1116953119635582, l_r: 0.001, fg_num: 1408, bg_num: 3712
+step: 264, time: 335.4979975223541s, batch_shape: (10, 720, 960, 3), loss: 27.17493438720703, cls_cross_entropy: 0.2078506201505661, bbox_loss: 0.10828626900911331, l_r: 0.001, fg_num: 1139, bg_num: 3981
+step: 265, time: 336.604505777359s, batch_shape: (10, 720, 960, 3), loss: 26.993024826049805, cls_cross_entropy: 0.12050242722034454, bbox_loss: 0.10849020630121231, l_r: 0.001, fg_num: 1262, bg_num: 3858
+step: 266, time: 337.86293053627014s, batch_shape: (10, 720, 960, 3), loss: 26.877017974853516, cls_cross_entropy: 0.09450756013393402, bbox_loss: 0.11661968380212784, l_r: 0.001, fg_num: 1308, bg_num: 3812
+step: 267, time: 339.10641956329346s, batch_shape: (10, 720, 960, 3), loss: 26.813114166259766, cls_cross_entropy: 0.12133397907018661, bbox_loss: 0.12217417359352112, l_r: 0.001, fg_num: 1061, bg_num: 4059
+step: 268, time: 340.3600404262543s, batch_shape: (10, 720, 960, 3), loss: 26.713640213012695, cls_cross_entropy: 0.12633943557739258, bbox_loss: 0.09903135150671005, l_r: 0.001, fg_num: 830, bg_num: 4290
+step: 269, time: 341.61512517929077s, batch_shape: (10, 720, 960, 3), loss: 26.632423400878906, cls_cross_entropy: 0.12797528505325317, bbox_loss: 0.11795049905776978, l_r: 0.001, fg_num: 1090, bg_num: 4030
+step: 270, time: 342.8743317127228s, batch_shape: (10, 720, 960, 3), loss: 26.492393493652344, cls_cross_entropy: 0.09725456684827805, bbox_loss: 0.08286673575639725, l_r: 0.001, fg_num: 1565, bg_num: 3555
+************   validation set   ************
+loss: 26.875024795532227, cls_cross_entropy: 0.11570759117603302, bbox_loss: 0.15910111367702484
+Model Saved
+step: 271, time: 344.3899767398834s, batch_shape: (10, 720, 960, 3), loss: 26.417072296142578, cls_cross_entropy: 0.10880603641271591, bbox_loss: 0.09156177192926407, l_r: 0.001, fg_num: 1460, bg_num: 3660
+step: 272, time: 345.61556601524353s, batch_shape: (10, 720, 960, 3), loss: 26.330406188964844, cls_cross_entropy: 0.10666374117136002, bbox_loss: 0.10384184122085571, l_r: 0.001, fg_num: 1378, bg_num: 3742
+step: 273, time: 346.83953309059143s, batch_shape: (10, 720, 960, 3), loss: 26.243934631347656, cls_cross_entropy: 0.12180856615304947, bbox_loss: 0.08086959272623062, l_r: 0.001, fg_num: 1248, bg_num: 3872
+step: 274, time: 348.01220703125s, batch_shape: (10, 720, 960, 3), loss: 26.168001174926758, cls_cross_entropy: 0.12590806186199188, bbox_loss: 0.10001661628484726, l_r: 0.001, fg_num: 1221, bg_num: 3899
+step: 275, time: 349.1476848125458s, batch_shape: (10, 720, 960, 3), loss: 26.059221267700195, cls_cross_entropy: 0.10651123523712158, bbox_loss: 0.09944145381450653, l_r: 0.001, fg_num: 1115, bg_num: 4005
+step: 276, time: 350.25451016426086s, batch_shape: (10, 720, 960, 3), loss: 25.994874954223633, cls_cross_entropy: 0.12310300767421722, bbox_loss: 0.11472376435995102, l_r: 0.001, fg_num: 1079, bg_num: 4041
+step: 277, time: 351.39540433883667s, batch_shape: (10, 720, 960, 3), loss: 25.912431716918945, cls_cross_entropy: 0.1350817233324051, bbox_loss: 0.10197483003139496, l_r: 0.001, fg_num: 1437, bg_num: 3683
+step: 278, time: 352.57296562194824s, batch_shape: (10, 720, 960, 3), loss: 25.804492950439453, cls_cross_entropy: 0.1169593334197998, bbox_loss: 0.09741062670946121, l_r: 0.001, fg_num: 1515, bg_num: 3605
+step: 279, time: 353.82689571380615s, batch_shape: (10, 720, 960, 3), loss: 25.71343231201172, cls_cross_entropy: 0.10412447154521942, bbox_loss: 0.11497127264738083, l_r: 0.001, fg_num: 928, bg_num: 4192
+step: 280, time: 355.0517199039459s, batch_shape: (10, 720, 960, 3), loss: 25.645221710205078, cls_cross_entropy: 0.11858558654785156, bbox_loss: 0.12265677005052567, l_r: 0.001, fg_num: 1628, bg_num: 3492
+************   validation set   ************
+loss: 25.97018814086914, cls_cross_entropy: 0.12167660146951675, bbox_loss: 0.15209707617759705
+Model Saved
+step: 281, time: 356.46020102500916s, batch_shape: (10, 720, 960, 3), loss: 25.628435134887695, cls_cross_entropy: 0.18884889781475067, bbox_loss: 0.12057584524154663, l_r: 0.001, fg_num: 940, bg_num: 4180
+step: 282, time: 357.61352014541626s, batch_shape: (10, 720, 960, 3), loss: 25.458614349365234, cls_cross_entropy: 0.11318100988864899, bbox_loss: 0.10337281227111816, l_r: 0.001, fg_num: 1249, bg_num: 3871
+step: 283, time: 358.7932279109955s, batch_shape: (10, 720, 960, 3), loss: 25.40183448791504, cls_cross_entropy: 0.14116263389587402, bbox_loss: 0.10399720072746277, l_r: 0.001, fg_num: 1438, bg_num: 3682
+step: 284, time: 359.95879197120667s, batch_shape: (10, 720, 960, 3), loss: 25.293241500854492, cls_cross_entropy: 0.11220166832208633, bbox_loss: 0.11389503628015518, l_r: 0.001, fg_num: 1327, bg_num: 3793
+step: 285, time: 361.17180156707764s, batch_shape: (10, 720, 960, 3), loss: 25.18180274963379, cls_cross_entropy: 0.09484753757715225, bbox_loss: 0.09384842216968536, l_r: 0.001, fg_num: 1221, bg_num: 3899
+step: 286, time: 362.2888171672821s, batch_shape: (10, 720, 960, 3), loss: 25.121837615966797, cls_cross_entropy: 0.1191706731915474, bbox_loss: 0.09243138879537582, l_r: 0.001, fg_num: 1128, bg_num: 3992
+step: 287, time: 363.5136137008667s, batch_shape: (10, 720, 960, 3), loss: 25.010608673095703, cls_cross_entropy: 0.08492633700370789, bbox_loss: 0.10460055619478226, l_r: 0.001, fg_num: 1423, bg_num: 3697
+step: 288, time: 364.6274769306183s, batch_shape: (10, 720, 960, 3), loss: 24.96371841430664, cls_cross_entropy: 0.12193043529987335, bbox_loss: 0.10200480371713638, l_r: 0.001, fg_num: 1360, bg_num: 3760
+step: 289, time: 365.773640871048s, batch_shape: (10, 720, 960, 3), loss: 24.868637084960938, cls_cross_entropy: 0.1069670021533966, bbox_loss: 0.10599365830421448, l_r: 0.001, fg_num: 929, bg_num: 4191
+step: 290, time: 366.9665460586548s, batch_shape: (10, 720, 960, 3), loss: 24.79535675048828, cls_cross_entropy: 0.12075603753328323, bbox_loss: 0.09517896175384521, l_r: 0.001, fg_num: 1480, bg_num: 3640
+************   validation set   ************
+loss: 25.110382080078125, cls_cross_entropy: 0.11788314580917358, bbox_loss: 0.15127307176589966
+Model Saved
+step: 291, time: 368.43258929252625s, batch_shape: (10, 720, 960, 3), loss: 24.699237823486328, cls_cross_entropy: 0.10379116237163544, bbox_loss: 0.09935162216424942, l_r: 0.001, fg_num: 1033, bg_num: 4087
+step: 292, time: 369.64712023735046s, batch_shape: (10, 720, 960, 3), loss: 24.620407104492188, cls_cross_entropy: 0.10675839334726334, bbox_loss: 0.0973501205444336, l_r: 0.001, fg_num: 918, bg_num: 4202
+step: 293, time: 370.9152145385742s, batch_shape: (10, 720, 960, 3), loss: 24.60595703125, cls_cross_entropy: 0.16205312311649323, bbox_loss: 0.1186283528804779, l_r: 0.001, fg_num: 1562, bg_num: 3558
+step: 294, time: 372.1530191898346s, batch_shape: (10, 720, 960, 3), loss: 24.45964813232422, cls_cross_entropy: 0.10893000662326813, bbox_loss: 0.09215646237134933, l_r: 0.001, fg_num: 1018, bg_num: 4102
+step: 295, time: 373.35026717185974s, batch_shape: (10, 720, 960, 3), loss: 24.418102264404297, cls_cross_entropy: 0.13864672183990479, bbox_loss: 0.10857882350683212, l_r: 0.001, fg_num: 1373, bg_num: 3747
+step: 296, time: 374.5414705276489s, batch_shape: (10, 720, 960, 3), loss: 24.321640014648438, cls_cross_entropy: 0.12759900093078613, bbox_loss: 0.09579787403345108, l_r: 0.001, fg_num: 1720, bg_num: 3400
+step: 297, time: 375.736421585083s, batch_shape: (10, 720, 960, 3), loss: 24.21454429626465, cls_cross_entropy: 0.09918767958879471, bbox_loss: 0.09563279896974564, l_r: 0.001, fg_num: 1040, bg_num: 4080
+step: 298, time: 376.9375002384186s, batch_shape: (10, 720, 960, 3), loss: 24.238027572631836, cls_cross_entropy: 0.18691648542881012, bbox_loss: 0.12347273528575897, l_r: 0.001, fg_num: 815, bg_num: 4305
+step: 299, time: 378.20046854019165s, batch_shape: (10, 720, 960, 3), loss: 24.059173583984375, cls_cross_entropy: 0.10443670302629471, bbox_loss: 0.08623136579990387, l_r: 0.001, fg_num: 1635, bg_num: 3485
+step: 300, time: 379.4196412563324s, batch_shape: (10, 720, 960, 3), loss: 23.987268447875977, cls_cross_entropy: 0.105492502450943, bbox_loss: 0.09498857706785202, l_r: 0.001, fg_num: 1516, bg_num: 3604
+************   validation set   ************
+loss: 24.295557022094727, cls_cross_entropy: 0.11538076400756836, bbox_loss: 0.14321288466453552
+Model Saved
+step: 301, time: 380.83876156806946s, batch_shape: (10, 720, 960, 3), loss: 23.989973068237305, cls_cross_entropy: 0.18238863348960876, bbox_loss: 0.10041725635528564, l_r: 0.001, fg_num: 1166, bg_num: 3954
+step: 302, time: 382.0410988330841s, batch_shape: (10, 720, 960, 3), loss: 23.826614379882812, cls_cross_entropy: 0.09802408516407013, bbox_loss: 0.09546256065368652, l_r: 0.001, fg_num: 1122, bg_num: 3998
+step: 303, time: 383.26858925819397s, batch_shape: (10, 720, 960, 3), loss: 23.777881622314453, cls_cross_entropy: 0.12708956003189087, bbox_loss: 0.09207846224308014, l_r: 0.001, fg_num: 1369, bg_num: 3751
+step: 304, time: 384.51578283309937s, batch_shape: (10, 720, 960, 3), loss: 23.686250686645508, cls_cross_entropy: 0.11292725056409836, bbox_loss: 0.08851601183414459, l_r: 0.001, fg_num: 1447, bg_num: 3673
+step: 305, time: 385.73891162872314s, batch_shape: (10, 720, 960, 3), loss: 23.62885284423828, cls_cross_entropy: 0.12010937184095383, bbox_loss: 0.10990235954523087, l_r: 0.001, fg_num: 1030, bg_num: 4090
+step: 306, time: 386.95334243774414s, batch_shape: (10, 720, 960, 3), loss: 23.507091522216797, cls_cross_entropy: 0.07846750319004059, bbox_loss: 0.09934677183628082, l_r: 0.001, fg_num: 1038, bg_num: 4082
+step: 307, time: 388.1824140548706s, batch_shape: (10, 720, 960, 3), loss: 23.444515228271484, cls_cross_entropy: 0.09486796706914902, bbox_loss: 0.09028627723455429, l_r: 0.001, fg_num: 1211, bg_num: 3909
+step: 308, time: 389.417671918869s, batch_shape: (10, 720, 960, 3), loss: 23.386913299560547, cls_cross_entropy: 0.11102446913719177, bbox_loss: 0.09088040143251419, l_r: 0.001, fg_num: 1501, bg_num: 3619
+step: 309, time: 390.5903060436249s, batch_shape: (10, 720, 960, 3), loss: 23.323505401611328, cls_cross_entropy: 0.11639970541000366, bbox_loss: 0.10064864903688431, l_r: 0.001, fg_num: 1058, bg_num: 4062
+step: 310, time: 391.7822711467743s, batch_shape: (10, 720, 960, 3), loss: 23.24671173095703, cls_cross_entropy: 0.11203941702842712, bbox_loss: 0.10236870497465134, l_r: 0.001, fg_num: 1477, bg_num: 3643
+************   validation set   ************
+loss: 23.53387451171875, cls_cross_entropy: 0.1169222742319107, bbox_loss: 0.14726121723651886
+step: 311, time: 392.9812743663788s, batch_shape: (10, 720, 960, 3), loss: 23.15850257873535, cls_cross_entropy: 0.09922423213720322, bbox_loss: 0.09742260724306107, l_r: 0.001, fg_num: 1555, bg_num: 3565
+step: 312, time: 394.17536640167236s, batch_shape: (10, 720, 960, 3), loss: 23.07161521911621, cls_cross_entropy: 0.0899806097149849, bbox_loss: 0.0872049331665039, l_r: 0.001, fg_num: 1484, bg_num: 3636
+step: 313, time: 395.3317382335663s, batch_shape: (10, 720, 960, 3), loss: 22.975637435913086, cls_cross_entropy: 0.0672266036272049, bbox_loss: 0.08509404957294464, l_r: 0.001, fg_num: 1025, bg_num: 4095
+step: 314, time: 396.58579754829407s, batch_shape: (10, 720, 960, 3), loss: 22.995529174804688, cls_cross_entropy: 0.14632122218608856, bbox_loss: 0.11027553677558899, l_r: 0.001, fg_num: 1246, bg_num: 3874
+step: 315, time: 397.83288288116455s, batch_shape: (10, 720, 960, 3), loss: 22.89830207824707, cls_cross_entropy: 0.12957462668418884, bbox_loss: 0.09217099100351334, l_r: 0.001, fg_num: 1022, bg_num: 4098
+step: 316, time: 399.0774326324463s, batch_shape: (10, 720, 960, 3), loss: 22.810232162475586, cls_cross_entropy: 0.10052710771560669, bbox_loss: 0.11627175658941269, l_r: 0.001, fg_num: 1354, bg_num: 3766
+step: 317, time: 400.3448543548584s, batch_shape: (10, 720, 960, 3), loss: 22.770219802856445, cls_cross_entropy: 0.1378614753484726, bbox_loss: 0.10296881943941116, l_r: 0.001, fg_num: 1373, bg_num: 3747
+step: 318, time: 401.58908128738403s, batch_shape: (10, 720, 960, 3), loss: 22.624786376953125, cls_cross_entropy: 0.07554025202989578, bbox_loss: 0.07741453498601913, l_r: 0.001, fg_num: 859, bg_num: 4261
+step: 319, time: 402.7613649368286s, batch_shape: (10, 720, 960, 3), loss: 22.61952781677246, cls_cross_entropy: 0.1350986808538437, bbox_loss: 0.08771929889917374, l_r: 0.001, fg_num: 1398, bg_num: 3722
+step: 320, time: 403.8785934448242s, batch_shape: (10, 720, 960, 3), loss: 22.548147201538086, cls_cross_entropy: 0.1265360563993454, bbox_loss: 0.10129671543836594, l_r: 0.001, fg_num: 1398, bg_num: 3722
+************   validation set   ************
+loss: 22.80081558227539, cls_cross_entropy: 0.1112474575638771, bbox_loss: 0.14376726746559143
+Model Saved
+step: 321, time: 405.33265829086304s, batch_shape: (10, 720, 960, 3), loss: 22.435617446899414, cls_cross_entropy: 0.0946199968457222, bbox_loss: 0.07856658846139908, l_r: 0.001, fg_num: 1361, bg_num: 3759
+step: 322, time: 406.5296940803528s, batch_shape: (10, 720, 960, 3), loss: 22.37294578552246, cls_cross_entropy: 0.09060048311948776, bbox_loss: 0.09906104952096939, l_r: 0.001, fg_num: 1151, bg_num: 3969
+step: 323, time: 407.7517488002777s, batch_shape: (10, 720, 960, 3), loss: 22.39211082458496, cls_cross_entropy: 0.1838470846414566, bbox_loss: 0.08796079456806183, l_r: 0.001, fg_num: 1378, bg_num: 3742
+step: 324, time: 408.9635753631592s, batch_shape: (10, 720, 960, 3), loss: 22.235876083374023, cls_cross_entropy: 0.09710868448019028, bbox_loss: 0.0853782594203949, l_r: 0.001, fg_num: 742, bg_num: 4378
+step: 325, time: 410.132798910141s, batch_shape: (10, 720, 960, 3), loss: 22.16791534423828, cls_cross_entropy: 0.09521633386611938, bbox_loss: 0.08896440267562866, l_r: 0.001, fg_num: 1806, bg_num: 3314
+step: 326, time: 411.38308119773865s, batch_shape: (10, 720, 960, 3), loss: 22.0899658203125, cls_cross_entropy: 0.08148105442523956, bbox_loss: 0.0955675020813942, l_r: 0.001, fg_num: 1197, bg_num: 3923
+step: 327, time: 412.6317939758301s, batch_shape: (10, 720, 960, 3), loss: 22.052425384521484, cls_cross_entropy: 0.11175844073295593, bbox_loss: 0.09428871423006058, l_r: 0.001, fg_num: 1461, bg_num: 3659
+step: 328, time: 413.79998874664307s, batch_shape: (10, 720, 960, 3), loss: 21.97056007385254, cls_cross_entropy: 0.09399545937776566, bbox_loss: 0.09978480637073517, l_r: 0.001, fg_num: 1348, bg_num: 3772
+step: 329, time: 415.05632495880127s, batch_shape: (10, 720, 960, 3), loss: 21.963237762451172, cls_cross_entropy: 0.13710792362689972, bbox_loss: 0.1319345384836197, l_r: 0.001, fg_num: 747, bg_num: 4373
+step: 330, time: 416.30802822113037s, batch_shape: (10, 720, 960, 3), loss: 21.838422775268555, cls_cross_entropy: 0.09464042633771896, bbox_loss: 0.09964194893836975, l_r: 0.001, fg_num: 1163, bg_num: 3957
+************   validation set   ************
+loss: 22.112672805786133, cls_cross_entropy: 0.11299876868724823, bbox_loss: 0.1424407809972763
+step: 331, time: 417.462721824646s, batch_shape: (10, 720, 960, 3), loss: 21.796220779418945, cls_cross_entropy: 0.1212828978896141, bbox_loss: 0.09364750981330872, l_r: 0.001, fg_num: 1324, bg_num: 3796
+step: 332, time: 418.7262692451477s, batch_shape: (10, 720, 960, 3), loss: 21.715232849121094, cls_cross_entropy: 0.10474692285060883, bbox_loss: 0.09574677050113678, l_r: 0.001, fg_num: 1209, bg_num: 3911
+step: 333, time: 419.9324080944061s, batch_shape: (10, 720, 960, 3), loss: 21.654390335083008, cls_cross_entropy: 0.10610660910606384, bbox_loss: 0.10167446732521057, l_r: 0.001, fg_num: 1113, bg_num: 4007
+step: 334, time: 421.1253433227539s, batch_shape: (10, 720, 960, 3), loss: 21.60509490966797, cls_cross_entropy: 0.12927982211112976, bbox_loss: 0.08640575408935547, l_r: 0.001, fg_num: 1481, bg_num: 3639
+step: 335, time: 422.30422282218933s, batch_shape: (10, 720, 960, 3), loss: 21.49460220336914, cls_cross_entropy: 0.08308179676532745, bbox_loss: 0.08687242865562439, l_r: 0.001, fg_num: 1108, bg_num: 4012
+step: 336, time: 423.52397060394287s, batch_shape: (10, 720, 960, 3), loss: 21.460433959960938, cls_cross_entropy: 0.10641881078481674, bbox_loss: 0.10025318711996078, l_r: 0.001, fg_num: 1359, bg_num: 3761
+step: 337, time: 424.71111249923706s, batch_shape: (10, 720, 960, 3), loss: 21.380868911743164, cls_cross_entropy: 0.09669198840856552, bbox_loss: 0.08835553377866745, l_r: 0.001, fg_num: 1661, bg_num: 3459
+step: 338, time: 425.904657125473s, batch_shape: (10, 720, 960, 3), loss: 21.32444190979004, cls_cross_entropy: 0.10031846910715103, bbox_loss: 0.0953950434923172, l_r: 0.001, fg_num: 1144, bg_num: 3976
+step: 339, time: 427.1000883579254s, batch_shape: (10, 720, 960, 3), loss: 21.343969345092773, cls_cross_entropy: 0.18255862593650818, bbox_loss: 0.09648719429969788, l_r: 0.001, fg_num: 1288, bg_num: 3832
+step: 340, time: 428.31727600097656s, batch_shape: (10, 720, 960, 3), loss: 21.218324661254883, cls_cross_entropy: 0.12265098839998245, bbox_loss: 0.09096523374319077, l_r: 0.001, fg_num: 1503, bg_num: 3617
+************   validation set   ************
+loss: 21.45530891418457, cls_cross_entropy: 0.11331160366535187, bbox_loss: 0.13760289549827576
+Model Saved
+step: 341, time: 429.744571685791s, batch_shape: (10, 720, 960, 3), loss: 21.11400604248047, cls_cross_entropy: 0.07835853844881058, bbox_loss: 0.0962715893983841, l_r: 0.001, fg_num: 1020, bg_num: 4100
+step: 342, time: 430.917204618454s, batch_shape: (10, 720, 960, 3), loss: 21.061277389526367, cls_cross_entropy: 0.09508039802312851, bbox_loss: 0.08213338255882263, l_r: 0.001, fg_num: 1413, bg_num: 3707
+step: 343, time: 432.12704610824585s, batch_shape: (10, 720, 960, 3), loss: 21.001394271850586, cls_cross_entropy: 0.08348462730646133, bbox_loss: 0.10973969101905823, l_r: 0.001, fg_num: 608, bg_num: 4512
+step: 344, time: 433.3752017021179s, batch_shape: (10, 720, 960, 3), loss: 20.983356475830078, cls_cross_entropy: 0.1342141181230545, bbox_loss: 0.09581243246793747, l_r: 0.001, fg_num: 1314, bg_num: 3806
+step: 345, time: 434.50477027893066s, batch_shape: (10, 720, 960, 3), loss: 20.901655197143555, cls_cross_entropy: 0.11074049770832062, bbox_loss: 0.10237302631139755, l_r: 0.001, fg_num: 1443, bg_num: 3677
+step: 346, time: 435.61007928848267s, batch_shape: (10, 720, 960, 3), loss: 20.8221435546875, cls_cross_entropy: 0.10331156104803085, bbox_loss: 0.08058354258537292, l_r: 0.001, fg_num: 923, bg_num: 4197
+step: 347, time: 436.77135944366455s, batch_shape: (10, 720, 960, 3), loss: 20.777191162109375, cls_cross_entropy: 0.12062852084636688, bbox_loss: 0.07778789103031158, l_r: 0.001, fg_num: 1207, bg_num: 3913
+step: 348, time: 437.98810720443726s, batch_shape: (10, 720, 960, 3), loss: 20.721113204956055, cls_cross_entropy: 0.10808952152729034, bbox_loss: 0.11186899244785309, l_r: 0.001, fg_num: 1383, bg_num: 3737
+step: 349, time: 439.148556470871s, batch_shape: (10, 720, 960, 3), loss: 20.651838302612305, cls_cross_entropy: 0.11007369309663773, bbox_loss: 0.08986877650022507, l_r: 0.001, fg_num: 1749, bg_num: 3371
+step: 350, time: 440.28958344459534s, batch_shape: (10, 720, 960, 3), loss: 20.559457778930664, cls_cross_entropy: 0.0814390480518341, bbox_loss: 0.08232434093952179, l_r: 0.001, fg_num: 1158, bg_num: 3962
+************   validation set   ************
+loss: 20.829442977905273, cls_cross_entropy: 0.11315552145242691, bbox_loss: 0.1339220106601715
+Model Saved
+step: 351, time: 441.7392244338989s, batch_shape: (10, 720, 960, 3), loss: 20.55183219909668, cls_cross_entropy: 0.11761268228292465, bbox_loss: 0.11413151770830154, l_r: 0.001, fg_num: 993, bg_num: 4127
+step: 352, time: 442.9382667541504s, batch_shape: (10, 720, 960, 3), loss: 20.454105377197266, cls_cross_entropy: 0.08670596778392792, bbox_loss: 0.09933929890394211, l_r: 0.001, fg_num: 1495, bg_num: 3625
+step: 353, time: 444.1583638191223s, batch_shape: (10, 720, 960, 3), loss: 20.392454147338867, cls_cross_entropy: 0.08813251554965973, bbox_loss: 0.09146427363157272, l_r: 0.001, fg_num: 994, bg_num: 4126
+step: 354, time: 445.3176062107086s, batch_shape: (10, 720, 960, 3), loss: 20.40139389038086, cls_cross_entropy: 0.15294665098190308, bbox_loss: 0.09752444922924042, l_r: 0.001, fg_num: 1644, bg_num: 3476
+step: 355, time: 446.49136209487915s, batch_shape: (10, 720, 960, 3), loss: 20.34344482421875, cls_cross_entropy: 0.1521163433790207, bbox_loss: 0.10063111037015915, l_r: 0.001, fg_num: 1165, bg_num: 3955
+step: 356, time: 447.6562316417694s, batch_shape: (10, 720, 960, 3), loss: 20.19708824157715, cls_cross_entropy: 0.06521020829677582, bbox_loss: 0.09853334724903107, l_r: 0.001, fg_num: 911, bg_num: 4209
+step: 357, time: 448.86152815818787s, batch_shape: (10, 720, 960, 3), loss: 20.15293312072754, cls_cross_entropy: 0.08509326726198196, bbox_loss: 0.08667577058076859, l_r: 0.001, fg_num: 918, bg_num: 4202
+step: 358, time: 450.09858441352844s, batch_shape: (10, 720, 960, 3), loss: 20.09821319580078, cls_cross_entropy: 0.08530422300100327, bbox_loss: 0.09241848438978195, l_r: 0.001, fg_num: 788, bg_num: 4332
+step: 359, time: 451.2904040813446s, batch_shape: (10, 720, 960, 3), loss: 20.10209083557129, cls_cross_entropy: 0.14476202428340912, bbox_loss: 0.09633232653141022, l_r: 0.001, fg_num: 1212, bg_num: 3908
+step: 360, time: 452.4967613220215s, batch_shape: (10, 720, 960, 3), loss: 20.084915161132812, cls_cross_entropy: 0.18161022663116455, bbox_loss: 0.10279681533575058, l_r: 0.001, fg_num: 1341, bg_num: 3779
+************   validation set   ************
+loss: 20.238170623779297, cls_cross_entropy: 0.11016286909580231, bbox_loss: 0.14665335416793823
+step: 361, time: 453.7049243450165s, batch_shape: (10, 720, 960, 3), loss: 19.933258056640625, cls_cross_entropy: 0.09538272023200989, bbox_loss: 0.08592003583908081, l_r: 0.001, fg_num: 1475, bg_num: 3645
+step: 362, time: 454.9175910949707s, batch_shape: (10, 720, 960, 3), loss: 19.865400314331055, cls_cross_entropy: 0.07931018620729446, bbox_loss: 0.09575986862182617, l_r: 0.001, fg_num: 1046, bg_num: 4074
+step: 363, time: 456.0694968700409s, batch_shape: (10, 720, 960, 3), loss: 19.819313049316406, cls_cross_entropy: 0.09882578998804092, bbox_loss: 0.0774250403046608, l_r: 0.001, fg_num: 1422, bg_num: 3698
+step: 364, time: 457.21100544929504s, batch_shape: (10, 720, 960, 3), loss: 19.754247665405273, cls_cross_entropy: 0.09011251479387283, bbox_loss: 0.07706884294748306, l_r: 0.001, fg_num: 1692, bg_num: 3428
+step: 365, time: 458.4441349506378s, batch_shape: (10, 720, 960, 3), loss: 19.728179931640625, cls_cross_entropy: 0.11377762258052826, bbox_loss: 0.08943836390972137, l_r: 0.001, fg_num: 1091, bg_num: 4029
+step: 366, time: 459.6564517021179s, batch_shape: (10, 720, 960, 3), loss: 19.672412872314453, cls_cross_entropy: 0.11198925226926804, bbox_loss: 0.09283839166164398, l_r: 0.001, fg_num: 1130, bg_num: 3990
+step: 367, time: 460.78379917144775s, batch_shape: (10, 720, 960, 3), loss: 19.609394073486328, cls_cross_entropy: 0.10576286911964417, bbox_loss: 0.09012363851070404, l_r: 0.001, fg_num: 1611, bg_num: 3509
+step: 368, time: 461.98869943618774s, batch_shape: (10, 720, 960, 3), loss: 19.547401428222656, cls_cross_entropy: 0.10365406423807144, bbox_loss: 0.0807761698961258, l_r: 0.001, fg_num: 1618, bg_num: 3502
+step: 369, time: 463.19937920570374s, batch_shape: (10, 720, 960, 3), loss: 19.51913070678711, cls_cross_entropy: 0.12018048018217087, bbox_loss: 0.10111679881811142, l_r: 0.001, fg_num: 1241, bg_num: 3879
+step: 370, time: 464.38066697120667s, batch_shape: (10, 720, 960, 3), loss: 19.415559768676758, cls_cross_entropy: 0.08282677084207535, bbox_loss: 0.07806292176246643, l_r: 0.001, fg_num: 1070, bg_num: 4050
+************   validation set   ************
+loss: 19.662822723388672, cls_cross_entropy: 0.10821398347616196, bbox_loss: 0.1347082555294037
+Model Saved
+step: 371, time: 465.90291929244995s, batch_shape: (10, 720, 960, 3), loss: 19.362016677856445, cls_cross_entropy: 0.07978177815675735, bbox_loss: 0.08593402057886124, l_r: 0.001, fg_num: 1009, bg_num: 4111
+step: 372, time: 467.0406448841095s, batch_shape: (10, 720, 960, 3), loss: 19.33132553100586, cls_cross_entropy: 0.10840190947055817, bbox_loss: 0.07570457458496094, l_r: 0.001, fg_num: 1198, bg_num: 3922
+step: 373, time: 468.1953434944153s, batch_shape: (10, 720, 960, 3), loss: 19.279294967651367, cls_cross_entropy: 0.1086593046784401, bbox_loss: 0.0790352001786232, l_r: 0.001, fg_num: 1489, bg_num: 3631
+step: 374, time: 469.44664907455444s, batch_shape: (10, 720, 960, 3), loss: 19.233692169189453, cls_cross_entropy: 0.10450702905654907, bbox_loss: 0.1035146415233612, l_r: 0.001, fg_num: 1615, bg_num: 3505
+step: 375, time: 470.65760946273804s, batch_shape: (10, 720, 960, 3), loss: 19.149782180786133, cls_cross_entropy: 0.08500096201896667, bbox_loss: 0.0816148892045021, l_r: 0.001, fg_num: 730, bg_num: 4390
+step: 376, time: 471.78551149368286s, batch_shape: (10, 720, 960, 3), loss: 19.067720413208008, cls_cross_entropy: 0.06322776526212692, bbox_loss: 0.06743062287569046, l_r: 0.001, fg_num: 1062, bg_num: 4058
+step: 377, time: 472.90239787101746s, batch_shape: (10, 720, 960, 3), loss: 19.0716609954834, cls_cross_entropy: 0.10631905496120453, bbox_loss: 0.0950380265712738, l_r: 0.001, fg_num: 1294, bg_num: 3826
+step: 378, time: 474.14772272109985s, batch_shape: (10, 720, 960, 3), loss: 18.98870086669922, cls_cross_entropy: 0.08292727917432785, bbox_loss: 0.08135751634836197, l_r: 0.001, fg_num: 1597, bg_num: 3523
+step: 379, time: 475.37184381484985s, batch_shape: (10, 720, 960, 3), loss: 19.039777755737305, cls_cross_entropy: 0.1738748401403427, bbox_loss: 0.10662814229726791, l_r: 0.001, fg_num: 1436, bg_num: 3684
+step: 380, time: 476.5350663661957s, batch_shape: (10, 720, 960, 3), loss: 18.977527618408203, cls_cross_entropy: 0.16318674385547638, bbox_loss: 0.10811840742826462, l_r: 0.001, fg_num: 1326, bg_num: 3794
+************   validation set   ************
+loss: 19.141963958740234, cls_cross_entropy: 0.12344032526016235, bbox_loss: 0.1465829759836197
+step: 381, time: 477.77632331848145s, batch_shape: (10, 720, 960, 3), loss: 18.82549476623535, cls_cross_entropy: 0.07429736107587814, bbox_loss: 0.08607903122901917, l_r: 0.001, fg_num: 1616, bg_num: 3504
+step: 382, time: 478.93104004859924s, batch_shape: (10, 720, 960, 3), loss: 18.799827575683594, cls_cross_entropy: 0.0917435884475708, bbox_loss: 0.10357696563005447, l_r: 0.001, fg_num: 777, bg_num: 4343
+step: 383, time: 480.07304883003235s, batch_shape: (10, 720, 960, 3), loss: 18.878271102905273, cls_cross_entropy: 0.2174781858921051, bbox_loss: 0.11223888397216797, l_r: 0.001, fg_num: 954, bg_num: 4166
+step: 384, time: 481.28707003593445s, batch_shape: (10, 720, 960, 3), loss: 18.713211059570312, cls_cross_entropy: 0.11487982422113419, bbox_loss: 0.0901942029595375, l_r: 0.001, fg_num: 1097, bg_num: 4023
+step: 385, time: 482.49008226394653s, batch_shape: (10, 720, 960, 3), loss: 18.655975341796875, cls_cross_entropy: 0.10800641775131226, bbox_loss: 0.0918363705277443, l_r: 0.001, fg_num: 1023, bg_num: 4097
+step: 386, time: 483.7129418849945s, batch_shape: (10, 720, 960, 3), loss: 18.62784194946289, cls_cross_entropy: 0.1285470575094223, bbox_loss: 0.0963909924030304, l_r: 0.001, fg_num: 1433, bg_num: 3687
+step: 387, time: 484.9174077510834s, batch_shape: (10, 720, 960, 3), loss: 18.542991638183594, cls_cross_entropy: 0.1041804850101471, bbox_loss: 0.07681509852409363, l_r: 0.001, fg_num: 1271, bg_num: 3849
+step: 388, time: 486.0748333930969s, batch_shape: (10, 720, 960, 3), loss: 18.501222610473633, cls_cross_entropy: 0.10649359971284866, bbox_loss: 0.08956437557935715, l_r: 0.001, fg_num: 1491, bg_num: 3629
+step: 389, time: 487.2792327404022s, batch_shape: (10, 720, 960, 3), loss: 18.486675262451172, cls_cross_entropy: 0.13304388523101807, bbox_loss: 0.10781760513782501, l_r: 0.001, fg_num: 1386, bg_num: 3734
+step: 390, time: 488.5297591686249s, batch_shape: (10, 720, 960, 3), loss: 18.398639678955078, cls_cross_entropy: 0.10713885724544525, bbox_loss: 0.0835709497332573, l_r: 0.001, fg_num: 1627, bg_num: 3493
+************   validation set   ************
+loss: 18.602909088134766, cls_cross_entropy: 0.10674045979976654, bbox_loss: 0.13892316818237305
+step: 391, time: 489.77622961997986s, batch_shape: (10, 720, 960, 3), loss: 18.429901123046875, cls_cross_entropy: 0.18544678390026093, bbox_loss: 0.08905390650033951, l_r: 0.001, fg_num: 1029, bg_num: 4091
+step: 392, time: 491.0348870754242s, batch_shape: (10, 720, 960, 3), loss: 18.276199340820312, cls_cross_entropy: 0.08540695905685425, bbox_loss: 0.0810190811753273, l_r: 0.001, fg_num: 1222, bg_num: 3898
+step: 393, time: 492.27266573905945s, batch_shape: (10, 720, 960, 3), loss: 18.219192504882812, cls_cross_entropy: 0.0794435366988182, bbox_loss: 0.07779426872730255, l_r: 0.001, fg_num: 1225, bg_num: 3895
+step: 394, time: 493.5037360191345s, batch_shape: (10, 720, 960, 3), loss: 18.169599533081055, cls_cross_entropy: 0.0788385346531868, bbox_loss: 0.07821561396121979, l_r: 0.001, fg_num: 1312, bg_num: 3808
+step: 395, time: 494.76492524147034s, batch_shape: (10, 720, 960, 3), loss: 18.15729331970215, cls_cross_entropy: 0.11009117215871811, bbox_loss: 0.08909131586551666, l_r: 0.001, fg_num: 1235, bg_num: 3885
+step: 396, time: 496.0214014053345s, batch_shape: (10, 720, 960, 3), loss: 18.067100524902344, cls_cross_entropy: 0.07428398728370667, bbox_loss: 0.07791921496391296, l_r: 0.001, fg_num: 1475, bg_num: 3645
+step: 397, time: 497.2014458179474s, batch_shape: (10, 720, 960, 3), loss: 18.043685913085938, cls_cross_entropy: 0.09794033318758011, bbox_loss: 0.08098247647285461, l_r: 0.001, fg_num: 1289, bg_num: 3831
+step: 398, time: 498.39066314697266s, batch_shape: (10, 720, 960, 3), loss: 18.04128646850586, cls_cross_entropy: 0.12830117344856262, bbox_loss: 0.1122463122010231, l_r: 0.001, fg_num: 1226, bg_num: 3894
+step: 399, time: 499.64696502685547s, batch_shape: (10, 720, 960, 3), loss: 17.954055786132812, cls_cross_entropy: 0.10072312504053116, bbox_loss: 0.08935048431158066, l_r: 0.001, fg_num: 833, bg_num: 4287
+step: 400, time: 500.9021375179291s, batch_shape: (10, 720, 960, 3), loss: 17.938928604125977, cls_cross_entropy: 0.13144777715206146, bbox_loss: 0.09367882460355759, l_r: 0.001, fg_num: 1571, bg_num: 3549
+************   validation set   ************
+loss: 18.111495971679688, cls_cross_entropy: 0.11173897981643677, bbox_loss: 0.13880831003189087
+step: 401, time: 502.0809805393219s, batch_shape: (10, 720, 960, 3), loss: 17.88136100769043, cls_cross_entropy: 0.11488433182239532, bbox_loss: 0.107319675385952, l_r: 0.001, fg_num: 1072, bg_num: 4048
+step: 402, time: 503.1911463737488s, batch_shape: (10, 720, 960, 3), loss: 17.79569435119629, cls_cross_entropy: 0.08680473268032074, bbox_loss: 0.08742894232273102, l_r: 0.001, fg_num: 1184, bg_num: 3936
+step: 403, time: 504.4044506549835s, batch_shape: (10, 720, 960, 3), loss: 17.745725631713867, cls_cross_entropy: 0.08261528611183167, bbox_loss: 0.09074088931083679, l_r: 0.001, fg_num: 960, bg_num: 4160
+step: 404, time: 505.60391187667847s, batch_shape: (10, 720, 960, 3), loss: 17.681859970092773, cls_cross_entropy: 0.07107672095298767, bbox_loss: 0.08053815364837646, l_r: 0.001, fg_num: 1260, bg_num: 3860
+step: 405, time: 506.807097196579s, batch_shape: (10, 720, 960, 3), loss: 17.71412467956543, cls_cross_entropy: 0.140437513589859, bbox_loss: 0.10040143877267838, l_r: 0.001, fg_num: 1799, bg_num: 3321
+step: 406, time: 508.0524859428406s, batch_shape: (10, 720, 960, 3), loss: 17.618572235107422, cls_cross_entropy: 0.09233956038951874, bbox_loss: 0.09920737147331238, l_r: 0.001, fg_num: 1113, bg_num: 4007
+step: 407, time: 509.2543270587921s, batch_shape: (10, 720, 960, 3), loss: 17.536367416381836, cls_cross_entropy: 0.06459218263626099, bbox_loss: 0.0836358293890953, l_r: 0.001, fg_num: 1555, bg_num: 3565
+step: 408, time: 510.49096870422363s, batch_shape: (10, 720, 960, 3), loss: 17.515851974487305, cls_cross_entropy: 0.08499129861593246, bbox_loss: 0.09476128220558167, l_r: 0.001, fg_num: 1160, bg_num: 3960
+step: 409, time: 511.73218607902527s, batch_shape: (10, 720, 960, 3), loss: 17.509138107299805, cls_cross_entropy: 0.12641066312789917, bbox_loss: 0.09107674658298492, l_r: 0.001, fg_num: 1658, bg_num: 3462
+step: 410, time: 512.9784400463104s, batch_shape: (10, 720, 960, 3), loss: 17.503433227539062, cls_cross_entropy: 0.16940316557884216, bbox_loss: 0.08584492653608322, l_r: 0.001, fg_num: 1153, bg_num: 3967
+************   validation set   ************
+loss: 17.637020111083984, cls_cross_entropy: 0.11325959861278534, bbox_loss: 0.13942186534404755
+step: 411, time: 514.234209060669s, batch_shape: (10, 720, 960, 3), loss: 17.377296447753906, cls_cross_entropy: 0.08759250491857529, bbox_loss: 0.08900026977062225, l_r: 0.001, fg_num: 1183, bg_num: 3937
+step: 412, time: 515.4537205696106s, batch_shape: (10, 720, 960, 3), loss: 17.321516036987305, cls_cross_entropy: 0.0728294774889946, bbox_loss: 0.09840796887874603, l_r: 0.001, fg_num: 1143, bg_num: 3977
+step: 413, time: 516.6339995861053s, batch_shape: (10, 720, 960, 3), loss: 17.30183219909668, cls_cross_entropy: 0.10570460557937622, bbox_loss: 0.08429911732673645, l_r: 0.001, fg_num: 1270, bg_num: 3850
+step: 414, time: 517.8133270740509s, batch_shape: (10, 720, 960, 3), loss: 17.255159378051758, cls_cross_entropy: 0.10413061082363129, bbox_loss: 0.08473704010248184, l_r: 0.001, fg_num: 1036, bg_num: 4084
+step: 415, time: 518.9563736915588s, batch_shape: (10, 720, 960, 3), loss: 17.23021697998047, cls_cross_entropy: 0.1245812475681305, bbox_loss: 0.08420251309871674, l_r: 0.001, fg_num: 1065, bg_num: 4055
+step: 416, time: 520.1590256690979s, batch_shape: (10, 720, 960, 3), loss: 17.15169334411621, cls_cross_entropy: 0.0915098786354065, bbox_loss: 0.08323411643505096, l_r: 0.001, fg_num: 959, bg_num: 4161
+step: 417, time: 521.355626821518s, batch_shape: (10, 720, 960, 3), loss: 17.107667922973633, cls_cross_entropy: 0.08912909030914307, bbox_loss: 0.08948742598295212, l_r: 0.001, fg_num: 986, bg_num: 4134
+step: 418, time: 522.5692722797394s, batch_shape: (10, 720, 960, 3), loss: 17.063940048217773, cls_cross_entropy: 0.09888996183872223, bbox_loss: 0.07170280069112778, l_r: 0.001, fg_num: 860, bg_num: 4260
+step: 419, time: 523.8197927474976s, batch_shape: (10, 720, 960, 3), loss: 17.03841781616211, cls_cross_entropy: 0.11173553764820099, bbox_loss: 0.08377252519130707, l_r: 0.001, fg_num: 1387, bg_num: 3733
+step: 420, time: 525.072785615921s, batch_shape: (10, 720, 960, 3), loss: 16.99154281616211, cls_cross_entropy: 0.10592538863420486, bbox_loss: 0.09008407592773438, l_r: 0.001, fg_num: 1169, bg_num: 3951
+************   validation set   ************
+loss: 17.170406341552734, cls_cross_entropy: 0.11139623075723648, bbox_loss: 0.12419859319925308
+Model Saved
+step: 421, time: 526.6041836738586s, batch_shape: (10, 720, 960, 3), loss: 16.94753646850586, cls_cross_entropy: 0.10845842212438583, bbox_loss: 0.08511515706777573, l_r: 0.001, fg_num: 1663, bg_num: 3457
+step: 422, time: 527.7779040336609s, batch_shape: (10, 720, 960, 3), loss: 16.893537521362305, cls_cross_entropy: 0.09771386533975601, bbox_loss: 0.08641554415225983, l_r: 0.001, fg_num: 1455, bg_num: 3665
+step: 423, time: 528.9578440189362s, batch_shape: (10, 720, 960, 3), loss: 16.87662696838379, cls_cross_entropy: 0.12497501820325851, bbox_loss: 0.08552971482276917, l_r: 0.001, fg_num: 1620, bg_num: 3500
+step: 424, time: 530.2217733860016s, batch_shape: (10, 720, 960, 3), loss: 16.79471206665039, cls_cross_entropy: 0.08342990279197693, bbox_loss: 0.09188147634267807, l_r: 0.001, fg_num: 1018, bg_num: 4102
+step: 425, time: 531.4332094192505s, batch_shape: (10, 720, 960, 3), loss: 16.78181266784668, cls_cross_entropy: 0.12025241553783417, bbox_loss: 0.07917924970388412, l_r: 0.001, fg_num: 1130, bg_num: 3990
+step: 426, time: 532.6118886470795s, batch_shape: (10, 720, 960, 3), loss: 16.68157958984375, cls_cross_entropy: 0.0664757490158081, bbox_loss: 0.07257816940546036, l_r: 0.001, fg_num: 1258, bg_num: 3862
+step: 427, time: 533.8165090084076s, batch_shape: (10, 720, 960, 3), loss: 16.691259384155273, cls_cross_entropy: 0.11595143377780914, bbox_loss: 0.0789249911904335, l_r: 0.001, fg_num: 1945, bg_num: 3175
+step: 428, time: 535.044193983078s, batch_shape: (10, 720, 960, 3), loss: 16.663869857788086, cls_cross_entropy: 0.12051807343959808, bbox_loss: 0.10065551847219467, l_r: 0.001, fg_num: 1230, bg_num: 3890
+step: 429, time: 536.233612537384s, batch_shape: (10, 720, 960, 3), loss: 16.588211059570312, cls_cross_entropy: 0.09735896438360214, bbox_loss: 0.08094700425863266, l_r: 0.001, fg_num: 1287, bg_num: 3833
+step: 430, time: 537.4153244495392s, batch_shape: (10, 720, 960, 3), loss: 16.55542755126953, cls_cross_entropy: 0.10195675492286682, bbox_loss: 0.0911552831530571, l_r: 0.001, fg_num: 694, bg_num: 4426
+************   validation set   ************
+loss: 16.72816276550293, cls_cross_entropy: 0.10419728606939316, bbox_loss: 0.13186262547969818
+step: 431, time: 538.6387639045715s, batch_shape: (10, 720, 960, 3), loss: 16.50250244140625, cls_cross_entropy: 0.09408127516508102, bbox_loss: 0.08568941801786423, l_r: 0.001, fg_num: 1139, bg_num: 3981
+step: 432, time: 539.8924314975739s, batch_shape: (10, 720, 960, 3), loss: 16.453662872314453, cls_cross_entropy: 0.08836151659488678, bbox_loss: 0.08369546383619308, l_r: 0.001, fg_num: 1510, bg_num: 3610
+step: 433, time: 541.0737190246582s, batch_shape: (10, 720, 960, 3), loss: 16.438819885253906, cls_cross_entropy: 0.11269406974315643, bbox_loss: 0.08928035944700241, l_r: 0.001, fg_num: 1067, bg_num: 4053
+step: 434, time: 542.3309504985809s, batch_shape: (10, 720, 960, 3), loss: 16.36794090270996, cls_cross_entropy: 0.08347034454345703, bbox_loss: 0.0896153375506401, l_r: 0.001, fg_num: 1203, bg_num: 3917
+step: 435, time: 543.5195021629333s, batch_shape: (10, 720, 960, 3), loss: 16.304147720336914, cls_cross_entropy: 0.0695563554763794, bbox_loss: 0.07316125929355621, l_r: 0.001, fg_num: 1036, bg_num: 4084
+step: 436, time: 544.7489504814148s, batch_shape: (10, 720, 960, 3), loss: 16.256702423095703, cls_cross_entropy: 0.05544391646981239, bbox_loss: 0.08951083570718765, l_r: 0.001, fg_num: 1053, bg_num: 4067
+step: 437, time: 545.9940633773804s, batch_shape: (10, 720, 960, 3), loss: 16.243209838867188, cls_cross_entropy: 0.08918999880552292, bbox_loss: 0.07777149230241776, l_r: 0.001, fg_num: 1745, bg_num: 3375
+step: 438, time: 547.2267651557922s, batch_shape: (10, 720, 960, 3), loss: 16.20282554626465, cls_cross_entropy: 0.0886940136551857, bbox_loss: 0.0804341658949852, l_r: 0.001, fg_num: 1383, bg_num: 3737
+step: 439, time: 548.4468672275543s, batch_shape: (10, 720, 960, 3), loss: 16.172441482543945, cls_cross_entropy: 0.0948997437953949, bbox_loss: 0.08940571546554565, l_r: 0.001, fg_num: 1088, bg_num: 4032
+step: 440, time: 549.7004046440125s, batch_shape: (10, 720, 960, 3), loss: 16.138954162597656, cls_cross_entropy: 0.10596384853124619, bbox_loss: 0.08216343820095062, l_r: 0.001, fg_num: 1682, bg_num: 3438
+************   validation set   ************
+loss: 16.307109832763672, cls_cross_entropy: 0.10368279367685318, bbox_loss: 0.13404183089733124
+step: 441, time: 550.8572025299072s, batch_shape: (10, 720, 960, 3), loss: 16.17693519592285, cls_cross_entropy: 0.1769997477531433, bbox_loss: 0.0976119264960289, l_r: 0.001, fg_num: 945, bg_num: 4175
+step: 442, time: 552.0303153991699s, batch_shape: (10, 720, 960, 3), loss: 16.066614151000977, cls_cross_entropy: 0.09962142258882523, bbox_loss: 0.11299989372491837, l_r: 0.001, fg_num: 1083, bg_num: 4037
+step: 443, time: 553.2329881191254s, batch_shape: (10, 720, 960, 3), loss: 16.01738166809082, cls_cross_entropy: 0.10596223920583725, bbox_loss: 0.08277582377195358, l_r: 0.001, fg_num: 1134, bg_num: 3986
+step: 444, time: 554.4295086860657s, batch_shape: (10, 720, 960, 3), loss: 16.002717971801758, cls_cross_entropy: 0.1289467066526413, bbox_loss: 0.0880870446562767, l_r: 0.001, fg_num: 1680, bg_num: 3440
+step: 445, time: 555.5636563301086s, batch_shape: (10, 720, 960, 3), loss: 15.912479400634766, cls_cross_entropy: 0.08292032778263092, bbox_loss: 0.07999926060438156, l_r: 0.001, fg_num: 1337, bg_num: 3783
+step: 446, time: 556.7519016265869s, batch_shape: (10, 720, 960, 3), loss: 15.923016548156738, cls_cross_entropy: 0.12377218157052994, bbox_loss: 0.09934026747941971, l_r: 0.001, fg_num: 1274, bg_num: 3846
+step: 447, time: 557.8802864551544s, batch_shape: (10, 720, 960, 3), loss: 15.825105667114258, cls_cross_entropy: 0.07597246766090393, bbox_loss: 0.0787670686841011, l_r: 0.001, fg_num: 1067, bg_num: 4053
+step: 448, time: 559.0064716339111s, batch_shape: (10, 720, 960, 3), loss: 15.810723304748535, cls_cross_entropy: 0.09491672366857529, bbox_loss: 0.0914611667394638, l_r: 0.001, fg_num: 822, bg_num: 4298
+step: 449, time: 560.1114475727081s, batch_shape: (10, 720, 960, 3), loss: 15.745161056518555, cls_cross_entropy: 0.08093904703855515, bbox_loss: 0.06730705499649048, l_r: 0.001, fg_num: 1016, bg_num: 4104
+step: 450, time: 561.2569842338562s, batch_shape: (10, 720, 960, 3), loss: 15.717243194580078, cls_cross_entropy: 0.0869179368019104, bbox_loss: 0.07824170589447021, l_r: 0.001, fg_num: 1109, bg_num: 4011
+************   validation set   ************
+loss: 15.903055191040039, cls_cross_entropy: 0.1113613024353981, bbox_loss: 0.12279318273067474
+Model Saved
+step: 451, time: 562.7770617008209s, batch_shape: (10, 720, 960, 3), loss: 15.68917179107666, cls_cross_entropy: 0.09977785497903824, bbox_loss: 0.07481592893600464, l_r: 0.001, fg_num: 1478, bg_num: 3642
+step: 452, time: 564.0390636920929s, batch_shape: (10, 720, 960, 3), loss: 15.647900581359863, cls_cross_entropy: 0.09663859009742737, bbox_loss: 0.07665050774812698, l_r: 0.001, fg_num: 1265, bg_num: 3855
+step: 453, time: 565.2410080432892s, batch_shape: (10, 720, 960, 3), loss: 15.606433868408203, cls_cross_entropy: 0.0932944118976593, bbox_loss: 0.07821126282215118, l_r: 0.001, fg_num: 1378, bg_num: 3742
+step: 454, time: 566.394956111908s, batch_shape: (10, 720, 960, 3), loss: 15.568390846252441, cls_cross_entropy: 0.08825010806322098, bbox_loss: 0.0896935760974884, l_r: 0.001, fg_num: 1382, bg_num: 3738
+step: 455, time: 567.5002212524414s, batch_shape: (10, 720, 960, 3), loss: 15.603219032287598, cls_cross_entropy: 0.16379967331886292, bbox_loss: 0.08548308163881302, l_r: 0.001, fg_num: 1177, bg_num: 3943
+step: 456, time: 568.6844170093536s, batch_shape: (10, 720, 960, 3), loss: 15.495368957519531, cls_cross_entropy: 0.09165036678314209, bbox_loss: 0.09103641659021378, l_r: 0.001, fg_num: 1097, bg_num: 4023
+step: 457, time: 569.8967106342316s, batch_shape: (10, 720, 960, 3), loss: 15.45936393737793, cls_cross_entropy: 0.10282893478870392, bbox_loss: 0.07332568615674973, l_r: 0.001, fg_num: 1471, bg_num: 3649
+step: 458, time: 571.1256754398346s, batch_shape: (10, 720, 960, 3), loss: 15.405704498291016, cls_cross_entropy: 0.08025997877120972, bbox_loss: 0.08749786019325256, l_r: 0.001, fg_num: 1327, bg_num: 3793
+step: 459, time: 572.2437789440155s, batch_shape: (10, 720, 960, 3), loss: 15.39149284362793, cls_cross_entropy: 0.105305016040802, bbox_loss: 0.08506008982658386, l_r: 0.001, fg_num: 1594, bg_num: 3526
+step: 460, time: 573.4604966640472s, batch_shape: (10, 720, 960, 3), loss: 15.354815483093262, cls_cross_entropy: 0.10611999779939651, bbox_loss: 0.08581794053316116, l_r: 0.001, fg_num: 864, bg_num: 4256
+************   validation set   ************
+loss: 15.517483711242676, cls_cross_entropy: 0.11434011161327362, bbox_loss: 0.12704211473464966
+step: 461, time: 574.7075333595276s, batch_shape: (10, 720, 960, 3), loss: 15.319994926452637, cls_cross_entropy: 0.10774531960487366, bbox_loss: 0.08834762871265411, l_r: 0.001, fg_num: 1307, bg_num: 3813
+step: 462, time: 575.9271078109741s, batch_shape: (10, 720, 960, 3), loss: 15.275997161865234, cls_cross_entropy: 0.09785328060388565, bbox_loss: 0.09527774155139923, l_r: 0.001, fg_num: 1359, bg_num: 3761
+step: 463, time: 577.1666340827942s, batch_shape: (10, 720, 960, 3), loss: 15.236452102661133, cls_cross_entropy: 0.10271507501602173, bbox_loss: 0.0813143253326416, l_r: 0.001, fg_num: 1518, bg_num: 3602
+step: 464, time: 578.4156732559204s, batch_shape: (10, 720, 960, 3), loss: 15.148542404174805, cls_cross_entropy: 0.056432295590639114, bbox_loss: 0.07256753742694855, l_r: 0.001, fg_num: 1444, bg_num: 3676
+step: 465, time: 579.6685373783112s, batch_shape: (10, 720, 960, 3), loss: 15.151376724243164, cls_cross_entropy: 0.09183786809444427, bbox_loss: 0.08165713399648666, l_r: 0.001, fg_num: 1145, bg_num: 3975
+step: 466, time: 580.9078886508942s, batch_shape: (10, 720, 960, 3), loss: 15.188543319702148, cls_cross_entropy: 0.16202212870121002, bbox_loss: 0.08960126340389252, l_r: 0.001, fg_num: 1227, bg_num: 3893
+step: 467, time: 582.0625288486481s, batch_shape: (10, 720, 960, 3), loss: 15.084732055664062, cls_cross_entropy: 0.09655463695526123, bbox_loss: 0.0866583064198494, l_r: 0.001, fg_num: 1388, bg_num: 3732
+step: 468, time: 583.3027393817902s, batch_shape: (10, 720, 960, 3), loss: 15.041078567504883, cls_cross_entropy: 0.09330271929502487, bbox_loss: 0.07929868996143341, l_r: 0.001, fg_num: 1477, bg_num: 3643
+step: 469, time: 584.5082762241364s, batch_shape: (10, 720, 960, 3), loss: 15.02641773223877, cls_cross_entropy: 0.1063174307346344, bbox_loss: 0.09712374955415726, l_r: 0.001, fg_num: 1267, bg_num: 3853
+step: 470, time: 585.6918964385986s, batch_shape: (10, 720, 960, 3), loss: 14.966736793518066, cls_cross_entropy: 0.09518764913082123, bbox_loss: 0.0729113519191742, l_r: 0.001, fg_num: 1174, bg_num: 3946
+************   validation set   ************
+loss: 15.143961906433105, cls_cross_entropy: 0.11401927471160889, bbox_loss: 0.13224253058433533
+step: 471, time: 586.9366352558136s, batch_shape: (10, 720, 960, 3), loss: 14.909912109375, cls_cross_entropy: 0.07488926500082016, bbox_loss: 0.07248813658952713, l_r: 0.001, fg_num: 1108, bg_num: 4012
+step: 472, time: 588.1820118427277s, batch_shape: (10, 720, 960, 3), loss: 14.909884452819824, cls_cross_entropy: 0.09571783244609833, bbox_loss: 0.10313209146261215, l_r: 0.001, fg_num: 924, bg_num: 4196
+step: 473, time: 589.4166920185089s, batch_shape: (10, 720, 960, 3), loss: 14.889021873474121, cls_cross_entropy: 0.11770766228437424, bbox_loss: 0.08946536481380463, l_r: 0.001, fg_num: 831, bg_num: 4289
+step: 474, time: 590.6344211101532s, batch_shape: (10, 720, 960, 3), loss: 14.840014457702637, cls_cross_entropy: 0.10316143929958344, bbox_loss: 0.09227397292852402, l_r: 0.001, fg_num: 1294, bg_num: 3826
+step: 475, time: 591.8149781227112s, batch_shape: (10, 720, 960, 3), loss: 14.799560546875, cls_cross_entropy: 0.10450602322816849, bbox_loss: 0.08009433001279831, l_r: 0.001, fg_num: 1440, bg_num: 3680
+step: 476, time: 593.0423345565796s, batch_shape: (10, 720, 960, 3), loss: 14.781600952148438, cls_cross_entropy: 0.12276936322450638, bbox_loss: 0.07877824455499649, l_r: 0.001, fg_num: 1653, bg_num: 3467
+step: 477, time: 594.2239902019501s, batch_shape: (10, 720, 960, 3), loss: 14.708391189575195, cls_cross_entropy: 0.08409024775028229, bbox_loss: 0.08071062713861465, l_r: 0.001, fg_num: 1260, bg_num: 3860
+step: 478, time: 595.3830678462982s, batch_shape: (10, 720, 960, 3), loss: 14.7053861618042, cls_cross_entropy: 0.11539573222398758, bbox_loss: 0.08280856907367706, l_r: 0.001, fg_num: 1497, bg_num: 3623
+step: 479, time: 596.5364937782288s, batch_shape: (10, 720, 960, 3), loss: 14.629826545715332, cls_cross_entropy: 0.07593544572591782, bbox_loss: 0.08107597380876541, l_r: 0.001, fg_num: 1147, bg_num: 3973
+step: 480, time: 597.7129504680634s, batch_shape: (10, 720, 960, 3), loss: 14.593145370483398, cls_cross_entropy: 0.0732945054769516, bbox_loss: 0.08322912454605103, l_r: 0.001, fg_num: 996, bg_num: 4124
+************   validation set   ************
+loss: 14.787820816040039, cls_cross_entropy: 0.11865260452032089, bbox_loss: 0.13399448990821838
+step: 481, time: 598.9325156211853s, batch_shape: (10, 720, 960, 3), loss: 14.564234733581543, cls_cross_entropy: 0.08675862103700638, bbox_loss: 0.06846798956394196, l_r: 0.001, fg_num: 1347, bg_num: 3773
+step: 482, time: 600.1845557689667s, batch_shape: (10, 720, 960, 3), loss: 14.519051551818848, cls_cross_entropy: 0.07005982100963593, bbox_loss: 0.08122562617063522, l_r: 0.001, fg_num: 1169, bg_num: 3951
+step: 483, time: 601.3817994594574s, batch_shape: (10, 720, 960, 3), loss: 14.490774154663086, cls_cross_entropy: 0.07810324430465698, bbox_loss: 0.07808633893728256, l_r: 0.001, fg_num: 1588, bg_num: 3532
+step: 484, time: 602.6277575492859s, batch_shape: (10, 720, 960, 3), loss: 14.486767768859863, cls_cross_entropy: 0.1080775037407875, bbox_loss: 0.07944158464670181, l_r: 0.001, fg_num: 1741, bg_num: 3379
+step: 485, time: 603.8244738578796s, batch_shape: (10, 720, 960, 3), loss: 14.427742004394531, cls_cross_entropy: 0.07858067005872726, bbox_loss: 0.08949583768844604, l_r: 0.001, fg_num: 1086, bg_num: 4034
+step: 486, time: 605.0746729373932s, batch_shape: (10, 720, 960, 3), loss: 14.477607727050781, cls_cross_entropy: 0.1575542539358139, bbox_loss: 0.10018672794103622, l_r: 0.001, fg_num: 1274, bg_num: 3846
+step: 487, time: 606.3205509185791s, batch_shape: (10, 720, 960, 3), loss: 14.436286926269531, cls_cross_entropy: 0.15890313684940338, bbox_loss: 0.08355313539505005, l_r: 0.001, fg_num: 1306, bg_num: 3814
+step: 488, time: 607.5731258392334s, batch_shape: (10, 720, 960, 3), loss: 14.323016166687012, cls_cross_entropy: 0.08491327613592148, bbox_loss: 0.07349395751953125, l_r: 0.001, fg_num: 1189, bg_num: 3931
+step: 489, time: 608.7958288192749s, batch_shape: (10, 720, 960, 3), loss: 14.332703590393066, cls_cross_entropy: 0.11903519928455353, bbox_loss: 0.09287810325622559, l_r: 0.001, fg_num: 1401, bg_num: 3719
+step: 490, time: 609.9231855869293s, batch_shape: (10, 720, 960, 3), loss: 14.250960350036621, cls_cross_entropy: 0.07947127521038055, bbox_loss: 0.07650473713874817, l_r: 0.001, fg_num: 1212, bg_num: 3908
+************   validation set   ************
+loss: 14.423436164855957, cls_cross_entropy: 0.10822127014398575, bbox_loss: 0.12399420887231827
+Model Saved
+step: 491, time: 611.3590393066406s, batch_shape: (10, 720, 960, 3), loss: 14.275371551513672, cls_cross_entropy: 0.12862391769886017, bbox_loss: 0.09471344947814941, l_r: 0.001, fg_num: 1023, bg_num: 4097
+step: 492, time: 612.573343038559s, batch_shape: (10, 720, 960, 3), loss: 14.18839168548584, cls_cross_entropy: 0.08441893011331558, bbox_loss: 0.07659591734409332, l_r: 0.001, fg_num: 1220, bg_num: 3900
+step: 493, time: 613.7602074146271s, batch_shape: (10, 720, 960, 3), loss: 14.176702499389648, cls_cross_entropy: 0.10079915821552277, bbox_loss: 0.08760067820549011, l_r: 0.001, fg_num: 1427, bg_num: 3693
+step: 494, time: 615.011148929596s, batch_shape: (10, 720, 960, 3), loss: 14.131083488464355, cls_cross_entropy: 0.09181205183267593, bbox_loss: 0.08117140084505081, l_r: 0.001, fg_num: 736, bg_num: 4384
+step: 495, time: 616.2657525539398s, batch_shape: (10, 720, 960, 3), loss: 14.142279624938965, cls_cross_entropy: 0.12943696975708008, bbox_loss: 0.09492283314466476, l_r: 0.001, fg_num: 1195, bg_num: 3925
+step: 496, time: 617.5144689083099s, batch_shape: (10, 720, 960, 3), loss: 14.063934326171875, cls_cross_entropy: 0.09309002012014389, bbox_loss: 0.07733384519815445, l_r: 0.001, fg_num: 1207, bg_num: 3913
+step: 497, time: 618.7010569572449s, batch_shape: (10, 720, 960, 3), loss: 14.00154972076416, cls_cross_entropy: 0.06390111148357391, bbox_loss: 0.07709519565105438, l_r: 0.001, fg_num: 932, bg_num: 4188
+step: 498, time: 619.9129011631012s, batch_shape: (10, 720, 960, 3), loss: 13.995073318481445, cls_cross_entropy: 0.0893060490489006, bbox_loss: 0.07923121750354767, l_r: 0.001, fg_num: 1530, bg_num: 3590
+step: 499, time: 621.1430032253265s, batch_shape: (10, 720, 960, 3), loss: 13.968900680541992, cls_cross_entropy: 0.0924881175160408, bbox_loss: 0.08619964867830276, l_r: 0.001, fg_num: 1152, bg_num: 3968
+step: 500, time: 622.2688937187195s, batch_shape: (10, 720, 960, 3), loss: 14.034334182739258, cls_cross_entropy: 0.1891149878501892, bbox_loss: 0.08928925544023514, l_r: 0.001, fg_num: 1435, bg_num: 3685
+************   validation set   ************
+loss: 14.07911491394043, cls_cross_entropy: 0.10350632667541504, bbox_loss: 0.11900140345096588
+Model Saved
+step: 501, time: 623.7012591362s, batch_shape: (10, 720, 960, 3), loss: 13.889854431152344, cls_cross_entropy: 0.080606609582901, bbox_loss: 0.08264867961406708, l_r: 0.001, fg_num: 1162, bg_num: 3958
+step: 502, time: 624.9518337249756s, batch_shape: (10, 720, 960, 3), loss: 13.871756553649902, cls_cross_entropy: 0.09232506155967712, bbox_loss: 0.08809002488851547, l_r: 0.001, fg_num: 1045, bg_num: 4075
+step: 503, time: 626.1513748168945s, batch_shape: (10, 720, 960, 3), loss: 13.834714889526367, cls_cross_entropy: 0.08841487765312195, bbox_loss: 0.0866529792547226, l_r: 0.001, fg_num: 1680, bg_num: 3440
+step: 504, time: 627.3491706848145s, batch_shape: (10, 720, 960, 3), loss: 13.828465461730957, cls_cross_entropy: 0.1052868664264679, bbox_loss: 0.10506412386894226, l_r: 0.001, fg_num: 1507, bg_num: 3613
+step: 505, time: 628.6124544143677s, batch_shape: (10, 720, 960, 3), loss: 13.740030288696289, cls_cross_entropy: 0.06178603693842888, bbox_loss: 0.07963193953037262, l_r: 0.001, fg_num: 856, bg_num: 4264
+step: 506, time: 629.8699922561646s, batch_shape: (10, 720, 960, 3), loss: 13.723408699035645, cls_cross_entropy: 0.07849082350730896, bbox_loss: 0.07719535380601883, l_r: 0.001, fg_num: 1177, bg_num: 3943
+step: 507, time: 631.1035680770874s, batch_shape: (10, 720, 960, 3), loss: 13.70849609375, cls_cross_entropy: 0.09582000970840454, bbox_loss: 0.07669688761234283, l_r: 0.001, fg_num: 1238, bg_num: 3882
+step: 508, time: 632.3322427272797s, batch_shape: (10, 720, 960, 3), loss: 13.638344764709473, cls_cross_entropy: 0.06112692132592201, bbox_loss: 0.06958942860364914, l_r: 0.001, fg_num: 1212, bg_num: 3908
+step: 509, time: 633.5926837921143s, batch_shape: (10, 720, 960, 3), loss: 13.700298309326172, cls_cross_entropy: 0.13689455389976501, bbox_loss: 0.10559751838445663, l_r: 0.001, fg_num: 1389, bg_num: 3731
